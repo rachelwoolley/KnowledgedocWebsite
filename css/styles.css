@@ -1,0 +1,943 @@
+/* -----------------------------------
+Basic rules
+----------------------------------- */
+
+body
+{
+    margin: 0;
+    padding: 0;
+    color: #000;
+    background: #fff;
+    font: 100%/1.4 helvetica, arial, sans-serif;
+
+}
+
+
+
+/*----------------------------------
+ Narrow Screen
+ ----------------------------------*/
+
+#mastheadSpan{max-width:100%;}
+#masthead{max-width: 100%;}
+
+
+
+/*------  Navigation  -------*/
+nav ul
+{
+    margin:0;
+    padding:0;
+    width:100%;
+    display:block;
+    list-style:none;
+    line-height:1;
+    font-size:110%;
+
+
+}
+nav li{display:block; }
+
+nav a
+{
+    display:block;
+    padding:0.5em;
+    border-bottom: 1px solid #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    color:#fff;
+    background-color: #D00000 ;
+    background-image: linear-gradient(#f30000 0%, #D00000 100% );
+}
+
+
+
+nav a.topMenu
+{
+    color:#fff;
+    background-color: #D00000 ;
+    background-image: linear-gradient(#f30000 0%, #D00000 100% );
+}
+
+nav a:focus
+{
+    background-color: #4e4e4e;
+    background-image: linear-gradient(#4e4e4e 0%, #4e4e4e 100% )
+}
+nav a:hover {
+    background-color: #000000;
+    background-image: linear-gradient(#000 0%, #000000 100% );
+    color:white;
+}
+nav a:active
+{
+    background-color: red ;
+    background-image: linear-gradient(red 0%, red 100% )
+}
+
+nav li ul ul a, nav ul ul ul a
+{
+    background: #850000  linear-gradient(#9d0000 0%, #850000 100% );
+    padding:0.5em 0.5em 0.5em 2em;
+    font-size:90%;
+}
+
+nav a{background-color: #D00000 ;}
+nav ul ul ul a {background: #850000;}
+
+
+
+
+nav li ul ul a:hover{background-color: #000000;}
+.hidden{display: none;}
+.visible{display: block;}
+
+
+ .arrow{
+    display: inline;
+    float: right;
+    max-width:100%;
+    max-height:2em;
+    vertical-align: middle;
+    padding:0;
+}
+
+/* ------ Flowcharts ------ */
+ul.flowchart
+{
+    margin:0;
+    padding:0;
+    width:100%;
+    display:block;
+    list-style:none;
+}
+.flowchart li{display: block;}
+
+.flowchart a
+{
+    display:block;
+    padding:0.5em;
+    color: #414141;
+    background-color: #D00000 ;
+    background-image: linear-gradient(#d9f3f6 0%, #bad8dc 100% );
+
+    border-bottom: 1px solid #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 90%;
+}
+
+.flowchart a:hover
+{
+    display:block;
+    padding:0.5em;
+    color: #000000;
+    background-image: linear-gradient(#d1eaed 0%, #b2cfd3 100% );
+
+    border-bottom: 1px solid #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 90%;
+}
+
+ul.flowchart ul
+{
+    margin:0;
+    padding:0;
+    width:100%;
+    display:block;
+    list-style:none;
+}
+
+ul.flowchart ul.hidden{display: none;}
+
+ul.flowchart li{display: block;}
+
+ul.flowchart ul li
+{
+    display:block;
+    padding:0.5em;
+    color: #414141;
+    background-color: #D00000 ;
+    background-image: linear-gradient(#edf5f8 0%, #ececf6 100% );
+    border-bottom: 1px solid #ffffff;
+    text-decoration: none;
+    font-size: 80%;
+}
+
+
+
+/* ----- Secondary Navigation ------ */
+#secondary
+{
+    padding:0.5em;
+}
+
+#secondary a
+{
+    font-weight: bold;
+
+    background: #e6e6e1 linear-gradient(#fbfbf5 0%, #eeeee9 100%);
+    border-radius: 11px;
+    border:1px solid #ababab;
+    color: #1e1e1e;
+    padding:0.4em;
+    max-width: 15em;
+    text-align: center;
+
+}
+#secondary a:hover, #secondary a:focus
+{
+
+    background-color: #ae0001;
+    background-image: linear-gradient(#c20001 0%, #ae0001 100%);
+    color:#FFffff;
+    border: 1px solid #ae0001;
+    }
+
+/*Side Navigation*/
+.sideNavigation{background: none; padding:0;}
+.sideNavigation ul {padding:0; margin:0.5em; display: inline-block;}
+.sideNavigation a
+{
+    font-weight:700;
+    /*Light blue-grey
+    background: #9de1f4 linear-gradient(#e3f1f4 0%, #d4dbde 100%);
+    color: #000000;
+    border:1px solid #8794a3;
+    */
+    /* Dark purple
+    background: #6b0e90 linear-gradient(#6b0e90 0%, #7b10a5 100%);
+    color: white;
+    border:1px solid #280536;
+    */
+    /*Orange*/
+    background: #c14528 linear-gradient(#ff853d 0%, #e76d39 100%);
+    color: white;
+    border:1px solid #db4e2d;
+
+    /*Burgundy
+    background: #8c0910 linear-gradient(#8c0910 0%, #7c080f 100%);
+    color: white;
+    border:1px solid #6c070d;
+    */
+
+    border-radius: 11px;
+    padding:0.4em;
+    max-width: 100%;
+    text-align: center;
+}
+
+/* ------ Main Content ----- */
+.mainContent{padding:1em 0.5em 0.5em;}
+.mainContentNoAside{padding: 0.5em}
+
+
+/* ---- Headings ----- */
+
+h1
+{
+    background: url(../images/heading_logo.jpg) no-repeat ;
+    font-size:145%;
+    margin-bottom: 0.3em;
+}
+h1 #head
+{
+    margin-left:1.5em;
+    border-bottom: 2px solid  #D00000 ;
+    display: block;
+    max-width:40em;
+
+}
+
+h2{
+    color:#ED1B2F;
+    font-size: 120%;
+}
+
+h4
+ {
+     color: #3b3b3b;
+     font-size: 100%;
+    margin-bottom: 0;
+ }
+
+h3
+{
+    color:#ED1B2F;
+    font-size: 100%;
+}
+/* Links  */
+a {color:#666666}
+a:hover{color: #ED1B2F}
+
+a.skip
+{
+    color:#000000;
+    text-decoration: none;
+}
+a:hover.skip{color: #ED1B2F}
+a:hover.skipResult{color:#666666}
+
+h3 a, h3 a:hover.skipResult{color: #ED1B2F;}
+
+
+
+/* ----- Aside ------ */
+
+aside
+{
+    background-color: #eaeaea;
+    padding:0.5em;
+}
+aside h3{margin:0.2em;}
+aside p{margin:0.2em;}
+aside ul{margin: 0.2em;}
+
+/* ----- Form ----- */
+.row-form
+{
+    clear: left;
+    overflow: hidden;
+    margin: 0 0 .3em;
+}
+
+.input
+{
+    border-radius: 0.3em;
+    padding:2px;
+    border:1px solid #999;
+    max-width: 95%;
+}
+
+.label
+{
+    display: block;
+    margin: 0 0 .1em;
+}
+
+
+/* ------- Footer ----- */
+footer
+{
+    text-align:center;
+    background-color: #ffffff;
+    border-top:1.3em solid #D00000;
+    font-size: 70%;
+
+}
+
+
+
+#privacy{
+    color: #585858;
+    background-color: #d7d7d2;
+    text-align: center;
+    padding:0.3em;
+
+}
+
+#privacy a{
+    color: #303030;
+    text-decoration: none;
+}
+#privacy a:hover
+{
+    color:white;
+    text-decoration: underline;
+}
+
+
+
+/* Other */
+#overall
+{
+    max-width:48em;
+    margin: 0 auto;
+    border: 1px solid #999999;
+    overflow: hidden;
+
+}
+
+header
+{
+    max-width: 50em;
+    margin: 0 auto;
+
+    background: #FFffff;
+
+}
+header img
+{
+    max-width: 100%;
+    vertical-align: middle;
+    border:0;
+}
+
+.note{font-style:  italic;}
+
+/*Masthead*/
+@media(min-width: 28em)
+{
+    #mastheadSpan
+    {background: linear-gradient(#f1f1f1 0%,#ffffff 40%, #ffffff 100%);}
+}
+@media(min-width:46em)
+{
+    #mastheadSpan
+    {
+        background:
+            url(../images/mhead_r.jpg) no-repeat top right,
+            linear-gradient(#f1f1f1 0%,#ffffff 40%, #ffffff 100%);
+    }
+}
+
+
+/* -----------------------------------
+Medium screen
+----------------------------------- */
+@media (min-width: 30em ) and (max-width: 45em) {
+
+    aside{overflow: hidden;}
+
+
+    #asidecol1, #asidecol2
+    {
+        float: left;
+        max-width: 47.5%;
+    }
+    #asidecol2{margin-left: 5%}
+
+    footer{clear:both;}
+    .mainParagraphs{clear: left;}
+}
+
+
+
+/* -----------------------------------
+Wide screen
+----------------------------------- */
+body{font-size: 100%}
+
+@media (min-width: 43em)
+{
+    /* Navigation  */
+
+    .arrow{display: none;}
+    .menu-button{display:none;}
+    .top{display: block;}
+
+    nav
+    {
+
+        float: left;
+        width:100%;
+        background-color: #c10000;
+        background-image: linear-gradient(#f30000 0%, #D00000 100% );
+        font-size: 90%;
+    }
+
+    nav a
+    {
+
+        float: left;
+        padding: .5em .5em;
+        border-bottom: 0;
+        border-right: 1px solid #fff;
+        font-weight: normal;
+        /* font-weight: bold; */
+    }
+
+    nav ul ul ul a
+    {
+        padding: .5em .5em;
+        border-bottom: 0;
+        border-right: 1px solid #fff;
+    }
+
+
+/* -------------------------
+Dropdown navigation
+--------------------------*/
+    .dropdown
+    {
+        float: none;
+        position: absolute;
+        clear:left;
+
+    }
+
+    .hidden{display: block;}
+    .visible{display: block;}
+
+    ul ul li ul li {display: none;}
+    ul ul li:hover ul li {display: block;}
+
+
+    .dropdown a
+    {
+        position:absolute;
+        border-top: 1px solid #fff;
+    }
+
+    .drop1{top: 1.95em;}
+    .drop2{top: 3.95em;}
+    .drop3{top: 5.95em;}
+    .drop4{top: 7.95em;}
+    .drop5{top:9.95em;}
+
+    .documentation
+    {
+        left:3.7em;
+        width:12em;
+    }
+    .other
+    {
+        left:15.55em;
+        width:10em;
+    }
+    .about
+    {
+        left:23.2em;
+        width:10em;
+    }
+    /*-------Flowcharts -----*/
+
+    .flowchart
+    {
+        float: left;
+        width:100%;
+        font-size: 90%;
+    }
+    .flowchart a
+    {
+        float: left;
+        display:block;
+        max-width:10em;
+        margin:0 0.5em 0.5em 0.5em;
+        padding: 0.7em;
+        border: 1px solid #000;
+
+        /* font-weight: bold; */
+    }
+
+
+
+    .flowchart a:hover
+    {
+        margin:0 0.5em 0.5em 0.5em;
+        padding: 0.7em;
+        border: 1px solid #000;
+        background-image: linear-gradient(#58abc1 0%, #5aafc8 100% );
+        /* font-weight: bold; */
+    }
+
+
+
+    ul.flowchart li:hover ul {display: block;}
+
+    #flow1,#flow2, #flow3, #flow4
+    {
+        float: none;
+        position:relative;
+        max-width:25em;
+        font-size:95%;
+        border:1px solid black;
+        color:black;
+    }
+
+
+    #flow1{left:2.9em;}
+    #flow2{left:14.8em;}
+    #flow3{left:21.85em;}
+    #flow4{left:32.4em;}
+
+    .tooltipcontainer, .tipcontainer {
+        position: relative;
+    }
+
+    .tooltip {
+        display: block;
+        font-size: smaller;
+        left: -0.5em;
+        padding: 5px;
+        position: absolute;
+        top: 0;
+        width: 15em;
+        z-index: 1;
+        background: #f0f3ef;
+        color: #2E2E33;
+        min-width:20em;
+        border:1px solid black;
+    }
+
+
+/*Other */
+
+
+    #content
+    {
+        float: left;
+        max-width: 100%;
+    }
+    .mainContentNoAside
+    {
+        float: left;
+        max-width:100%;
+    }
+    .mainParagraphs{clear: left;}
+
+
+    #overall
+    {
+        max-width:60em;
+        margin: 0 auto;
+        border: 1px solid #999999;
+        overflow: hidden;
+
+    }
+
+    header
+    {
+        max-width: 60em;
+        margin: 0 auto;
+
+        background: #FFffff;
+    }
+
+    header img
+
+    {
+        max-width: 100%;
+        vertical-align: middle;
+        border:0;
+    }
+
+    .input{ display: block;}
+
+}
+
+/* Footer  */
+@media(min-width: 35em)
+{
+    footer
+    {
+        clear:left;
+        max-width:90em;
+        text-align: left;
+    }
+    #logo{float: left;}
+}
+
+
+
+/* Secondary Navigation */
+
+@media(min-width: 41.5em)
+{
+
+    #secondary
+    {
+        background: #FFffff;
+        border-radius: 3px;
+        padding: 0 ;
+        margin:3px;
+        float: left;
+        width:97%;
+    }
+
+
+    #secondary ul
+    {
+        padding:0;
+    }
+    #secondary li
+    {
+        padding:0;
+    }
+
+    #secondary a
+    {
+        float: left;
+        font-size: 85%;
+        background: none;
+        color: #525252;
+        border: none;
+
+    }
+    #secondary a:hover, #secondary a:focus{ border:0;}
+
+    #secondary a:hover, #secondary a:focus
+    {
+        background-color: #ae0001;
+        color:#FFffff;
+    }
+    #secondary h3
+    {
+
+        text-align: center;
+        line-height: 1;
+        font-size: 120%;
+        font-weight: bold;
+        margin: 0.3em;
+
+    }
+
+}
+
+@media(min-width: 41.5em) and (max-width:48.3em)
+{
+   nav#secondary a{font-size:70%;}
+}
+
+/* -----------------------------------
+Medium-Wide screen - Aside drops
+----------------------------------- */
+@media (min-width: 45.1em)
+{
+    #contentFooter{
+        display: inline-block;
+        max-width: 100%;
+        background-color: #fff;
+    }
+
+    #content
+    {
+        float: left;
+        max-width: 100%;
+    }
+
+    .mainContent
+    {
+        float: left;
+        max-width: 62.5%;
+
+    }
+    .mainParagraphs{clear: left;}
+
+    aside
+    {
+        max-width:27.5%;
+        float: right;
+        border:1px solid black;
+        border-radius: 5px;
+        margin:10px;
+    }
+}
+
+
+/* ------------------------------------------
+Development width helper
+-------------------------------------------*/
+/* -----------------------------------
+Initial pseudo-element
+----------------------------------- */
+body:before
+{
+    position:absolute;
+    top:0;
+    right:0;
+    padding:0.5em;
+    color:white;
+    font-size:200%;
+}
+
+/* -----------------------------------
+Pseudo-elements in media queries
+----------------------------------- */
+@media (min-width: 20em) and (max-width:21em)
+{
+    body:before
+    {
+        content: "20em";
+        background-color: #00c800;
+    }
+}
+@media (min-width: 21em) and (max-width:22em)
+{
+    body:before
+    {
+        content: "21em";
+        background-color: #01c168;
+    }
+}
+@media (min-width: 22em) and (max-width:23em)
+{
+    body:before
+    {
+        content: "22em";
+        background-color: #00c688;
+    }
+}
+@media (min-width: 23em) and (max-width:24em)
+{
+    body:before
+    {
+        content: "23em";
+        background-color: #05dfaa;
+    }
+}
+@media (min-width: 24em) and (max-width:25em)
+{
+    body:before
+    {
+        content: "24em";
+        background-color: #00f5ca;
+    }
+}
+@media (min-width: 25em) and (max-width:26em)
+{
+    body:before
+    {
+        content: "25em";
+        background-color: #00f4f4;
+    }
+}
+@media (min-width: 26em) and (max-width:27em)
+{
+    body:before
+    {
+        content: "26em";
+        background-color: #00d3fd;
+    }
+}
+@media (min-width: 27em) and (max-width:28em)
+{
+    body:before
+    {
+        content: "27em";
+        background-color: #00a3ff;
+    }
+}
+@media (min-width: 28em) and (max-width:29em)
+{
+    body:before
+    {
+        content: "28em";
+        background-color: #0398ed;
+    }
+}
+@media (min-width: 29em) and (max-width:30em)
+{
+    body:before
+    {
+        content: "29em";
+        background-color: #0282e1;
+    }
+}
+@media (min-width: 30em) and (max-width:31em)
+{
+    body:before
+    {
+        content: "30em";
+        background-color: blue;
+    }
+}
+@media (min-width: 31em) and (max-width:32em)
+{
+    body:before
+    {
+        content: "31em";
+        background-color: #5000ff;
+    }
+}
+@media (min-width: 32em) and (max-width:33em)
+{
+    body:before
+    {
+        content: "32em";
+        background-color: #6400ff;
+    }
+}
+@media (min-width: 33em) and (max-width:34em)
+{
+    body:before
+    {
+        content: "33em";
+        background-color: #8300ff;
+    }
+}
+@media (min-width: 34em) and (max-width:35em)
+{
+    body:before
+    {
+        content: "34em";
+        background-color: #7b00ff;
+    }
+}
+@media (min-width: 35em) and (max-width:36em)
+{
+    body:before
+    {
+        content: "35em";
+        background-color: #a205ff;
+    }
+}
+@media (min-width: 36em) and (max-width:37em)
+{
+    body:before
+    {
+        content: "36em";
+        background-color: #b800ff;
+    }
+}
+@media (min-width: 37em) and (max-width:38em)
+{
+    body:before
+    {
+        content: "37em";
+        background-color: #c200ff;
+    }
+}
+@media (min-width: 38em) and (max-width:39em)
+{
+    body:before
+    {
+        content: "38em";
+        background-color: #d000ff;
+    }
+}
+@media (min-width: 39em) and (max-width:40em)
+{
+    body:before
+    {
+        content: "39em";
+        background-color: #df00ff;
+    }
+}
+@media (min-width: 40em) and (max-width:45em)
+{
+    body:before
+    {
+        content: "40em-45em";
+        background-color: #ff00ff;
+    }
+}
+@media (min-width: 45em) and (max-width:50em)
+{
+    body:before
+    {
+        content: "45em-50em";
+        background-color: #ff0f84;
+    }
+}
+
+
+@media (min-width: 50em) and (max-width:60em)
+{
+    body:before
+    {
+        content: "50em-60em";
+        background-color: orange;
+    }
+}
+@media (min-width: 60em) and (max-width:70em)
+{
+    body:before
+    {
+        content: "60em-70em";
+        background-color: olive;
+    }
+}
+
+
