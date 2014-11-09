@@ -6,72 +6,84 @@ var FlowchartDropDown =
 {
     init: function()
     {
-        //wrap links in spans
-        var links = $("a");
 
-            for (var i= 0, ii=links.length; i<ii; i++)
+        var flowchartLinks = $(".flowchartLink");
+
+        for (var i=0, ii=flowchartLinks.length; i<ii; i++)
+        {
+            $(flowchartLinks[i]).bind("click", FlowchartDropDown.dropDownListener);
+        }
+
+       /* $(".flowchartLink").click(FlowchartDropDown.dropDown());
+
+        /*
+        var links = $(".flowchartLink");
+        for (i=0, ii=links.length; i<ii; i++)
+        {
+            links[i].appendChild("span");
+        }
+
+        /*
+        var listItems= $("li");
+
+        for (i=0, ii=listItems.length; i<ii; i++)
+        {
+
+            if (listItems[i].parentNode.hasClass("flowchart"))
             {
-                if (links[i].title && links[i].title.length > 0)
-                {
-                    var tipContainer = document.createElement("span");
-                    tipContainer.className =links[i].className + " tipcontainer";
+                var flowchartBox = listItems[i].childNodes;
+                $(listItems[i]).bind("click", FlowchartDropDown.dropDownListener)
 
-                    links[i].parentNode.replaceChild(tipContainer, links[i]);
-                    tipContainer.appendChild(links[i]);
-                    //run showTip in response to mouseover events
-                    //run hideTip in response to mouseout events
-                    //run showTip in response to focus events
-                    //run hideTip in response to blur events
 
-                    $(links[i]).bind("mouseover", FlowchartDropDown .showTipListener);
-                    $(links[i]).bind("mouseout", FlowchartDropDown .hideTipListener);
-                    $(links[i]).bind("focus", FlowchartDropDown .showTipListener);
-                    $(links[i]).bind("blur", FlowchartDropDown .hideTipListener);
-                }
             }
-
-
-    },
-    showTipListener: function(event)
-    {
-        FlowchartDropDown .showTip(this);
-        event.preventDefault() ;
-    },
-
-    hideTipListener: function(event)
-    {
-        FlowchartDropDown .hideTip(this);
-    },
-
-
-    showTip: function(link)
-    {
-        if (!link.nextSibling)
-        {
-            // insert a rich tooltip after the link
-            var tip = document.createElement("span");
-            tip.className = "tooltip";
-            var tipText = document.createTextNode(link.title);
-            tip.appendChild(tipText);
-            link.parentNode.appendChild(tip);
-            link.title="";
+            else if (listItems[i].parentNode.hasClass("flowchartInfo"))
+            {
+                var flowchartInformation = listItems[i]
+            }
         }
+        */
+
+
     },
 
-    hideTip: function(link)
+    dropDownListener: function(event)
     {
-        // remove a rich tooltip after the link
-        if (link.nextSibling)
+        if ()
+        FlowchartDropDown.dropDown(this);
+    },
+
+    dropDown: function (link)
+    {
+
+        /*var links=link;
+        links.removeClass('flowchartLink');*/
+
+        var boxNumber = link.attr('class');
+
+        var flowchartInfos= $("li.flowchartInfo");
+        if (flowchartInfos.hasClass(boxNumber))
         {
-            var tip = link.nextSibling;
-            link.title = tip.firstChild.nodeValue;
-            link.parentNode.removeChild(tip);
+            if(flowchartInfos.hasClass(hidden))
+            {
+                flowchartInfos.removeClass('hidden');
+                flowchartInfos.addClass('visible');
+
+
+            }
+            else if (flowchartInfos.hasClass('visible'))
+            {
+                flowchartInfos.removeClass('visible');
+                flowchartInfos.addClass('hidden');
+            }
         }
+
 
     }
+
+
 };
 
-FlowchartDropDown .init();
+FlowchartDropDown.init();
 
 
 

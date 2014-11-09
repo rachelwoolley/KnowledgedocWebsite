@@ -32,7 +32,7 @@ nav ul
     display:block;
     list-style:none;
     line-height:1;
-    font-size:110%;
+    font-size:115%;
 
 
 }
@@ -103,6 +103,7 @@ nav li ul ul a:hover{background-color: #000000;}
 }
 
 /* ------ Flowcharts ------ */
+
 ul.flowchart
 {
     margin:0;
@@ -111,6 +112,7 @@ ul.flowchart
     display:block;
     list-style:none;
 }
+
 .flowchart li{display: block;}
 
 .flowchart a
@@ -127,6 +129,7 @@ ul.flowchart
     font-size: 90%;
 }
 
+
 .flowchart a:hover
 {
     display:block;
@@ -139,6 +142,7 @@ ul.flowchart
     font-weight: bold;
     font-size: 90%;
 }
+
 
 ul.flowchart ul
 {
@@ -164,6 +168,7 @@ ul.flowchart ul li
     text-decoration: none;
     font-size: 80%;
 }
+
 
 
 
@@ -434,7 +439,7 @@ body{font-size: 100%}
         width:100%;
         background-color: #c10000;
         background-image: linear-gradient(#f30000 0%, #D00000 100% );
-        font-size: 90%;
+        font-size: 70%;
     }
 
     nav a
@@ -517,59 +522,62 @@ Dropdown navigation
         margin:0 0.5em 0.5em 0.5em;
         padding: 0.7em;
         border: 1px solid #000;
-
-        /* font-weight: bold; */
     }
 
-
-
-    .flowchart a:hover
+    .flowchart a:hover, .flowchartLink.active
     {
+        color:black;
         margin:0 0.5em 0.5em 0.5em;
         padding: 0.7em;
         border: 1px solid #000;
+        background-color: #58ABC1;
         background-image: linear-gradient(#58abc1 0%, #5aafc8 100% );
-        /* font-weight: bold; */
     }
-
-
 
     ul.flowchart li:hover ul {display: block;}
 
-    #flow1,#flow2, #flow3, #flow4
-    {
-        float: none;
-        position:relative;
-        max-width:25em;
-        font-size:95%;
-        border:1px solid black;
-        color:black;
-    }
 
 
-    #flow1{left:2.9em;}
-    #flow2{left:14.8em;}
-    #flow3{left:21.85em;}
-    #flow4{left:32.4em;}
-
-    .tooltipcontainer, .tipcontainer {
-        position: relative;
-    }
 
     .tooltip {
         display: block;
         font-size: smaller;
-        left: -0.5em;
+        left: 14em;
         padding: 5px;
         position: absolute;
-        top: 0;
-        width: 15em;
+        top: -4em;
+        width: 33em;
         z-index: 1;
         background: #f0f3ef;
         color: #2E2E33;
         min-width:20em;
         border:1px solid black;
     }
+#flowchart
+{
+    overflow:hidden;
+    max-width:50em;
+    border:1px solid black;
+    background: #f6f6f6;
+}
+ul.flowchartInfo
+{
+    padding:0;
+}
+
+li.flowchartInfo
+{
+    display:block;
+    clear:left;
+    border:1px solid black;
+    color: black;
+    background-color: #58ABC1;
+    background-image: linear-gradient(#58abc1 0%, #5aafc8 100% );
+    padding:0.5em;
+    font-size:90%;
+    margin-left:0.4em;
+}
+li.flowchartInfo.hidden {display: none;}
 
 
 /*Other */
@@ -626,7 +634,12 @@ Dropdown navigation
         max-width:90em;
         text-align: left;
     }
-    #logo{float: left;}
+    #logo
+    {
+        float: left;
+        margin:0.5em;
+        max-width:100%;
+    }
 }
 
 
@@ -685,9 +698,9 @@ Dropdown navigation
 
 }
 
-@media(min-width: 41.5em) and (max-width:48.3em)
+@media(min-width: 41.5em) and (max-width:45.1em)
 {
-   nav#secondary a{font-size:70%;}
+   /* nav#secondary a{font-size:80%;}*/
 }
 
 /* -----------------------------------
