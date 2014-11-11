@@ -32,10 +32,14 @@ nav ul
     display:block;
     list-style:none;
     line-height:1;
-    font-size:115%;
+    font-size:125%;
 
 
 }
+
+nav a.menu-button{font-size: 135%}
+img#arrow1{max-height: 3em;}
+
 nav li{display:block; }
 
 nav a
@@ -79,7 +83,7 @@ nav li ul ul a, nav ul ul ul a
 {
     background: #850000  linear-gradient(#9d0000 0%, #850000 100% );
     padding:0.5em 0.5em 0.5em 2em;
-    font-size:90%;
+    font-size:85%;
 }
 
 nav a{background-color: #D00000 ;}
@@ -259,6 +263,11 @@ h2{
     color:#ED1B2F;
     font-size: 120%;
 }
+h3
+{
+    color:#ED1B2F;
+    font-size: 100%;
+}
 
 h4
  {
@@ -267,11 +276,19 @@ h4
     margin-bottom: 0;
  }
 
-h3
+hgroup h2
 {
-    color:#ED1B2F;
-    font-size: 100%;
+    margin-bottom: 0;
 }
+
+hgroup h3
+{
+    color: #5d5d5d;
+    margin-top: 0;
+    font-size: 90%;
+}
+
+
 /* Links  */
 a {color:#666666}
 a:hover{color: #ED1B2F}
@@ -381,6 +398,65 @@ header img
 
 .note{font-style:  italic;}
 
+/*------ IFrame -------*/
+iframe
+{
+    max-width: 40em;
+    height: 20em;
+    float: left;
+}
+div.iframe
+{
+    overflow: hidden;
+    padding:0.5em;
+    max-width: 30em;
+
+}
+.contactUs
+{
+    max-width:95%;
+}
+.contact
+{
+    background: #f1f1f1;
+    border: 3px solid #cacaca;
+    width:95%;
+    margin: 0.5em;
+    padding:0.5em;
+    float: left;
+}
+
+/* ---- Social Media Icons ----*/
+nav.social
+{
+    background:none;
+    font-size:100%;
+}
+ul.social a
+{
+    border: none;
+    background: none;
+
+    margin: 3px;
+    padding:0;
+}
+ul.social img
+{
+    border-radius:5px;
+}
+
+.socialIcon{
+    height:30px;
+    width:30px;
+}
+
+/* Contact details table --*/
+th
+{
+    vertical-align: top;
+    text-align: left;
+}
+
 /*Masthead*/
 @media(min-width: 28em)
 {
@@ -396,6 +472,7 @@ header img
             linear-gradient(#f1f1f1 0%,#ffffff 40%, #ffffff 100%);
     }
 }
+
 
 
 /* -----------------------------------
@@ -439,7 +516,7 @@ body{font-size: 100%}
         width:100%;
         background-color: #c10000;
         background-image: linear-gradient(#f30000 0%, #D00000 100% );
-        font-size: 70%;
+        font-size: 60%;
     }
 
     nav a
@@ -623,7 +700,170 @@ li.flowchartInfo.hidden {display: none;}
 
     .input{ display: block;}
 
+    /*------ IFrame -------*/
+    iframe
+    {
+        max-width: 40em;
+        height: 20em;
+        float: left;
+    }
+    div.iframe
+    {
+        overflow: hidden;
+        padding:0.5em;
+        width: 29em;
+        float: left;
+    }
+
+    .contactUs
+    {
+        overflow: hidden;
+        display: block;
+        max-width:80em;
+    }
+
 }
+
+/* ----- Contact us section surround ----- */
+@media(min-width:49em)
+{
+    .contact
+    {
+        background: #f1f1f1;
+        width:95%;
+        margin: 0.5em;
+        padding:0.5em;
+        float: left;
+    }
+}
+
+@media(min-width: 50em)
+{
+    .contact
+    {
+        background: #f1f1f1;
+        width:16em;
+        margin: 0.5em;
+        padding:0.5em;
+        float: left;
+    }
+}
+@media(min-width: 51em)
+{
+    .contact
+    {
+        background: #f1f1f1;
+        width:17em;
+        margin: 0.5em;
+        padding:0.5em;
+        float: left;
+    }
+}
+@media(min-width: 52em)
+{
+    .contact
+    {
+        background: #f1f1f1;
+        width:17em;
+        margin: 0.5em;
+        padding:0.5em;
+        float: left;
+    }
+}
+@media(min-width: 53em)
+{
+    .contact
+    {
+        background: #f1f1f1;
+        width:19em;
+        margin: 0.5em;
+        padding:0.5em;
+        float: left;
+    }
+}
+@media(min-width: 54em)
+{
+    .contact
+    {
+        background: #f1f1f1;
+        width:20em;
+        margin: 0.5em;
+        padding:0.5em;
+        float: left;
+    }
+}
+@media(min-width: 55em)
+{
+    .contact
+    {
+        background: #f1f1f1;
+        width:21em;
+        margin: 0.5em;
+        padding:0.5em;
+        float: left;
+    }
+}
+@media(min-width: 56em)
+{
+    .contact
+    {
+        background: #f1f1f1;
+        width:22em;
+        margin: 0.5em;
+        padding:0.5em;
+        float: left;
+    }
+}
+@media(min-width: 57em)
+{
+    .contact
+    {
+        background: #f1f1f1;
+        width:23em;
+        margin: 0.5em;
+        padding:0.5em;
+        float: left;
+    }
+}
+@media(min-width: 58em)
+{
+    .contact
+    {
+        background: #f1f1f1;
+        width:24em;
+        margin: 0.5em;
+        padding:0.5em;
+        float: left;
+    }
+}
+@media(min-width: 59em)
+{
+    .contact
+    {
+        background: #f1f1f1;
+        width:25em;
+        margin: 0.5em;
+        padding:0.5em;
+        float: left;
+    }
+}
+@media(min-width: 60em)
+{
+    .contact
+    {
+        background: #f1f1f1;
+        width:26em;
+        margin: 0.5em;
+        padding:0.5em;
+        float: left;
+    }
+}
+
+
+
+
+
+
 
 /* Footer  */
 @media(min-width: 35em)
@@ -745,6 +985,7 @@ Development width helper
 /* -----------------------------------
 Initial pseudo-element
 ----------------------------------- */
+/*
 body:before
 {
     position:absolute;
@@ -754,10 +995,12 @@ body:before
     color:white;
     font-size:200%;
 }
+*/
 
 /* -----------------------------------
 Pseudo-elements in media queries
 ----------------------------------- */
+/*
 @media (min-width: 20em) and (max-width:21em)
 {
     body:before
@@ -952,5 +1195,7 @@ Pseudo-elements in media queries
         background-color: olive;
     }
 }
+
+*/
 
 
