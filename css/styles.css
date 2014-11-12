@@ -207,6 +207,7 @@ ul.flowchart ul li
 
 
 /* ----- Secondary Navigation ------ */
+
 #secondary
 {
     padding:0.5em;
@@ -216,56 +217,40 @@ ul.flowchart ul li
 {
     font-weight: bold;
 
-    background: #e6e6e1 linear-gradient(#fbfbf5 0%, #eeeee9 100%);
-    border-radius: 11px;
-    border:1px solid #ababab;
-    color: #1e1e1e;
+    background: white;
+    border:1px solid #323232;
+    color: #323232;
     padding:0.4em;
     max-width: 15em;
     text-align: center;
+    font-size: 80%;
 
 }
+
+
+
 #secondary a:hover, #secondary a:focus
 {
-
-    background-color: #ae0001;
-    background-image: linear-gradient(#c20001 0%, #ae0001 100%);
+    border:1px solid #000000;
+    background: #000000;
     color:#FFffff;
-    border: 1px solid #ae0001;
-    }
-
-/*Side Navigation*/
-.sideNavigation{background: none; padding:0;}
-.sideNavigation ul {padding:0; margin:0.5em; display: inline-block;}
-.sideNavigation a
-{
-    font-weight:700;
-    /*Light blue-grey
-    background: #9de1f4 linear-gradient(#e3f1f4 0%, #d4dbde 100%);
-    color: #000000;
-    border:1px solid #8794a3;
-    */
-    /* Dark purple
-    background: #6b0e90 linear-gradient(#6b0e90 0%, #7b10a5 100%);
-    color: white;
-    border:1px solid #280536;
-    */
-    /*Orange*/
-    background: #c14528 linear-gradient(#ff853d 0%, #e76d39 100%);
-    color: white;
-    border:1px solid #db4e2d;
-
-    /*Burgundy
-    background: #8c0910 linear-gradient(#8c0910 0%, #7c080f 100%);
-    color: white;
-    border:1px solid #6c070d;
-    */
-
-    border-radius: 11px;
-    padding:0.4em;
-    max-width: 100%;
-    text-align: center;
 }
+
+
+#secondary a.open
+{
+    color:white;
+    background: maroon;
+    border:1px solid maroon;
+}
+#secondary a.open:hover, #secondary a.open:focus
+{
+    color:white;
+    background: maroon;
+    border:1px solid maroon;
+}
+
+
 
 /* ------ Main Content ----- */
 .mainContent{padding:1em 0.5em 0.5em;}
@@ -316,6 +301,14 @@ hgroup h3
     color: #5d5d5d;
     margin-top: 0;
     font-size: 90%;
+}
+
+#synergeticHeading
+{
+    background: url(../images/SynergeticLogoSymbol.gif) no-repeat center left;
+    background-size:28px;
+    padding-left: 1.8em;
+    color: rgb(52,154,154);
 }
 
 
@@ -428,6 +421,8 @@ header img
 
 .note{font-style:  italic;}
 
+#masthead{margin-left:1em;}
+
 /*------ IFrame -------*/
 iframe
 {
@@ -478,6 +473,8 @@ ul.social img
 .socialIcon{
     height:30px;
     width:30px;
+    margin-right: 0.8em;
+
 }
 
 /* Contact details table --*/
@@ -935,7 +932,7 @@ border: 0;
 
     #secondary
     {
-        background: #FFffff;
+        background: none;
         border-radius: 3px;
         padding: 0 ;
         margin:3px;
@@ -955,18 +952,19 @@ border: 0;
 
     #secondary a
     {
-        float: left;
-        font-size: 85%;
-        background: none;
-        color: #525252;
-        border: none;
+        float: none;
+        font-size: 80%;
+        background: white;
+        color: #323232;
+        border: 1px solid #525252;
+        border-radius: 0;
 
     }
-    #secondary a:hover, #secondary a:focus{ border:0;}
 
     #secondary a:hover, #secondary a:focus
     {
-        background-color: #ae0001;
+        border:1px solid #000000;
+        background: #000000;
         color:#FFffff;
     }
     #secondary h3
@@ -978,6 +976,19 @@ border: 0;
         font-weight: bold;
         margin: 0.3em;
 
+    }
+
+    #secondary a.open
+    {
+        color:white;
+        background: maroon;
+        border:1px solid maroon;
+    }
+    #secondary a.open:hover, #secondary a.open:focus
+    {
+        color:white;
+        background: maroon;
+        border:1px solid maroon;
     }
 
 }
