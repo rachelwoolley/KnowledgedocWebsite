@@ -1,92 +1,48 @@
 /**
- * Created by WS8 on 28/10/14.
+ * Created by WS8 on 5/11/14.
  */
 
 var FlowchartDropDown =
+
 {
-    init: function()
+    init:function()
     {
+        var links = $("a.flowchartLink");
+        var info = links.parent().next().next().next().next();
 
-        var flowchartLinks = $(".flowchartLink");
 
-        for (var i=0, ii=flowchartLinks.length; i<ii; i++)
+        for(var i=0, ii=links.length; i<ii; i++)
         {
-            $(flowchartLinks[i]).bind("click", FlowchartDropDown.dropDownListener);
-        }
-
-       /* $(".flowchartLink").click(FlowchartDropDown.dropDown());
-
-        /*
-        var links = $(".flowchartLink");
-        for (i=0, ii=links.length; i<ii; i++)
-        {
-            links[i].appendChild("span");
-        }
-
-        /*
-        var listItems= $("li");
-
-        for (i=0, ii=listItems.length; i<ii; i++)
-        {
-
-            if (listItems[i].parentNode.hasClass("flowchart"))
+            $(links[i]).click(function()
             {
-                var flowchartBox = listItems[i].childNodes;
-                $(listItems[i]).bind("click", FlowchartDropDown.dropDownListener)
 
+                var info = $(this).parent().next().next().next().next();
+                if($(this).hasClass('active'))
+                {
+                    $(this).addClass('inactive');
+                    $(this).removeClass('active');
+                    info.addClass('hidden');
+                    info.removeClass('visible');
+                }
+                else
+                {
+                    $(this).addClass('active');
+                    $(this).removeClass('inactive');
+                    info.addClass('visible');
+                    info.removeClass('hidden');
 
-            }
-            else if (listItems[i].parentNode.hasClass("flowchartInfo"))
-            {
-                var flowchartInformation = listItems[i]
-            }
+                    var box = info.siblings(".visible");
+                    box.addClass('hidden');
+                    box.removeClass('visible');
+                    var boxLink = box.prev().prev().prev().prev().children();
+                    boxLink.addClass('inactive');
+                    boxLink.removeClass('active');
+                }
+
+            });
         }
-        */
-
-
-    },
-
-    dropDownListener: function(event)
-    {
-        if ()
-        FlowchartDropDown.dropDown(this);
-    },
-
-    dropDown: function (link)
-    {
-
-        /*var links=link;
-        links.removeClass('flowchartLink');*/
-
-        var boxNumber = link.attr('class');
-
-        var flowchartInfos= $("li.flowchartInfo");
-        if (flowchartInfos.hasClass(boxNumber))
-        {
-            if(flowchartInfos.hasClass(hidden))
-            {
-                flowchartInfos.removeClass('hidden');
-                flowchartInfos.addClass('visible');
-
-
-            }
-            else if (flowchartInfos.hasClass('visible'))
-            {
-                flowchartInfos.removeClass('visible');
-                flowchartInfos.addClass('hidden');
-            }
-        }
-
 
     }
-
-
 };
 
 FlowchartDropDown.init();
-
-
-
-
-
-

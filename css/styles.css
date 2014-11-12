@@ -32,12 +32,12 @@ nav ul
     display:block;
     list-style:none;
     line-height:1;
-    font-size:125%;
+    font-size:115%;
 
 
 }
 
-nav a.menu-button{font-size: 135%}
+nav a.menu-button{font-size: 125%}
 img#arrow1{max-height: 3em;}
 
 nav li{display:block; }
@@ -90,8 +90,6 @@ nav a{background-color: #D00000 ;}
 nav ul ul ul a {background: #850000;}
 
 
-
-
 nav li ul ul a:hover{background-color: #000000;}
 .hidden{display: none;}
 .visible{display: block;}
@@ -108,6 +106,15 @@ nav li ul ul a:hover{background-color: #000000;}
 
 /* ------ Flowcharts ------ */
 
+.flowchart
+{
+    float: left;
+    width:100%;
+    font-size: 90%;
+
+}
+
+
 ul.flowchart
 {
     margin:0;
@@ -121,31 +128,54 @@ ul.flowchart
 
 .flowchart a
 {
+    float: left;
     display:block;
-    padding:0.5em;
+    max-width:10em;
+    padding:0.7em;
+    margin:0 0.5em 0.5em 0.5em;
     color: #414141;
-    background-color: #D00000 ;
+    background-color: #c4e4e8;
     background-image: linear-gradient(#d9f3f6 0%, #bad8dc 100% );
 
-    border-bottom: 1px solid #ffffff;
+    border: 1px solid #000;
     text-decoration: none;
     font-weight: bold;
     font-size: 90%;
 }
-
-
-.flowchart a:hover
+.flowchart a:hover, .flowchartLink.active
 {
     display:block;
-    padding:0.5em;
-    color: #000000;
-    background-image: linear-gradient(#d1eaed 0%, #b2cfd3 100% );
-
-    border-bottom: 1px solid #ffffff;
+    color:black;
+    margin:0 0.5em 0.5em 0.5em;
+    padding: 0.7em;
+    border: 1px solid #000;
+    background-color: #58ABC1;
+    background-image: linear-gradient(#58abc1 0%, #5aafc8 100% );
     text-decoration: none;
     font-weight: bold;
     font-size: 90%;
 }
+
+li.flowchartInfo
+{
+    display:block;
+    clear:left;
+    border:1px solid black;
+    color: black;
+    background-color: #58ABC1;
+    background-image: linear-gradient(#58abc1 0%, #5aafc8 100% );
+    padding:0.5em;
+    font-size:90%;
+    margin-left:0.4em;
+}
+
+
+.flowchartInfo.hidden
+{
+    display: none;
+}
+
+
 
 
 ul.flowchart ul
@@ -166,7 +196,7 @@ ul.flowchart ul li
     display:block;
     padding:0.5em;
     color: #414141;
-    background-color: #D00000 ;
+    background-color: #EDF5F8 ;
     background-image: linear-gradient(#edf5f8 0%, #ececf6 100% );
     border-bottom: 1px solid #ffffff;
     text-decoration: none;
@@ -265,7 +295,7 @@ h2{
 }
 h3
 {
-    color:#ED1B2F;
+    color:#B01C2A;
     font-size: 100%;
 }
 
@@ -509,6 +539,8 @@ body{font-size: 100%}
     .menu-button{display:none;}
     .top{display: block;}
 
+    #nav{font-size: 70%;}
+
     nav
     {
 
@@ -516,7 +548,7 @@ body{font-size: 100%}
         width:100%;
         background-color: #c10000;
         background-image: linear-gradient(#f30000 0%, #D00000 100% );
-        font-size: 60%;
+
     }
 
     nav a
@@ -536,6 +568,8 @@ body{font-size: 100%}
         border-bottom: 0;
         border-right: 1px solid #fff;
     }
+
+
 
 
 /* -------------------------
@@ -562,25 +596,25 @@ Dropdown navigation
         border-top: 1px solid #fff;
     }
 
-    .drop1{top: 1.95em;}
-    .drop2{top: 3.95em;}
-    .drop3{top: 5.95em;}
-    .drop4{top: 7.95em;}
-    .drop5{top:9.95em;}
+    .drop1{top: 2.1em;}
+    .drop2{top: 4.1em;}
+    .drop3{top: 6.1em;}
+    .drop4{top: 8.1em;}
+    .drop5{top: 10.1em;}
 
     .documentation
     {
-        left:3.7em;
+        left:3.8em;
         width:12em;
     }
     .other
     {
-        left:15.55em;
+        left:15.65em;
         width:10em;
     }
     .about
     {
-        left:23.2em;
+        left:23.35em;
         width:10em;
     }
     /*-------Flowcharts -----*/
@@ -705,7 +739,17 @@ li.flowchartInfo.hidden {display: none;}
     {
         max-width: 40em;
         height: 20em;
+border: 0;
+    }
+
+    .iframe
+    {
         float: left;
+    }
+
+    .iframeOffice
+    {
+        float: right;
     }
     div.iframe
     {
@@ -978,6 +1022,17 @@ Medium-Wide screen - Aside drops
     }
 }
 
+@media(max-width: 52em)
+{
+    .flowchart a
+    {
+        max-width:12em;
+        width:12em;
+        text-align: center;
+    }
+    .flowchartLink{width:11em;}
+}
+
 
 /* ------------------------------------------
 Development width helper
@@ -985,7 +1040,7 @@ Development width helper
 /* -----------------------------------
 Initial pseudo-element
 ----------------------------------- */
-/*
+
 body:before
 {
     position:absolute;
@@ -995,12 +1050,12 @@ body:before
     color:white;
     font-size:200%;
 }
-*/
+
 
 /* -----------------------------------
 Pseudo-elements in media queries
 ----------------------------------- */
-/*
+
 @media (min-width: 20em) and (max-width:21em)
 {
     body:before
@@ -1196,6 +1251,6 @@ Pseudo-elements in media queries
     }
 }
 
-*/
+
 
 
