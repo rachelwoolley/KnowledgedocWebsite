@@ -283,6 +283,10 @@ h3
     color:#B01C2A;
     font-size: 100%;
 }
+aside h3
+{
+    color:#ED1B2F;
+}
 
 h4
  {
@@ -291,16 +295,13 @@ h4
     margin-bottom: 0;
  }
 
-hgroup h2
-{
-    margin-bottom: 0;
-}
 
-hgroup h3
+
+h2 span
 {
     color: #5d5d5d;
     margin-top: 0;
-    font-size: 90%;
+    font-size: 85%;
 }
 
 #synergeticHeading
@@ -436,11 +437,11 @@ a.skip {
 
 }
 
-ol li{
+ol.methodology li{
     list-style: none;
 
 }
-ol
+ol.methodology
 {
     padding:0;
     background:
@@ -465,14 +466,6 @@ a.skip:hover
     background: #9d0000;
     color: #ffffff;
 }
-/*
-aside.fixed
-{
-    position: fixed;
-    top:10em;
-    right:5em;
-}
-*/
 
 /*------ IFrame -------*/
 iframe
@@ -644,11 +637,11 @@ Dropdown navigation
         border-top: 1px solid #fff;
     }
 
-    .drop1{top: 2.1em;}
-    .drop2{top: 4.1em;}
-    .drop3{top: 6.1em;}
-    .drop4{top: 8.1em;}
-    .drop5{top: 10.1em;}
+    .drop1{top: 2.05em;}
+    .drop2{top: 4.05em;}
+    .drop3{top: 6.05em;}
+    .drop4{top: 8.05em;}
+    .drop5{top: 10.05em;}
 
     .documentation
     {
@@ -1112,6 +1105,7 @@ body:before
     color:white;
     font-size:200%;
 }
+
 
 
 /* -----------------------------------
