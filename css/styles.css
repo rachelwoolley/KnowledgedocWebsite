@@ -392,8 +392,6 @@ footer
     text-decoration: underline;
 }
 
-
-
 /* Other */
 #overall
 {
@@ -422,6 +420,59 @@ header img
 .note{font-style:  italic;}
 
 #masthead{margin-left:1em;}
+
+a.skip {
+    border: 1px solid black;
+    padding: 0.5em;
+    display: block;
+    max-width: 15em;
+    text-align: center;
+    font-weight: bold;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 1.5em;
+    background: #4a4a4a;
+    color:white;
+
+}
+
+ol li{
+    list-style: none;
+
+}
+ol
+{
+    padding:0;
+    background:
+
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 3.8%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 12.5%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 21.2%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 32.6%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 41.3%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 52.8%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 61.5%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 70.2%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 78.9%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 87.6%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 96.3%;
+    /*19% - left aligned */
+
+}
+
+a.skip:hover
+{
+    background: #9d0000;
+    color: #ffffff;
+}
+/*
+aside.fixed
+{
+    position: fixed;
+    top:10em;
+    right:5em;
+}
+*/
 
 /*------ IFrame -------*/
 iframe
@@ -601,7 +652,7 @@ Dropdown navigation
 
     .documentation
     {
-        left:3.8em;
+        left:3.75em;
         width:12em;
     }
     .other
