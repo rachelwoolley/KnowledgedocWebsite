@@ -1,6 +1,19 @@
+
+
+
 /* -----------------------------------
 Basic rules
 ----------------------------------- */
+/*
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form,
+label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer,
+header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video
+{
+    font-size: 100%;
+}
+*/
+
 
 body
 {
@@ -23,7 +36,13 @@ body
 
 
 
+
 /*------  Navigation  -------*/
+
+
+
+
+
 nav ul
 {
     margin:0;
@@ -32,15 +51,18 @@ nav ul
     display:block;
     list-style:none;
     line-height:1;
-    font-size:115%;
+    font-size:110%;
 
 
 }
 
+/*
 nav a.menu-button{font-size: 125%}
 img#arrow1{max-height: 3em;}
+*/
 
 nav li{display:block; }
+
 
 nav a
 {
@@ -63,6 +85,7 @@ nav a.topMenu
     background-image: linear-gradient(#f30000 0%, #D00000 100% );
 }
 
+
 nav a:focus
 {
     background-color: #4e4e4e;
@@ -73,6 +96,7 @@ nav a:hover {
     background-image: linear-gradient(#000 0%, #000000 100% );
     color:white;
 }
+
 nav a:active
 {
     background-color: red ;
@@ -90,6 +114,7 @@ nav a{background-color: #D00000 ;}
 nav ul ul ul a {background: #850000;}
 
 
+
 nav li ul ul a:hover{background-color: #000000;}
 .hidden{display: none;}
 .visible{display: block;}
@@ -103,6 +128,7 @@ nav li ul ul a:hover{background-color: #000000;}
     vertical-align: middle;
     padding:0;
 }
+
 
 /* ------ Flowcharts ------ */
 
@@ -311,6 +337,10 @@ h2 span
     padding-left: 1.8em;
     color: rgb(52,154,154);
 }
+#synergeticLogo
+{
+    max-width: 100%;
+}
 
 
 /* Links  */
@@ -370,6 +400,7 @@ footer
     background-color: #ffffff;
     border-top:1.3em solid #D00000;
     font-size: 70%;
+    clear:both;
 
 }
 
@@ -420,7 +451,9 @@ header img
 
 .note{font-style:  italic;}
 
-#masthead{margin-left:1em;}
+#masthead{margin-left:0;}
+
+p, h2, h3, h4{padding: 0 0.2em;}
 
 a.skip {
     border: 1px solid black;
@@ -505,7 +538,7 @@ ul.social a
 {
     border: none;
     background: none;
-
+float: left;
     margin: 3px;
     padding:0;
 }
@@ -534,6 +567,7 @@ th
     #mastheadSpan
     {background: linear-gradient(#f1f1f1 0%,#ffffff 40%, #ffffff 100%);}
 }
+
 @media(min-width:46em)
 {
     #mastheadSpan
@@ -543,6 +577,8 @@ th
             linear-gradient(#f1f1f1 0%,#ffffff 40%, #ffffff 100%);
     }
 }
+
+
 
 
 
@@ -576,88 +612,103 @@ body{font-size: 100%}
 {
     /* Navigation  */
 
+
     .arrow{display: none;}
     .menu-button{display:none;}
     .top{display: block;}
 
-    #nav{font-size: 70%;}
-
-    nav
+    nav ul
     {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display:block;
 
-        float: left;
         width:100%;
+        font-size:100%;
+    }
+
+    ul.top
+    {
+        overflow: hidden;
+        background-color: #c10000;
+        background-image: linear-gradient(#f30000 0%, #D00000 100% );
+        width:100%;
+    }
+
+    ul.top li
+    {
+        float: left;
         background-color: #c10000;
         background-image: linear-gradient(#f30000 0%, #D00000 100% );
 
     }
 
-    nav a
+    ul.top li a
     {
+        display: block;
+        border-bottom: none;
+        color:white;
+        border-right:1px solid white;
+        text-decoration: none;
+        margin: 0;
+        padding:0.5em 0.5em;
 
-        float: left;
-        padding: .5em .5em;
-        border-bottom: 0;
-        border-right: 1px solid #fff;
-        font-weight: normal;
-        /* font-weight: bold; */
+        text-align: center;
+        background-color: #c10000;
+        background-image: linear-gradient(#f30000 0%, #D00000 100% );
+        font-weight:normal;
     }
 
-    nav ul ul ul a
+    ul.top a:hover
     {
-        padding: .5em .5em;
-        border-bottom: 0;
-        border-right: 1px solid #fff;
+        background: #000000;
+        color:#FFFFFF;
+        text-decoration:none;
     }
 
-
-
-
-/* -------------------------
-Dropdown navigation
---------------------------*/
-    .dropdown
+    ul.top li ul
     {
-        float: none;
-        position: absolute;
-        clear:left;
+        display:none;
 
-    }
-
-    .hidden{display: block;}
-    .visible{display: block;}
-
-    ul ul li ul li {display: none;}
-    ul ul li:hover ul li {display: block;}
-
-
-    .dropdown a
-    {
+        padding:0;
+        margin:0;
+        border:0;
         position:absolute;
-        border-top: 1px solid #fff;
+        z-index:200;
     }
 
-    .drop1{top: 2.05em;}
-    .drop2{top: 4.05em;}
-    .drop3{top: 6.05em;}
-    .drop4{top: 8.05em;}
-    .drop5{top: 10.05em;}
+    ul.top li:hover ul{
+        display:block;
+    }
+    ul.top li li {
+        display:block;
+        float:none;
+        margin:0;
+        padding:0;
+        width:13em;
 
-    .documentation
-    {
-        left:3.75em;
-        width:12em;
     }
-    .other
-    {
-        left:15.65em;
-        width:10em;
+    ul.top li li a {
+        font-size: 100%;
+        display:block;
+        float:none;
+        text-align: left;
+        background-color: #850000;
+        background-image:linear-gradient(#9d0000 0%, #850000 100% );
+        border-top:1px solid white ;
+        padding:0.5em 0.5em;
+
     }
-    .about
+
+    ul.dropdown
     {
-        left:23.35em;
-        width:10em;
+        background:none;
     }
+
+
+
+
     /*-------Flowcharts -----*/
 
     .flowchart
@@ -734,6 +785,8 @@ li.flowchartInfo.hidden {display: none;}
 
 /*Other */
 
+    #masthead{margin-left:0.5em;}
+
 
     #content
     {
@@ -807,7 +860,7 @@ border: 0;
         max-width:80em;
     }
 
-}
+
 
 /* ----- Contact us section surround ----- */
 @media(min-width:49em)
@@ -955,7 +1008,7 @@ border: 0;
 {
     footer
     {
-        clear:left;
+        clear:both;
         max-width:90em;
         text-align: left;
     }
