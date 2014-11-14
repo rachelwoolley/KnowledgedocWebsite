@@ -23,51 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="policiesAndProcedures.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/policiesAndProcedures.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="29" selection-start="1775" selection-end="1775" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="3944">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="caseStudies.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/caseStudies.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="25" selection-start="3558" selection-end="3572" vertical-scroll-proportion="-17.73077" vertical-offset="610" max-vertical-offset="2550">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aboutUs.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/aboutUs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="73" selection-start="4098" selection-end="4098" vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="2091">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="9" selection-start="502" selection-end="502" vertical-scroll-proportion="-8.423077" vertical-offset="70" max-vertical-offset="2941">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="softwareDocumentation.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/softwareDocumentation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="21" selection-start="3855" selection-end="3855" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="4369">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="synergeticCaseStudy.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/synergeticCaseStudy.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,28 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="knowledgeManagement.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="knowledgeManagement.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/knowledgeManagement.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="25" selection-start="792" selection-end="792" vertical-scroll-proportion="-7.730769" vertical-offset="139" max-vertical-offset="3060">
+            <state line="24" column="74" selection-start="1159" selection-end="1159" vertical-scroll-proportion="0.32925338" vertical-offset="139" max-vertical-offset="3060">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="540" column="11" selection-start="8628" selection-end="8628" vertical-scroll-proportion="0.5576159" vertical-offset="8759" max-vertical-offset="23307">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contactUs.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/contactUs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="24" selection-start="3126" selection-end="3126" vertical-scroll-proportion="-1.3076923" vertical-offset="765" max-vertical-offset="2278">
+            <state line="7" column="4" selection-start="98" selection-end="98" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="23035">
               <folding />
             </state>
           </provider>
@@ -172,7 +118,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="960" />
+    <option name="width" value="1486" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -216,6 +162,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="KnowledgedocWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sample Web Page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KnowledgedocWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlInserts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sample Web Page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KnowledgedocWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -319,15 +293,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1486" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31263858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.197479" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34353742" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -646,13 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/knowledgeManagement.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="25" selection-start="792" selection-end="792" vertical-scroll-proportion="-7.730769" vertical-offset="139" max-vertical-offset="3060">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/contactUs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="24" selection-start="3126" selection-end="3126" vertical-scroll-proportion="-1.3076923" vertical-offset="765" max-vertical-offset="2278">
@@ -662,14 +629,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="9" selection-start="502" selection-end="502" vertical-scroll-proportion="-8.423077" vertical-offset="70" max-vertical-offset="2941">
+        <state line="12" column="8" selection-start="368" selection-end="368" vertical-scroll-proportion="-5.1538463" vertical-offset="70" max-vertical-offset="2941">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="540" column="11" selection-start="8628" selection-end="8628" vertical-scroll-proportion="0.5576159" vertical-offset="8759" max-vertical-offset="23307">
+        <state line="7" column="4" selection-start="98" selection-end="98" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="23035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/knowledgeManagement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="74" selection-start="1159" selection-end="1159" vertical-scroll-proportion="0.32925338" vertical-offset="139" max-vertical-offset="3060">
           <folding />
         </state>
       </provider>
