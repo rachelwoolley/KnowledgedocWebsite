@@ -545,6 +545,11 @@ th
     text-align: left;
 }
 
+table
+{
+    clear:left;
+}
+
 /*Masthead*/
 @media(min-width: 28em)
 {
@@ -561,6 +566,37 @@ th
             linear-gradient(#f1f1f1 0%,#ffffff 40%, #ffffff 100%);
     }
 }
+
+/*-------------------
+Blog
+---------------------*/
+header.newsArticle
+{
+
+
+}
+
+.articleDate
+{
+    float: right;
+    color: #434343;
+}
+
+header.newsArticle h2
+{
+    margin-bottom: 0;
+   /* border-bottom:2px solid maroon;*/
+    border-bottom:2px solid #434343;
+}
+
+header.newsArticle p
+{
+    margin: 0;
+    font-weight: bold;
+    color: #434343;
+
+}
+
 
 
 
@@ -843,7 +879,7 @@ border: 0;
         display: block;
         max-width:80em;
     }
-
+}
 
 
 /* ----- Contact us section surround ----- */
@@ -1343,6 +1379,7 @@ Pseudo-elements in media queries
         background-color: olive;
     }
 }
+
 
 
 
