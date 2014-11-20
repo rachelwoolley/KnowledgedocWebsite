@@ -15,6 +15,14 @@ body
 
 }
 
+p
+{
+    margin-bottom: 0.3em;
+}
+ul
+{
+    margin-top: 0.3em;
+}
 
 
 /*----------------------------------
@@ -229,6 +237,10 @@ aside h3{margin:0.2em;}
 aside p{margin:0.2em;}
 aside ul{margin: 0.2em;}
 
+section.blog
+{
+    clear:left;
+}
 
 /* ------- Footer ----- */
 footer
@@ -424,10 +436,26 @@ ul.social a
     margin: 3px;
     padding:0;
 }
-ul.social img
+ul.social div
 {
     border-radius:5px;
+    height: 30px;
+    width:30px;
 }
+
+ul.social div:hover
+{
+    border-radius:5px;
+    height: 30px;
+    width:30px;
+
+}
+
+#linkedIn{background-image:url(../images/linkedinIcon.gif);}
+#linkedIn:hover{ background-image:url(../images/linkedinIconDark.gif);}
+#mail{background-image: url(../images/emailIcon.gif);}
+#mail:hover{background-image: url(../images/emailIconDark.gif);}
+
 
 .socialIcon{
     height:30px;
@@ -435,54 +463,6 @@ ul.social img
     margin-right: 0.8em;
 
 }
-
-
-/*------ Methodology ----- */
-a.skip {
-    border: 1px solid black;
-    padding: 0.5em;
-    display: block;
-    max-width: 15em;
-    text-align: center;
-    font-weight: bold;
-    margin-left:auto;
-    margin-right: auto;
-    margin-bottom: 1.5em;
-    background: #4a4a4a;
-    color:white;
-
-}
-
-ol.methodology li{
-    list-style: none;
-
-}
-ol.methodology
-{
-    padding:0;
-    background:
-
-        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 3.8%,
-        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 12.5%,
-        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 21.2%,
-        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 32.6%,
-        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 41.3%,
-        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 52.8%,
-        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 61.5%,
-        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 70.2%,
-        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 78.9%,
-        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 87.6%,
-        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 96.3%;
-    /*19% - left aligned */
-
-}
-
-a.skip:hover
-{
-    background: #9d0000;
-    color: #ffffff;
-}
-
 /*---------------
 KdAssist
 ------------------*/
@@ -535,7 +515,7 @@ section.gallery figure
 
 section.gallery figcaption
 {
-display:none;
+    display:none;
 
 }
 
@@ -561,6 +541,60 @@ img.galleryArrow:hover
 {
     section.gallery{display:none;}
 }
+
+
+/*------ Methodology ----- */
+a.skip {
+    border: 1px solid black;
+    padding: 0.5em;
+    display: block;
+    max-width: 15em;
+    text-align: center;
+    font-weight: bold;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 1.5em;
+    background: #4a4a4a;
+    color:white;
+
+}
+
+ol.methodology li{
+    list-style: none;
+
+}
+ol.methodology
+{
+    padding:0;
+    background:
+
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 3.8%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 12.5%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 21.2%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 32.6%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 41.3%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 52.8%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 61.5%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 70.2%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 78.9%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 87.6%,
+        url(../images/ArrowDownGreySmall.gif) no-repeat 50% 96.3%;
+    /*19% - left aligned */
+
+}
+
+a.skip:hover
+{
+    background: #9d0000;
+    color: #ffffff;
+}
+
+/*------ Our Team ------ */
+.teamPhoto
+{
+    float:right;
+}
+
 
 /* ------ Serviced Offices ------- */
 .clear
