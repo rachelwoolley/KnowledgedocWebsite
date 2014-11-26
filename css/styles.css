@@ -790,6 +790,12 @@ body{font-size: 100%}
         font-weight:normal;
     }
 
+    #nav a.activePage
+    {
+        background-color: #b20000;
+        background-image: linear-gradient(#e80000 0%, #c20000 100% );
+    }
+
     ul.top a:hover
     {
         background: #000000;
@@ -816,7 +822,7 @@ body{font-size: 100%}
         float:none;
         margin:0;
         padding:0;
-        width:13em;
+        width:13.5em;
 
     }
     ul.top li li a {
