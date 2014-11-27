@@ -451,8 +451,8 @@ ul.social div:hover
 
 }
 
-#linkedIn{background-image:url(../images/linkedinIcon.gif);}
-#linkedIn:hover{ background-image:url(../images/linkedinIconDark.gif);}
+#linkedIn{background-image:url(../images/linkedinIcon.png);}
+#linkedIn:hover{ background-image:url(../images/linkedinIconDark.png);}
 #mail{background-image: url(../images/emailIcon.gif);}
 #mail:hover{background-image: url(../images/emailIconDark.gif);}
 
