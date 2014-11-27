@@ -463,6 +463,16 @@ ul.social div:hover
     margin-right: 0.8em;
 
 }
+/* -------------------
+Documentation Services
+---------------------- */
+#documentationServices
+{
+    max-width:100%;
+    display: block;
+    margin:auto;
+}
+
 /*---------------
 KdAssist
 ------------------*/
