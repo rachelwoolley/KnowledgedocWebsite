@@ -126,7 +126,7 @@ nav li ul ul a:hover{background-color: #000000;}
     font-weight: bold;
 
     background: white;
-    border:1px solid #323232;
+    border-bottom:1px solid #323232;
     color: #323232;
     padding:0.4em;
     max-width: 15em;
@@ -139,7 +139,7 @@ nav li ul ul a:hover{background-color: #000000;}
 
 #secondary a:hover, #secondary a:focus
 {
-    border:1px solid #000000;
+    border-bottom:1px solid #000000;
     background: #000000;
     color:#FFffff;
 }
@@ -231,11 +231,20 @@ h3 a, h3 a:hover.skipResult{color: #ED1B2F;}
 aside
 {
     background-color: #eaeaea;
-    padding:0.5em;
+
 }
 aside h3{margin:0.2em;}
 aside p{margin:0.2em;}
 aside ul{margin: 0.2em;}
+
+#asidecol1
+{
+    padding:0.5em 0.5em 0;
+}
+#asidecol2
+{
+    padding: 0.5em 0.5em;
+}
 
 section.blog
 {
@@ -1053,11 +1062,11 @@ Other responsive rules
     #secondary
     {
         background: none;
-        border-radius: 3px;
+
         padding: 0 ;
-        margin:5px;
+        margin:0 0 5px;
         float: left;
-        width:97%;
+        width:100%;
     }
 
 
@@ -1076,15 +1085,16 @@ Other responsive rules
         font-size: 80%;
         background: white;
         color: #323232;
-        border: 1px solid #525252;
+        border-bottom: 1px solid #525252;
         border-radius: 0;
-        margin:auto;
+        margin:0;
+        max-width:100%;
 
     }
 
     #secondary a:hover, #secondary a:focus
     {
-        border:1px solid #000000;
+        border-bottom:1px solid #000000;
         background: #000000;
         color:#FFffff;
     }
@@ -1280,7 +1290,7 @@ Medium-Wide screen - Aside drops
         max-width:27.5%;
         float: right;
         border:1px solid black;
-        border-radius: 5px;
+        /*border-radius: 5px;*/
         margin:10px;
     }
 }

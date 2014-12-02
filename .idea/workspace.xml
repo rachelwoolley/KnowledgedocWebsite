@@ -23,91 +23,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="blog.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="0" selection-start="5419" selection-end="5419" vertical-scroll-proportion="0.0" vertical-offset="1129" max-vertical-offset="1938">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="servicedOffices.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/servicedOffices.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="291" column="0" selection-start="16632" selection-end="16676" vertical-scroll-proportion="0.0" vertical-offset="4947" max-vertical-offset="5083">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="softwareDocumentation.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/softwareDocumentation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="245" column="47" selection-start="12658" selection-end="12658" vertical-scroll-proportion="0.0" vertical-offset="1945" max-vertical-offset="4488">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="24" selection-start="4910" selection-end="4910" vertical-scroll-proportion="-12.115385" vertical-offset="1266" max-vertical-offset="2975">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="businessProcessAnalysis.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/businessProcessAnalysis.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="0" selection-start="3578" selection-end="3578" vertical-scroll-proportion="-5.769231" vertical-offset="887" max-vertical-offset="2244">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="businessContinuityPlans.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/businessContinuityPlans.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="19" selection-start="5356" selection-end="5356" vertical-scroll-proportion="0.93703705" vertical-offset="771" max-vertical-offset="2363">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blogIndex.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/blogIndex.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="25" selection-start="3259" selection-end="3259" vertical-scroll-proportion="0.0" vertical-offset="1282" max-vertical-offset="2091">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contactUs.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/contactUs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="74" selection-start="3859" selection-end="3883" vertical-scroll-proportion="-3.0" vertical-offset="1129" max-vertical-offset="2295">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="729" column="9" selection-start="11108" selection-end="11113" vertical-scroll-proportion="0.0" vertical-offset="12277" max-vertical-offset="25959">
+            <state line="1292" column="31" selection-start="20383" selection-end="20383" vertical-scroll-proportion="-14.2" vertical-offset="21609" max-vertical-offset="26129">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="careers.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/careers.html">
+      <file leaf-file-name="documentationServices.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/documentationServices.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="28" selection-start="5612" selection-end="5612" vertical-scroll-proportion="0.0" vertical-offset="1112" max-vertical-offset="2312">
+            <state line="48" column="29" selection-start="3118" selection-end="3118" vertical-scroll-proportion="-7.8461537" vertical-offset="612" max-vertical-offset="3043">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="softwareDocumentation.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/softwareDocumentation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="172" column="47" selection-start="9306" selection-end="9306" vertical-scroll-proportion="0.20123456" vertical-offset="2761" max-vertical-offset="4488">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="policiesAndProcedures.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/policiesAndProcedures.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="154" column="46" selection-start="8300" selection-end="8300" vertical-scroll-proportion="-5.8461537" vertical-offset="2466" max-vertical-offset="3791">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="earlyLearningProcedures.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/earlyLearningProcedures.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="70" column="58" selection-start="3803" selection-end="3803" vertical-scroll-proportion="-18.307692" vertical-offset="714" max-vertical-offset="1938">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="methodology.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/methodology.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="115" column="50" selection-start="7103" selection-end="7103" vertical-scroll-proportion="-13.5" vertical-offset="1604" max-vertical-offset="2822">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="documentationFormats.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/documentationFormats.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="50" selection-start="4340" selection-end="4340" vertical-scroll-proportion="-4.45098" vertical-offset="1048" max-vertical-offset="1938">
               <folding />
             </state>
           </provider>
@@ -153,27 +126,27 @@
         <option value="$PROJECT_DIR$/html/alliances.html" />
         <option value="$PROJECT_DIR$/html/blogIndex.html" />
         <option value="$PROJECT_DIR$/html/caseStudies.html" />
-        <option value="$PROJECT_DIR$/html/contactUs.html" />
-        <option value="$PROJECT_DIR$/html/documentationFormats.html" />
-        <option value="$PROJECT_DIR$/html/earlyLearningProcedures.html" />
-        <option value="$PROJECT_DIR$/html/policiesAndProcedures.html" />
         <option value="$PROJECT_DIR$/html/siteMap.html" />
         <option value="$PROJECT_DIR$/html/knowledgeManagement.html" />
         <option value="$PROJECT_DIR$/html/businessServices.html" />
         <option value="$PROJECT_DIR$/html/servicedOffices.html" />
-        <option value="$PROJECT_DIR$/html/softwareDocumentation.html" />
         <option value="$PROJECT_DIR$/html/aboutUs.html" />
         <option value="$PROJECT_DIR$/html/recentCustomers.html" />
-        <option value="$PROJECT_DIR$/html/ourTeam.html" />
         <option value="$PROJECT_DIR$/html/careers.html" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/html/blog.html" />
-        <option value="$PROJECT_DIR$/html/methodology.html" />
         <option value="$PROJECT_DIR$/html/internshipProgram.html" />
         <option value="$PROJECT_DIR$/html/documentationServices.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/html/businessProcessAnalysis.html" />
         <option value="$PROJECT_DIR$/html/businessContinuityPlans.html" />
+        <option value="$PROJECT_DIR$/html/ourTeam.html" />
+        <option value="$PROJECT_DIR$/html/contactUs.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/html/documentationFormats.html" />
+        <option value="$PROJECT_DIR$/html/methodology.html" />
+        <option value="$PROJECT_DIR$/html/earlyLearningProcedures.html" />
+        <option value="$PROJECT_DIR$/html/policiesAndProcedures.html" />
+        <option value="$PROJECT_DIR$/html/softwareDocumentation.html" />
       </list>
     </option>
   </component>
@@ -225,34 +198,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sample Web Page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sample Web Page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -343,14 +288,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="64" width="1825" height="1018" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18732315" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18732315" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34353742" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879817" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -520,16 +465,6 @@
         <state line="142" column="18" selection-start="7943" selection-end="7943" vertical-scroll-proportion="0.713253" vertical-offset="1822" max-vertical-offset="2652" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/documentationFormats.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="490" selection-end="3335" vertical-scroll-proportion="0.10240964" vertical-offset="153" max-vertical-offset="1938" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/earlyLearningProcedures.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="62" selection-start="978" selection-end="978" vertical-scroll-proportion="13.730769" vertical-offset="714" max-vertical-offset="1938" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/faqs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="234" column="20" selection-start="13126" selection-end="13126" vertical-scroll-proportion="-129.42308" vertical-offset="613" max-vertical-offset="4539" />
@@ -548,11 +483,6 @@
     <entry file="file://$PROJECT_DIR$/html/methodologyDetails.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="257" column="14" selection-start="14629" selection-end="14629" vertical-scroll-proportion="-36.5" vertical-offset="3420" max-vertical-offset="4607" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/policiesAndProcedures.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="0" selection-start="3184" selection-end="3184" vertical-scroll-proportion="-31.115385" vertical-offset="126" max-vertical-offset="3791" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/privacy.html">
@@ -600,11 +530,6 @@
         <state line="81" column="35" selection-start="4036" selection-end="4036" vertical-scroll-proportion="-17.076923" vertical-offset="933" max-vertical-offset="2074" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/ourTeam.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="147" column="42" selection-start="7101" selection-end="7101" vertical-scroll-proportion="-22.307692" vertical-offset="1919" max-vertical-offset="3196" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/aboutUs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="95" column="36" selection-start="5433" selection-end="5433" vertical-scroll-proportion="-20.923077" vertical-offset="1071" max-vertical-offset="2431" />
@@ -633,14 +558,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="0" selection-start="5419" selection-end="5419" vertical-scroll-proportion="0.0" vertical-offset="1129" max-vertical-offset="1938">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/methodology.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="25" selection-start="3284" selection-end="3284" vertical-scroll-proportion="0.0" vertical-offset="2013" max-vertical-offset="2822">
+        <state line="107" column="0" selection-start="5419" selection-end="5419" vertical-scroll-proportion="-26.576923" vertical-offset="1128" max-vertical-offset="1938">
           <folding />
         </state>
       </provider>
@@ -648,41 +566,6 @@
     <entry file="file://$PROJECT_DIR$/html/internshipProgram.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="77" column="123" selection-start="4571" selection-end="4571" vertical-scroll-proportion="0.0" vertical-offset="823" max-vertical-offset="2108" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="729" column="9" selection-start="11108" selection-end="11113" vertical-scroll-proportion="0.0" vertical-offset="12277" max-vertical-offset="25959">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/softwareDocumentation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="245" column="47" selection-start="12658" selection-end="12658" vertical-scroll-proportion="0.0" vertical-offset="1945" max-vertical-offset="4488">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/documentationServices.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="29" selection-start="3118" selection-end="3118" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="3043">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="24" selection-start="4910" selection-end="4910" vertical-scroll-proportion="-12.115385" vertical-offset="1266" max-vertical-offset="2975">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/contactUs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="74" selection-start="3859" selection-end="3883" vertical-scroll-proportion="-3.0" vertical-offset="1129" max-vertical-offset="2295">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/businessProcessAnalysis.html">
@@ -694,7 +577,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/businessContinuityPlans.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="19" selection-start="5356" selection-end="5356" vertical-scroll-proportion="0.93703705" vertical-offset="771" max-vertical-offset="2363">
+        <state line="74" column="46" selection-start="4350" selection-end="4350" vertical-scroll-proportion="-18.73077" vertical-offset="771" max-vertical-offset="2363">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/ourTeam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="72" selection-start="3837" selection-end="3837" vertical-scroll-proportion="-17.423077" vertical-offset="754" max-vertical-offset="3298">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="0" selection-start="4980" selection-end="5509" vertical-scroll-proportion="-14.730769" vertical-offset="1266" max-vertical-offset="2975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/contactUs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="3451" selection-end="3451" vertical-scroll-proportion="-4.9615383" vertical-offset="959" max-vertical-offset="2363">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1292" column="31" selection-start="20383" selection-end="20383" vertical-scroll-proportion="-14.2" vertical-offset="21609" max-vertical-offset="26129">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/documentationServices.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="29" selection-start="3118" selection-end="3118" vertical-scroll-proportion="-7.8461537" vertical-offset="612" max-vertical-offset="3043">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/documentationFormats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="50" selection-start="4340" selection-end="4340" vertical-scroll-proportion="-4.45098" vertical-offset="1048" max-vertical-offset="1938">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/methodology.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="50" selection-start="7103" selection-end="7103" vertical-scroll-proportion="-13.5" vertical-offset="1604" max-vertical-offset="2822">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/earlyLearningProcedures.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="58" selection-start="3803" selection-end="3803" vertical-scroll-proportion="-18.307692" vertical-offset="714" max-vertical-offset="1938">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/policiesAndProcedures.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="46" selection-start="8300" selection-end="8300" vertical-scroll-proportion="-5.8461537" vertical-offset="2466" max-vertical-offset="3791">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/softwareDocumentation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="172" column="47" selection-start="9306" selection-end="9306" vertical-scroll-proportion="0.20123456" vertical-offset="2761" max-vertical-offset="4488">
           <folding />
         </state>
       </provider>
