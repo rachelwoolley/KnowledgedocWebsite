@@ -116,11 +116,6 @@ nav li ul ul a:hover{background-color: #000000;}
 
 /* -------- Secondary Navigation -------- */
 
-#secondary
-{
-    padding:0.5em;
-}
-
 #secondary a
 {
     font-weight: bold;
@@ -129,7 +124,7 @@ nav li ul ul a:hover{background-color: #000000;}
     border-bottom:1px solid #323232;
     color: #323232;
     padding:0.4em;
-    max-width: 15em;
+    /*max-width: 15em;*/
     text-align: center;
     font-size: 80%;
 
@@ -228,27 +223,34 @@ h3 a, h3 a:hover.skipResult{color: #ED1B2F;}
 
 /* ----- Aside ------ */
 
-aside
+aside.sidebar
 {
     background-color: #eaeaea;
 
 }
-aside h3{margin:0.2em;}
-aside p{margin:0.2em;}
-aside ul{margin: 0.2em;}
+aside.sidebar h3{margin:0.2em;}
+aside.sidebar p{margin:0.2em;}
+aside.sidebar ul{margin: 0.2em;}
 
 #asidecol1
 {
-    padding:0.5em 0.5em 0;
+    padding: 0.5em 0.5em 0;
 }
 #asidecol2
 {
-    padding: 0.5em 0.5em;
+    padding: 0 0.5em 0.5em;
 }
 
 section.blog
 {
     clear:left;
+}
+aside.navigation
+{
+    margin:10px;
+    border-top:1px solid black;
+    border-left:1px solid black;
+    border-right:1px solid black;
 }
 
 /* ------- Footer ----- */
@@ -743,11 +745,15 @@ Medium screen
     {
         float: left;
         max-width: 47.5%;
+
+        padding:0.5em 0;
     }
     #asidecol2{margin-left: 5%}
 
     footer{clear:both;}
     .mainParagraphs{clear: left;}
+
+
 }
 
 
@@ -1059,12 +1065,17 @@ Other responsive rules
 @media(min-width: 41.5em)
 {
 
+    aside.secondary
+    {
+        width:27.5%;
+    }
+
     #secondary
     {
         background: none;
 
         padding: 0 ;
-        margin:0 0 5px;
+        margin:0;
         float: left;
         width:100%;
     }
@@ -1285,14 +1296,25 @@ Medium-Wide screen - Aside drops
     }
     .mainParagraphs{clear: left;}
 
-    aside
+    aside.sidebar
     {
-        max-width:27.5%;
+        width:30%;
         float: right;
         border:1px solid black;
         /*border-radius: 5px;*/
         margin:10px;
     }
+
+    aside.navigation
+    {
+        width:30%;
+        float: right;
+        margin:10px;
+        border-top:1px solid black;
+        border-left:1px solid black;
+        border-right:1px solid black;
+    }
+
 }
 
 @media(max-width: 52em)
