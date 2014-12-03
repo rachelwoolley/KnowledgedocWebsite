@@ -23,6 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1029" column="29" selection-start="16357" selection-end="16357" vertical-scroll-proportion="0.56419754" vertical-offset="17036" max-vertical-offset="26520">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="policiesAndProcedures.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/policiesAndProcedures.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,15 +90,6 @@
         <entry file="file://$PROJECT_DIR$/html/recentCustomers.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="80" column="22" selection-start="4180" selection-end="4180" vertical-scroll-proportion="-16.423077" vertical-offset="933" max-vertical-offset="2125">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="careers.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/careers.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="30" selection-start="5793" selection-end="5793" vertical-scroll-proportion="0.9159456" vertical-offset="993" max-vertical-offset="2363">
               <folding />
             </state>
           </provider>
@@ -161,7 +161,6 @@
         <option value="$PROJECT_DIR$/html/policiesAndProcedures.html" />
         <option value="$PROJECT_DIR$/html/documentationServices.html" />
         <option value="$PROJECT_DIR$/html/softwareDocumentation.html" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/html/earlyLearningProcedures.html" />
         <option value="$PROJECT_DIR$/html/methodology.html" />
         <option value="$PROJECT_DIR$/html/documentationFormats.html" />
@@ -174,6 +173,7 @@
         <option value="$PROJECT_DIR$/html/ourTeam.html" />
         <option value="$PROJECT_DIR$/html/recentCustomers.html" />
         <option value="$PROJECT_DIR$/html/careers.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
@@ -635,13 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1317" column="0" selection-start="20838" selection-end="20838" vertical-scroll-proportion="-12.84" vertical-offset="22068" max-vertical-offset="26503">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/servicedOffices.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="259" column="22" selection-start="15547" selection-end="15547" vertical-scroll-proportion="-12.153846" vertical-offset="4087" max-vertical-offset="5134">
@@ -700,7 +693,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/careers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="30" selection-start="5793" selection-end="5793" vertical-scroll-proportion="0.9159456" vertical-offset="993" max-vertical-offset="2363">
+        <state line="100" column="81" selection-start="5733" selection-end="5733" vertical-scroll-proportion="0.8739184" vertical-offset="993" max-vertical-offset="2363">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1029" column="29" selection-start="16357" selection-end="16357" vertical-scroll-proportion="0.56419754" vertical-offset="17036" max-vertical-offset="26520">
           <folding />
         </state>
       </provider>
