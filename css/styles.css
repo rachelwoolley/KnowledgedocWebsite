@@ -162,7 +162,7 @@ nav li ul ul a:hover{background-color: #000000;}
 
 h1
 {
-    background: url(../images/heading_logo.jpg) no-repeat ;
+    background: url(../images/imageSpriteKnowledgedoc.gif) 0 -34px no-repeat ;
     font-size:145%;
     margin-bottom: 0.3em;
 }
@@ -248,6 +248,7 @@ section.blog
 aside.navigation
 {
     margin:10px;
+
     border-top:1px solid black;
     border-left:1px solid black;
     border-right:1px solid black;
@@ -364,6 +365,17 @@ header.newsArticle p
 
 }
 
+.blogPhoto
+{
+    max-width:8em;
+}
+
+figcaption.blog
+{
+    color:#434343;
+    font-style: italic;
+}
+
 /* -------
 Blog Index
 ------- */
@@ -462,10 +474,10 @@ ul.social div:hover
 
 }
 
-#linkedIn{background-image:url(../images/linkedinIcon.png);}
-#linkedIn:hover{ background-image:url(../images/linkedinIconDark.png);}
-#mail{background-image: url(../images/emailIcon.gif);}
-#mail:hover{background-image: url(../images/emailIconDark.gif);}
+#linkedIn{background:url(../images/imageSpriteKnowledgedoc.gif) -245px 0;}
+#linkedIn:hover{ background:url(../images/imageSpriteKnowledgedoc.gif) -285px 0;}
+#mail{ background:url(../images/imageSpriteKnowledgedoc.gif) -208.5px 0;}
+#mail:hover{ background:url(../images/imageSpriteKnowledgedoc.gif) -165.5px 0;}
 
 
 .socialIcon{
@@ -614,6 +626,12 @@ a.skip:hover
 .teamPhoto
 {
     float:right;
+    max-height:200px;
+    margin:5px;
+}
+#KdTeamPhoto
+{
+    max-width:100%;
 }
 
 
@@ -1311,10 +1329,26 @@ Medium-Wide screen - Aside drops
         width:30%;
         float: right;
         margin:10px;
+
         border-top:1px solid black;
         border-left:1px solid black;
         border-right:1px solid black;
+
     }
+    /*
+    #secondary a
+    {
+        border-top-left-radius: 0.7em;
+        border-bottom-left-radius: 0.7em;
+        border-left:1px solid black;
+        border-right: 1px solid black;
+
+    }
+    #secondaryHeader
+    {
+        border-top:1px solid black;
+    }
+    */
 
 }
 
