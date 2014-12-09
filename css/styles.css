@@ -365,7 +365,7 @@ header.newsArticle p
 
 }
 
-.blogPhoto
+img.blogPhoto
 {
     max-width:8em;
 }
@@ -374,6 +374,18 @@ figcaption.blog
 {
     color:#434343;
     font-style: italic;
+}
+#blogPhoto, figure.blogPhoto
+{
+    float:left;
+}
+.blogImageRight
+{
+    float:right;
+}
+figcaption
+{
+    text-align: center;
 }
 
 /* -------
