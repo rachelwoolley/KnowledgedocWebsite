@@ -680,6 +680,7 @@ ul.flowchart
     width:100%;
     display:block;
     list-style:none;
+    text-align: center;
 }
 
 .flowchart li{display: block;}
@@ -688,7 +689,7 @@ ul.flowchart
 {
     float: left;
     display:block;
-    max-width:10em;
+    width:10em;
     padding:0.7em;
     margin:0 0.5em 0.5em 0.5em;
     color: #414141;
@@ -1368,8 +1369,8 @@ Medium-Wide screen - Aside drops
 {
     .flowchart a
     {
-        max-width:12em;
-        width:12em;
+        max-width:10em;
+        width:10em;
         text-align: center;
     }
     .flowchartLink{width:11em;}

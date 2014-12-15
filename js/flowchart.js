@@ -8,7 +8,7 @@ var FlowchartDropDown =
     init:function()
     {
         var links = $("a.flowchartLink");
-        var info = links.parent().next().next().next().next();
+        var info = links.parent().next().next().next().next().next().next();
 
 
         for(var i=0, ii=links.length; i<ii; i++)
@@ -16,7 +16,7 @@ var FlowchartDropDown =
             $(links[i]).click(function()
             {
 
-                var info = $(this).parent().next().next().next().next();
+                var info = $(this).parent().next().next().next().next().next().next();
                 if($(this).hasClass('active'))
                 {
                     $(this).addClass('inactive');
@@ -34,7 +34,7 @@ var FlowchartDropDown =
                     var box = info.siblings(".visible");
                     box.addClass('hidden');
                     box.removeClass('visible');
-                    var boxLink = box.prev().prev().prev().prev().children();
+                    var boxLink = box.prev().prev().prev().prev().prev().prev().children();
                     boxLink.addClass('inactive');
                     boxLink.removeClass('active');
                 }
