@@ -646,6 +646,30 @@ a.skip:hover
     max-width:100%;
 }
 
+/*----------- Recent Customers --------*/
+img.recent
+{
+   float:left;
+    padding:0.5em;
+    margin:0.5em;
+
+    /*border:1px solid green;*/
+}
+
+img.recent.right
+{
+    float:right;
+}
+img.recent.small
+{
+    max-width:150px;
+}
+#recentCustomers
+{
+    background-color: #f7f7f7;
+    background-image: radial-gradient(#fbfbfb 85%, #ffffff 100%);
+    float:left;
+}
 
 /* ------ Serviced Offices ------- */
 .clear
@@ -911,7 +935,7 @@ body{font-size: 100%}
     #content
     {
         float: left;
-        max-width: 100%;
+        width: 100%;
     }
     .mainContentNoAside
     {
@@ -1383,7 +1407,7 @@ Development width helper
 /* -----------------------------------
 Initial pseudo-element
 ----------------------------------- */
-
+/*
 body:before
 {
     position:absolute;
@@ -1399,7 +1423,7 @@ body:before
 /* -----------------------------------
 Pseudo-elements in media queries
 ----------------------------------- */
-
+/*
 @media (min-width: 20em) and (max-width:21em)
 {
     body:before
