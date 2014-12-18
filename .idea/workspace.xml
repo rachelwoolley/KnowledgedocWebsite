@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bba140a-1819-4d8c-9d1f-8f89a263919c" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\WS8\Documents\KnowledgedocWebsite\about\case-studies\index.html" afterPath="$PROJECT_DIR$/documentation/case-studies/index.html" />
-      <change type="MOVED" beforePath="C:\Users\WS8\Documents\KnowledgedocWebsite\about\case-studies\synergetic.html" afterPath="$PROJECT_DIR$/documentation/case-studies/synergetic.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/early-learning-procedures.html" afterPath="$PROJECT_DIR$/documentation/early-learning-procedures.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/formats.html" afterPath="$PROJECT_DIR$/documentation/formats.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/careers/index.html" afterPath="$PROJECT_DIR$/about/careers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/business/index.html" afterPath="$PROJECT_DIR$/business/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/index.html" afterPath="$PROJECT_DIR$/documentation/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/business/knowledge-management.html" afterPath="$PROJECT_DIR$/business/knowledge-management.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/methodology.html" afterPath="$PROJECT_DIR$/documentation/methodology.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/our-team.html" afterPath="$PROJECT_DIR$/about/our-team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/policies-and-procedures.html" afterPath="$PROJECT_DIR$/documentation/policies-and-procedures.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/business/process-analysis.html" afterPath="$PROJECT_DIR$/business/process-analysis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/recent-customers.html" afterPath="$PROJECT_DIR$/about/recent-customers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/business/serviced-offices.html" afterPath="$PROJECT_DIR$/business/serviced-offices.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
     </list>
     <ignored path="KnowledgedocWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="formats.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="formats.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documentation/formats.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="20" selection-start="5342" selection-end="5342" vertical-scroll-proportion="0.7355769" vertical-offset="918" max-vertical-offset="2244">
+            <state line="25" column="128" selection-start="1446" selection-end="1446" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="2244">
               <folding />
             </state>
           </provider>
@@ -70,6 +56,15 @@
         <entry file="file://$PROJECT_DIR$/documentation/methodology.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="112" column="46" selection-start="6924" selection-end="6924" vertical-scroll-proportion="-18.307692" vertical-offset="1428" max-vertical-offset="2907">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="338" column="23" selection-start="5037" selection-end="5037" vertical-scroll-proportion="0.45498198" vertical-offset="5367" max-vertical-offset="27727">
               <folding />
             </state>
           </provider>
@@ -120,6 +115,7 @@
         <option value="$PROJECT_DIR$/documentation/methodology.html" />
         <option value="$PROJECT_DIR$/documentation/index.html" />
         <option value="$PROJECT_DIR$/documentation/formats.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
@@ -196,53 +192,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="business" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="careers" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -265,6 +215,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -401,13 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/early-learning-procedures.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="47" selection-start="8013" selection-end="8013" vertical-scroll-proportion="-21.576923" vertical-offset="1632" max-vertical-offset="3060">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/documentation/software.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="161" column="68" selection-start="8741" selection-end="8741" vertical-scroll-proportion="1.3461539" vertical-offset="2772" max-vertical-offset="4318">
@@ -438,7 +394,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/documentation/formats.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="20" selection-start="5342" selection-end="5342" vertical-scroll-proportion="0.7355769" vertical-offset="918" max-vertical-offset="2244">
+        <state line="25" column="128" selection-start="1446" selection-end="1446" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="2244">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/early-learning-procedures.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="47" selection-start="8013" selection-end="8013" vertical-scroll-proportion="-21.576923" vertical-offset="1632" max-vertical-offset="3060">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="338" column="23" selection-start="5037" selection-end="5037" vertical-scroll-proportion="0.45498198" vertical-offset="5367" max-vertical-offset="27727">
           <folding />
         </state>
       </provider>
