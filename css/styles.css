@@ -365,6 +365,17 @@ header.newsArticle p
 
 }
 
+a.blogHeading
+{
+    text-decoration: none;
+    color:#434343;
+}
+a.blogHeading:hover
+{
+    text-decoration: none;
+    color: red;
+}
+
 img.blogPhoto
 {
     max-width:8em;
@@ -386,6 +397,12 @@ figcaption.blog
 figcaption
 {
     text-align: center;
+}
+article
+{
+    border:1px solid #e7e7e7;
+    margin-bottom:1em;
+    box-shadow: 5px 5px 5px #dddddd;
 }
 
 /* -------
