@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bba140a-1819-4d8c-9d1f-8f89a263919c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Supporting-do not upload/blogEmptyPageNoAside.html" afterPath="$PROJECT_DIR$/Supporting-do not upload/blogEmptyPageNoAside.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/careers/index.html" afterPath="$PROJECT_DIR$/about/careers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/index.html" afterPath="$PROJECT_DIR$/blog/articles/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/careers/internship-program.html" afterPath="$PROJECT_DIR$/about/careers/internship-program.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/methodology-details.html" afterPath="$PROJECT_DIR$/documentation/methodology-details.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/new-blog-announcement.html" afterPath="$PROJECT_DIR$/blog/articles/new-blog-announcement.html" />
+      <change type="DELETED" beforePath="C:\Users\WS8\Documents\KnowledgedocWebsite\Supporting-do not upload\~$scription information.docx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\WS8\Documents\KnowledgedocWebsite\Supporting-do not upload\~WRL0003.tmp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/customers/Deakin.png" afterPath="$PROJECT_DIR$/images/customers/Deakin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/index.html" afterPath="$PROJECT_DIR$/documentation/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/recent-customers.html" afterPath="$PROJECT_DIR$/about/recent-customers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/info/site-map.html" afterPath="$PROJECT_DIR$/info/site-map.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/software-documentation.html" afterPath="$PROJECT_DIR$/blog/articles/software-documentation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/tc-rex-syndrome.html" afterPath="$PROJECT_DIR$/blog/articles/tc-rex-syndrome.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/technical-writer-personality.html" afterPath="$PROJECT_DIR$/blog/articles/technical-writer-personality.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="KnowledgedocWebsite.iws" />
@@ -38,28 +31,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="site-map.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="site-map.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/info/site-map.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="21" selection-start="356" selection-end="356" vertical-scroll-proportion="0.21103448" vertical-offset="0" max-vertical-offset="2890">
+            <state line="37" column="75" selection-start="2349" selection-end="2349" vertical-scroll-proportion="-14.384615" vertical-offset="255" max-vertical-offset="2890">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="continuity-plans.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/business/continuity-plans.html">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="115" selection-start="1108" selection-end="1195" vertical-scroll-proportion="-9.576923" vertical-offset="142" max-vertical-offset="2533">
+            <state line="27" column="63" selection-start="1595" selection-end="1595" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="2584">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmptyPage.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Supporting-do not upload/EmptyPage.html">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentation/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="49" selection-start="2613" selection-end="2613" vertical-scroll-proportion="-9.538462" vertical-offset="432" max-vertical-offset="1785">
+            <state line="75" column="148" selection-start="4746" selection-end="4746" vertical-scroll-proportion="-9.576923" vertical-offset="1026" max-vertical-offset="3213">
               <folding />
             </state>
           </provider>
@@ -77,7 +70,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1440" column="2" selection-start="22696" selection-end="22696" vertical-scroll-proportion="0.0" vertical-offset="24120" max-vertical-offset="28084">
+            <state line="698" column="2" selection-start="10443" selection-end="10443" vertical-scroll-proportion="-21.92" vertical-offset="11318" max-vertical-offset="28186">
               <folding />
             </state>
           </provider>
@@ -101,10 +94,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recent-customers.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="recent-customers.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/recent-customers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="149" selection-start="6724" selection-end="6724" vertical-scroll-proportion="-16.884615" vertical-offset="989" max-vertical-offset="2346">
+            <state line="69" column="105" selection-start="4722" selection-end="4722" vertical-scroll-proportion="-0.28991598" vertical-offset="1380" max-vertical-offset="4080">
               <folding />
             </state>
           </provider>
@@ -163,7 +156,6 @@
         <option value="$PROJECT_DIR$/documentation/case-studies/synergetic.html" />
         <option value="$PROJECT_DIR$/documentation/early-learning-procedures.html" />
         <option value="$PROJECT_DIR$/documentation/formats.html" />
-        <option value="$PROJECT_DIR$/documentation/index.html" />
         <option value="$PROJECT_DIR$/documentation/kdassist.html" />
         <option value="$PROJECT_DIR$/documentation/methodology.html" />
         <option value="$PROJECT_DIR$/documentation/policies-and-procedures.html" />
@@ -176,11 +168,12 @@
         <option value="$PROJECT_DIR$/Supporting-do not upload/EmptyPage.html" />
         <option value="$PROJECT_DIR$/Supporting-do not upload/EmptyPageNoAside.html" />
         <option value="$PROJECT_DIR$/documentation/methodology-details.html" />
-        <option value="$PROJECT_DIR$/about/recent-customers.html" />
         <option value="$PROJECT_DIR$/Supporting-do not upload/blogEmptyPageNoAside.html" />
         <option value="$PROJECT_DIR$/blog/index.html" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/info/site-map.html" />
+        <option value="$PROJECT_DIR$/documentation/index.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/about/recent-customers.html" />
       </list>
     </option>
   </component>
@@ -259,7 +252,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="info" />
+              <option name="myItemId" value="documentation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -287,25 +280,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="articles" />
+              <option name="myItemId" value="about" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -375,7 +350,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0952381" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09297052" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24397084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -545,13 +520,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="21" selection-start="733" selection-end="733" vertical-scroll-proportion="-7.230769" vertical-offset="118" max-vertical-offset="2584">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about/our-team.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="21" selection-start="824" selection-end="824" vertical-scroll-proportion="0.34879407" vertical-offset="135" max-vertical-offset="3519">
@@ -611,13 +579,6 @@
     <entry file="file://$PROJECT_DIR$/documentation/formats.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="21" selection-start="811" selection-end="811" vertical-scroll-proportion="0.34942085" vertical-offset="142" max-vertical-offset="2312">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="21" selection-start="936" selection-end="936" vertical-scroll-proportion="0.34942085" vertical-offset="159" max-vertical-offset="3179">
           <folding />
         </state>
       </provider>
@@ -720,13 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/recent-customers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="149" selection-start="6724" selection-end="6724" vertical-scroll-proportion="-16.884615" vertical-offset="989" max-vertical-offset="2346">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about/careers/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="111" selection-start="791" selection-end="881" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="2414">
@@ -755,16 +709,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/info/site-map.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1440" column="2" selection-start="22696" selection-end="22696" vertical-scroll-proportion="0.0" vertical-offset="24120" max-vertical-offset="28084">
+        <state line="37" column="75" selection-start="2349" selection-end="2349" vertical-scroll-proportion="-14.384615" vertical-offset="255" max-vertical-offset="2890">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/info/site-map.html">
+    <entry file="file://$PROJECT_DIR$/about/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="21" selection-start="356" selection-end="356" vertical-scroll-proportion="0.21103448" vertical-offset="0" max-vertical-offset="2890">
+        <state line="27" column="63" selection-start="1595" selection-end="1595" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="2584">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="148" selection-start="4746" selection-end="4746" vertical-scroll-proportion="-9.576923" vertical-offset="1026" max-vertical-offset="3213">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="698" column="2" selection-start="10443" selection-end="10443" vertical-scroll-proportion="-21.92" vertical-offset="11318" max-vertical-offset="28186">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/recent-customers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="105" selection-start="4722" selection-end="4722" vertical-scroll-proportion="-0.28991598" vertical-offset="1380" max-vertical-offset="4080">
           <folding />
         </state>
       </provider>

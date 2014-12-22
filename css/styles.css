@@ -669,7 +669,12 @@ h2 span.team
 /*----------- Recent Customers --------*/
 img.recent
 {
-   float:left;
+   /*float:left;*/
+    float:left;
+    clear: left;
+    height:50px;
+
+
     padding:0.5em;
     margin:0.5em;
 
@@ -678,19 +683,20 @@ img.recent
 
 img.recent.right
 {
-    float:right;
+    /*float:right;*/
 }
 img.recent.small
 {
-    max-width:150px;
+    /*max-width:150px;*/
 }
+/*
 #recentCustomers
 {
     background-color: #f7f7f7;
     background-image: radial-gradient(#fbfbfb 85%, #ffffff 100%);
     float:left;
 }
-
+*/
 /* ------ Serviced Offices ------- */
 .clear
 {
