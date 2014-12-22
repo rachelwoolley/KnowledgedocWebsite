@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.90">
     <url>
-
+        <loc>http://www.knowledgedoc.com.au/</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
     </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/documenation/</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/documenation/software.html</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/documenation/policies-and-procedures.html</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/documenation/early-learning-procedures.html</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/documenation/methodology.html</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/documenation/methodology-details.html</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/documenation/formats.html</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/documenation/kdassist.html</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/</loc>
+        <lastmod></lastmod>
+        <changefreq></changefreq>
+        <priority></priority>
+    </url>
+
+
+
 
 </urlset>
