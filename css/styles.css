@@ -411,6 +411,34 @@ table.blog td
     padding: 0 0.5em 0 0.5em;
 }
 
+ul.helpful
+{
+    padding:0 0.2em;
+}
+ul.helpful li
+{
+    list-style: none;
+}
+
+/*--- Blog articles --*/
+aside.blogSocial
+{
+    float: right;
+    background:yellow;
+    width: 10%;
+    padding:0.5em
+}
+
+.mainContentSmallAside
+{
+    float: left;
+    max-width: 80%;
+}
+div.blogSocial
+{
+    overflow: hidden;
+    margin:auto;
+}
 
 /*---- Case Studies ---*/
 
