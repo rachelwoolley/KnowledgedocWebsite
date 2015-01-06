@@ -341,9 +341,16 @@ Blog
 
 .articleDate
 {
-    float: right;
-    color: #434343;
+ display:none;
 }
+@media(max-width:28em)
+{
+    .blogFirstParagraph
+    {
+        clear:left;
+    }
+}
+
 
 header.newsArticle h2
 {
@@ -1031,6 +1038,21 @@ body{font-size: 100%}
    Page Specific Rules
    Alphabetical Order
    ------------------------------- */
+    /*---------Blog-------------*/
+
+    .articleDate
+    {
+        display:inline;
+        float:right;
+        color: #434343;
+    }
+
+    .blogFirstParagraph
+    {
+        clear:none;
+    }
+
+
     /*------- Contact Us _------*/
     /*------ IFrame -------*/
     iframe
