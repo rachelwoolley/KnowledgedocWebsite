@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /samples/
+Disallow: /aspnet_client/
+Disallow: /membership/
+Disallow: /PDF/
+Disallow: /SMS/
+Disallow: /stats/
+Disallow: /website-old-6-1-15/
+Disallow: /about_us.htm
+Disallow: /contact_us.htm
+Disallow: /documentation_services.htm
+Disallow: /knowledge_management.htm
+Disallow: /methodology.htm
+Disallow: /office.htm
+Disallow: /policies_and_procedures.htm
+Disallow: /principals.htm
+Disallow: /software_documentation.htm
