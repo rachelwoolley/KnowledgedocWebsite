@@ -9,11 +9,6 @@
             techniques and tips for writing, editing, formatting and using documentation based software applications.
         </description>
         <item>
-            <title>Software documentation - How much or how little?</title>
-            <link>http://www.knowledgedoc.com.au/blog/articles/software-documentation.html</link>
-            <description>A discussion of the necessity of software documentation in current society.</description>
-        </item>
-        <item>
             <title>Creative traps in technical communication</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/creative-traps.html</link>
             <description>
@@ -22,6 +17,12 @@
                 common errors made by writers making the switch from creative to technical writing.
             </description>
         </item>
+        <item>
+            <title>Software documentation - How much or how little?</title>
+            <link>http://www.knowledgedoc.com.au/blog/articles/software-documentation.html</link>
+            <description>A discussion of the necessity of software documentation in current society.</description>
+        </item>
+
     </channel>
 
 </rss>
