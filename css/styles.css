@@ -429,23 +429,43 @@ ul.helpful li
 }
 
 /*--- Blog articles --*/
-aside.blogSocial
+.mainContentNoAside.blog
 {
-    float: right;
-    background:yellow;
-    width: 10%;
-    padding:0.5em
+    float:left;
+    max-width:100%;
 }
 
-.mainContentSmallAside
+aside.blogSocial
 {
-    float: left;
-    max-width: 80%;
+    clear: left;
+    padding-left:0.5em;
+
+
+
+
 }
+
+a.blogSocial
+{
+    text-decoration: none;
+}
+
+
+a.blogSocial img
+{
+float: left;
+max-width: 55px;
+padding-right: 1em;
+padding-bottom: .5em;
+}
+
+
 div.blogSocial
 {
+    max-width:284px;
     overflow: hidden;
-    margin:auto;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 /*---- Case Studies ---*/
@@ -1051,6 +1071,42 @@ body{font-size: 100%}
     .blogFirstParagraph
     {
         clear:none;
+    }
+    /*--- Blog articles --*/
+    .mainContentNoAside.blog
+    {
+        float:right;
+        width:90%;
+    }
+
+    aside.blogSocial
+    {
+        /*float: left;*/
+        position:fixed ;
+        top:190px;
+
+
+        max-width: 8%;
+        padding:0.5em
+    }
+
+
+    a.blogSocial img
+    {
+        width: 70px;
+        max-width: 100%;
+        padding-bottom: .5em;
+    }
+
+    .mainContentSmallAside
+    {
+        float: left;
+        max-width: 80%;
+    }
+    div.blogSocial
+    {
+        overflow: hidden;
+        margin:auto;
     }
 
 

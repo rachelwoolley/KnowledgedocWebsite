@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Knowledgedoc Technical Writing Blog</title>
+        <link>http://www.knowledgedoc.com.au/blog/</link>
+        <description>
+            The Knowledgedoc blog features discussions of the technical writing profession, knowledge management
+            techniques and tips for writing, editing, formatting and using documentation based software applications.
+        </description>
+        <item>
+            <title>Software documentation - How much or how little?</title>
+            <link>http://www.knowledgedoc.com.au/blog/articles/software-documentation.html</link>
+            <description>A discussion of the necessity of software documentation in current society.</description>
+        </item>
+        <item>
+            <title>Creative traps in technical communication</title>
+            <link>http://www.knowledgedoc.com.au/blog/articles/creative-traps.html</link>
+            <description>
+                Creativity is an essential skill for technical communicators, but it must be carefully managed
+                to ensure the quality of the content is not being compromised. This article looks at three of the most
+                common errors made by writers making the switch from creative to technical writing.
+            </description>
+        </item>
+    </channel>
+
+</rss>
