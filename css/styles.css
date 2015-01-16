@@ -399,11 +399,13 @@ figcaption.blog
 {
     float:right;
     padding:0.3em;
+    max-width: 100%;
 }
 .blogImageLeft
 {
     float:left;
     padding:0.3em;
+    max-width: 100%;
 }
 figcaption
 {
@@ -578,7 +580,26 @@ ul.social div:hover
 #linkedIn:hover{ background:url(../images/imageSpriteKnowledgedoc.gif) -285px 0;}
 #mail{ background:url(../images/imageSpriteKnowledgedoc.gif) -208.5px 0;}
 #mail:hover{ background:url(../images/imageSpriteKnowledgedoc.gif) -165.5px 0;}
+#google{ background:url(../images/imageSpriteKnowledgedoc.gif) -325px 0;}
+#google:hover{ background:url(../images/imageSpriteKnowledgedoc.gif) -365px 0;}
 
+
+div.social70
+{
+    height: 70px;
+    width:70px;
+    max-width:100%;
+    padding-bottom: .5em;
+}
+div:hover.social70
+{
+    height: 70px;
+    width:70px;
+    max-width:100%;
+    padding-bottom: .5em;
+}
+
+#linkedIn70{background: url(../images/imageSpriteKnowledgedoc.gif) 0 -75px;}
 
 .socialIcon{
     height:30px;
@@ -586,6 +607,7 @@ ul.social div:hover
     margin-right: 0.8em;
 
 }
+
 /* -------------------
 Documentation Services
 ---------------------- */
