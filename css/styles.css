@@ -398,6 +398,12 @@ figcaption.blog
 .blogImageRight
 {
     float:right;
+    padding:0.3em;
+}
+.blogImageLeft
+{
+    float:left;
+    padding:0.3em;
 }
 figcaption
 {
@@ -410,6 +416,17 @@ article
     box-shadow: 5px 5px 5px #dddddd;
 }
 
+.subscribe
+{
+    float:left;
+    max-width:40px;
+    padding:0.3em;
+}
+div.linkedin
+{
+    display: block;
+    width: 100%;
+}
 
 /* -------
 Blog Index
