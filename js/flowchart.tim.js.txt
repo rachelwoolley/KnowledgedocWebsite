@@ -1,0 +1,60 @@
+/**
+ * Created by WS8 on 5/11/14.
+ */
+
+var FlowchartDropDown = {
+    init: function() {
+        var links = $("a.flowchartLink");
+
+        links.click(function() {
+            //Using $() every time isn't necesary.
+            //I tend to put a $ in front of the name of jquery variables so I know they're jquery objects
+            var $link = $(this);
+            
+            /*
+                A better option than this is to add an ID to each info box, 
+                then have an attribute on each link that contains the ID of the associated box
+                eg: <a class="flowchartLink active" data-target="#end-users">End Users</a>
+
+                That way you could do: 
+                var infoId = $link.attr("data-target")
+                var $info = $(infoId)
+            */
+            var $info = $link.parent().next().next().next().next().next().next();
+
+            if($link.hasClass('active'))
+            {
+                $link.addClass('inactive');
+                $link.removeClass('active');
+                $info.addClass('hidden');
+                $info.removeClass('visible');
+            }
+            else
+            {
+                $link.addClass('active');
+                $link.removeClass('inactive');
+                $info.addClass('visible');
+                $info.removeClass('hidden');
+
+                var $box = $info.siblings(".visible");
+                $box.addClass('hidden');
+                $box.removeClass('visible');
+
+                //var boxLink = box.prev().prev().prev().prev().prev().prev().children();
+                //boxLink.addClass('inactive');
+                //boxLink.removeClass('active');
+
+                //Alternatively: $link.closest(".flowchart").find("a.flowchartLink").not($link)
+                var $otherLinks = $link.parent().parent().find("a.flowchartLink").not($link);
+                $otherLinks.addClass('inactive');
+                $otherLinks.removeClass('active');
+            }
+        });
+    }
+};
+
+//This is equivalent to $(document).ready(function() { ... })
+//It delays the init function until after the page has finished loading.
+$(function() { 
+    FlowchartDropDown.init(); 
+})

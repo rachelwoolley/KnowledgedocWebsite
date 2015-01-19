@@ -114,6 +114,35 @@ nav li ul ul a:hover{background-color: #000000;}
     padding:0;
 }
 
+ .arrow-up, .arrow-down
+ {
+     float:right;
+     width: 0;
+     height: 0;
+     border-left: 10px solid transparent;
+     border-right: 10px solid transparent;
+     margin-right:7px;
+     margin-top:11px;
+ }
+
+.arrow-up
+{
+    border-bottom: 16px solid #ffffff;
+}
+
+.arrow-down
+{
+    border-top: 16px solid #ffffff;
+}
+.arrow-up.grey
+{
+    border-bottom: 16px solid #414141;
+}
+
+.arrow-down.grey
+{
+    border-top: 16px solid #414141;
+}
 /* -------- Secondary Navigation -------- */
 
 #secondary a
@@ -1044,8 +1073,10 @@ body{font-size: 100%}
     }
 
 
-
-
+    .arrow-up, .arrow-down
+    {
+        display:none;
+    }
 
 
 /* --- Other ---- */

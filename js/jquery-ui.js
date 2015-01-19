@@ -2033,7 +2033,7 @@ spaces.hsla.to = function( rgba ) {
 		h = ( 60 * ( r - g ) / diff ) + 240;
 	}
 
-	// chroma (diff) == 0 means greyscale which, by definition, saturation = 0%
+	// chroma (diff) == 0 means <div id="arrow4" class="arrow-down"></div>scale which, by definition, saturation = 0%
 	// otherwise, saturation is based on the ratio of chroma (diff) to lightness (add)
 	if ( diff === 0 ) {
 		s = 0;
