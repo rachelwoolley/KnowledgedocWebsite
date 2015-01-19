@@ -191,7 +191,7 @@ nav li ul ul a:hover{background-color: #000000;}
 
 h1
 {
-    background: url(../images/imageSpriteKnowledgedoc.gif) 0 -34px no-repeat ;
+    background: url(../../images/imageSpriteKnowledgedoc.gif) 0 -34px no-repeat ;
     font-size:145%;
     margin-bottom: 0.3em;
 }
@@ -355,7 +355,7 @@ p, h2, h3, h4{padding: 0 0.2em;}
     {
 
         background:
-            url(../images/logos/mhead_r.jpg) no-repeat top right,
+            url(../../images/logos/mhead_r.jpg) no-repeat top right,
             linear-gradient(#f1f1f1 0%,#ffffff 40%, #ffffff 100%);
     }
 }
@@ -520,7 +520,7 @@ div.blogSocial
 
 #synergeticHeading
 {
-    background: url(../images/customers/Synergetic.png) no-repeat center left;
+    background: url(../../images/customers/Synergetic.png) no-repeat center left;
     background-size:28px;
     padding-left: 1.8em;
     color: rgb(52,154,154);
@@ -605,12 +605,12 @@ ul.social div:hover
 
 }
 
-#linkedIn{background:url(../images/imageSpriteKnowledgedoc.gif) -245px 0;}
-#linkedIn:hover{ background:url(../images/imageSpriteKnowledgedoc.gif) -285px 0;}
-#mail{ background:url(../images/imageSpriteKnowledgedoc.gif) -208.5px 0;}
-#mail:hover{ background:url(../images/imageSpriteKnowledgedoc.gif) -165.5px 0;}
-#google{ background:url(../images/imageSpriteKnowledgedoc.gif) -325px 0;}
-#google:hover{ background:url(../images/imageSpriteKnowledgedoc.gif) -365px 0;}
+#linkedIn{background:url(../../images/imageSpriteKnowledgedoc.gif) -245px 0;}
+#linkedIn:hover{ background:url(../../images/imageSpriteKnowledgedoc.gif) -285px 0;}
+#mail{ background:url(../../images/imageSpriteKnowledgedoc.gif) -208.5px 0;}
+#mail:hover{ background:url(../../images/imageSpriteKnowledgedoc.gif) -165.5px 0;}
+#google{ background:url(../../images/imageSpriteKnowledgedoc.gif) -325px 0;}
+#google:hover{ background:url(../../images/imageSpriteKnowledgedoc.gif) -365px 0;}
 
 
 div.social70
@@ -628,7 +628,7 @@ div:hover.social70
     padding-bottom: .5em;
 }
 
-#linkedIn70{background: url(../images/imageSpriteKnowledgedoc.gif) 0 -75px;}
+#linkedIn70{background: url(../../images/imageSpriteKnowledgedoc.gif) 0 -75px;}
 
 .socialIcon{
     height:30px;
@@ -752,17 +752,17 @@ ol.methodology
     padding:0;
     background:
 
-        url(../images/arrowDownGreySmall.gif) no-repeat 50% 3.8%,
-        url(../images/arrowDownGreySmall.gif) no-repeat 50% 12.5%,
-        url(../images/arrowDownGreySmall.gif) no-repeat 50% 21.2%,
-        url(../images/arrowDownGreySmall.gif) no-repeat 50% 32.6%,
-        url(../images/arrowDownGreySmall.gif) no-repeat 50% 41.3%,
-        url(../images/arrowDownGreySmall.gif) no-repeat 50% 52.8%,
-        url(../images/arrowDownGreySmall.gif) no-repeat 50% 61.5%,
-        url(../images/arrowDownGreySmall.gif) no-repeat 50% 70.2%,
-        url(../images/arrowDownGreySmall.gif) no-repeat 50% 78.9%,
-        url(../images/arrowDownGreySmall.gif) no-repeat 50% 87.6%,
-        url(../images/arrowDownGreySmall.gif) no-repeat 50% 96.3%;
+        url(../../images/arrowDownGreySmall.gif) no-repeat 50% 3.8%,
+        url(../../images/arrowDownGreySmall.gif) no-repeat 50% 12.5%,
+        url(../../images/arrowDownGreySmall.gif) no-repeat 50% 21.2%,
+        url(../../images/arrowDownGreySmall.gif) no-repeat 50% 32.6%,
+        url(../../images/arrowDownGreySmall.gif) no-repeat 50% 41.3%,
+        url(../../images/arrowDownGreySmall.gif) no-repeat 50% 52.8%,
+        url(../../images/arrowDownGreySmall.gif) no-repeat 50% 61.5%,
+        url(../../images/arrowDownGreySmall.gif) no-repeat 50% 70.2%,
+        url(../../images/arrowDownGreySmall.gif) no-repeat 50% 78.9%,
+        url(../../images/arrowDownGreySmall.gif) no-repeat 50% 87.6%,
+        url(../../images/arrowDownGreySmall.gif) no-repeat 50% 96.3%;
     /*19% - left aligned */
 
 }
