@@ -97,12 +97,12 @@
     </url>
     <url>
         <loc>http://www.knowledgedoc.com.au/blog/</loc>
-        <lastmod>2015-01-20</lastmod>
+        <lastmod>2015-01-27</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>http://www.knowledgedoc.com.au/blog/articles/</loc>
-        <lastmod>2015-01-20</lastmod>
+        <lastmod>2015-01-27</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
@@ -120,9 +120,15 @@
         <lastmod>2015-01-13</lastmod>
         <changefreq>yearly</changefreq>
     </url>
+
     <url>
         <loc>http://www.knowledgedoc.com.au/blog/articles/capturing-content.html</loc>
         <lastmod>2015-01-20</lastmod>
+        <changefreq>yearly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/blog/articles/numbered-heading.html</loc>
+        <lastmod>2015-01-27</lastmod>
         <changefreq>yearly</changefreq>
     </url>
     <url>

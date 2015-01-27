@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+ 	<channel>
+        	<title>Knowledgedoc Technical Writing Blog</title>
+        	<link>http://www.knowledgedoc.com.au/blog/</link>
+        	<description>
+            	The Knowledgedoc blog features discussions of the technical writing profession, knowledge management
+            	techniques and tips for writing, editing, formatting and using documentation based software applications.
+        	</description>
+        	<item>
+            		<title>Capturing content for mobile devices</title>
+            		<link>http://www.knowledgedoc.com.au/blog/articles/capturing-content.html</link>
+            		<description>
+                		I’m a dinosaur when it comes to mobile devices. What did I do when faced with capturing content for a
+                		mobile app from an iPhone? Call in one of the children to help of course.
+            		</description>
+        	</item>
+	</channel>
+</rss>
