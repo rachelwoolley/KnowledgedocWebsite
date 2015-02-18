@@ -97,12 +97,12 @@
     </url>
     <url>
         <loc>http://www.knowledgedoc.com.au/blog/</loc>
-        <lastmod>2015-02-10</lastmod>
+        <lastmod>2015-02-17</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>http://www.knowledgedoc.com.au/blog/articles/</loc>
-        <lastmod>2015-02-10</lastmod>
+        <lastmod>2015-02-17</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
@@ -139,6 +139,11 @@
     <url>
         <loc>http://www.knowledgedoc.com.au/blog/articles/use-word-styles.html</loc>
         <lastmod>2015-02-10</lastmod>
+        <changefreq>yearly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/blog/articles/writing-for-search-engines.html</loc>
+        <lastmod>2015-02-17</lastmod>
         <changefreq>yearly</changefreq>
     </url>
     <url>
