@@ -130,11 +130,19 @@ nav li ul ul a:hover{background-color: #000000;}
     border-bottom: 21px solid #ffffff;
 }
 
+.arrow-up.grey
+{
+    border-bottom: 21px solid #e6e6e6;
+}
+
 .arrow-down
 {
     border-top: 21px solid #ffffff;
 }
-
+.arrow-down.grey
+{
+    border-top: 21px solid #f0f0f0;
+}
 /* -------- Secondary Navigation -------- */
 
 #secondary a
