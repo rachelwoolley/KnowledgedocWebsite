@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bba140a-1819-4d8c-9d1f-8f89a263919c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/articles/planning-creatively.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.xml" afterPath="$PROJECT_DIR$/blog.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/index.html" afterPath="$PROJECT_DIR$/blog/articles/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/planning-creatively.html" afterPath="$PROJECT_DIR$/blog/articles/planning-creatively.html" />
     </list>
     <ignored path="KnowledgedocWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,15 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/categories/mobile-content/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/categories/online-content/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,16 +84,25 @@
       <file leaf-file-name="planning-creatively.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/articles/planning-creatively.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="36" selection-start="3481" selection-end="3527" vertical-scroll-proportion="-9.807693" vertical-offset="765" max-vertical-offset="4199">
+            <state line="56" column="24" selection-start="3333" selection-end="3333" vertical-scroll-proportion="-7.1923075" vertical-offset="765" max-vertical-offset="4199">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/articles/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="65" selection-start="4852" selection-end="4852" vertical-scroll-proportion="0.90135634" vertical-offset="714" max-vertical-offset="3842">
+            <state line="85" column="41" selection-start="4828" selection-end="4852" vertical-scroll-proportion="-20.923077" vertical-offset="901" max-vertical-offset="3842">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="25" selection-start="1226" selection-end="1272" vertical-scroll-proportion="0.3919903" vertical-offset="51" max-vertical-offset="1751">
               <folding />
             </state>
           </provider>
@@ -172,7 +172,6 @@
         <option value="$PROJECT_DIR$/blog/1502/index2.html" />
         <option value="$PROJECT_DIR$/blog/1502/index.html" />
         <option value="$PROJECT_DIR$/blog/1501/index.html" />
-        <option value="$PROJECT_DIR$/blog.xml" />
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/Supporting-do not upload/html templates/EmptyPage.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
@@ -185,16 +184,15 @@
         <option value="$PROJECT_DIR$/blog/categories/technical-writing/index.html" />
         <option value="$PROJECT_DIR$/blog/categories/word/index.html" />
         <option value="$PROJECT_DIR$/blog/index.html" />
-        <option value="$PROJECT_DIR$/blog/articles/planning-creatively.html" />
         <option value="$PROJECT_DIR$/blog/articles/index.html" />
+        <option value="$PROJECT_DIR$/blog/articles/planning-creatively.html" />
+        <option value="$PROJECT_DIR$/blog.xml" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-41" />
-    <option name="y" value="1" />
-    <option name="width" value="1840" />
+    <option name="width" value="1482" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -400,7 +398,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-41" y="1" width="1840" height="1040" extended-state="0" />
+    <frame x="0" y="0" width="1482" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -408,7 +406,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944568" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18911335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="128" y="140" width="417" height="591" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2366573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="128" y="140" width="417" height="591" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -646,13 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/articles/planning-creatively.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="36" selection-start="3481" selection-end="3527" vertical-scroll-proportion="-9.807693" vertical-offset="765" max-vertical-offset="4199">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="47" selection-start="1971" selection-end="1971" vertical-scroll-proportion="-20.26923" vertical-offset="0" max-vertical-offset="3825">
@@ -662,7 +653,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/articles/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="65" selection-start="4852" selection-end="4852" vertical-scroll-proportion="0.90135634" vertical-offset="714" max-vertical-offset="3842">
+        <state line="85" column="41" selection-start="4828" selection-end="4852" vertical-scroll-proportion="-20.923077" vertical-offset="901" max-vertical-offset="3842">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/articles/planning-creatively.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="24" selection-start="3333" selection-end="3333" vertical-scroll-proportion="-7.1923075" vertical-offset="765" max-vertical-offset="4199">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="25" selection-start="1226" selection-end="1272" vertical-scroll-proportion="0.3919903" vertical-offset="51" max-vertical-offset="1751">
           <folding />
         </state>
       </provider>
