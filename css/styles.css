@@ -402,6 +402,27 @@ div.categories a.mobile-devices:hover{background: #db0000}
 div.categories a.author-it:hover{background: #ce0bf0}
 div.categories a.author-it:hover{background: #b80ad6}
 
+/*
+section.articleCollection
+{
+    float: left;
+    width:46%;
+    padding:0.3em;
+    margin:0.3em;
+    border:1px solid #cacaca;
+}
+
+.articleCollection h3
+{
+    margin:0.1em;
+}
+
+*/
+
+.articleCollection h3
+{
+    margin-bottom: 0;
+}
 /*-------------------
 Blog
 ---------------------*/

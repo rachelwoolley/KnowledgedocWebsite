@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bba140a-1819-4d8c-9d1f-8f89a263919c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/articles/planning-creatively.html" />
-      <change type="DELETED" beforePath="C:\Users\WS8\Documents\Web\KnowledgedocWebsite\Supporting-do not upload\js source\styles.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/blog/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/categories/word/index.html" afterPath="$PROJECT_DIR$/blog/categories/word/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/numbered-headings.html" afterPath="$PROJECT_DIR$/blog/articles/numbered-headings.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -31,42 +30,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/categories/mobile-content/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/categories/online-content/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/categories/SEO/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="43" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/categories/software-documentation/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="62" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/categories/technical-writing/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="3" column="57" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
@@ -78,16 +41,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/categories/word/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="37" selection-start="4189" selection-end="4189" vertical-scroll-proportion="-12.307693" vertical-offset="921" max-vertical-offset="2975">
+            <state line="107" column="85" selection-start="6050" selection-end="6050" vertical-scroll-proportion="-18.961538" vertical-offset="1326" max-vertical-offset="2618">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="planning-creatively.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/articles/planning-creatively.html">
+      <file leaf-file-name="numbered-headings.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/articles/numbered-headings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="19" selection-start="4345" selection-end="4345" vertical-scroll-proportion="0.47960445" vertical-offset="802" max-vertical-offset="4199">
+            <state line="73" column="44" selection-start="4537" selection-end="4537" vertical-scroll-proportion="0.40577888" vertical-offset="918" max-vertical-offset="2958">
               <folding />
             </state>
           </provider>
@@ -96,16 +59,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="174" selection-start="4082" selection-end="4082" vertical-scroll-proportion="-5.230769" vertical-offset="1003" max-vertical-offset="4284">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/articles/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="63" selection-start="964" selection-end="1006" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="3740">
+            <state line="97" column="102" selection-start="6278" selection-end="6285" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="3825">
               <folding />
             </state>
           </provider>
@@ -114,7 +68,16 @@
       <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="143" column="0" selection-start="2258" selection-end="2258" vertical-scroll-proportion="0.0" vertical-offset="1923" max-vertical-offset="31841">
+            <state line="423" column="20" selection-start="6993" selection-end="6993" vertical-scroll-proportion="0.0" vertical-offset="6369" max-vertical-offset="32198">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="converting-word-to-online.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/articles/converting-word-to-online.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="83" selection-start="3681" selection-end="3724" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="3366">
               <folding />
             </state>
           </provider>
@@ -163,20 +126,17 @@
         <option value="$PROJECT_DIR$/blog/articles/software-documentation.html" />
         <option value="$PROJECT_DIR$/Supporting-do not upload/blogEmptyPageNoAside.html" />
         <option value="$PROJECT_DIR$/Supporting-do not upload/html templates/blogEmptyPageNoAside.html" />
-        <option value="$PROJECT_DIR$/blog/articles/numbered-headings.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/blog/page/2/index.html" />
         <option value="$PROJECT_DIR$/blog/Jan-15/index2.html" />
         <option value="$PROJECT_DIR$/blog/Jan-15/index.html" />
         <option value="$PROJECT_DIR$/blog/articles/use-word-styles.html" />
         <option value="$PROJECT_DIR$/blog/articles/writing-for-search-engines.html" />
-        <option value="$PROJECT_DIR$/blog/articles/index.html" />
         <option value="$PROJECT_DIR$/blog/articles/converting-word-to-online.html" />
         <option value="$PROJECT_DIR$/blog/articles/preparing-online-content.html" />
         <option value="$PROJECT_DIR$/blog/1502/index2.html" />
         <option value="$PROJECT_DIR$/blog/1502/index.html" />
         <option value="$PROJECT_DIR$/blog/1501/index.html" />
-        <option value="$PROJECT_DIR$/blog.xml" />
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/Supporting-do not upload/html templates/EmptyPage.html" />
         <option value="$PROJECT_DIR$/blog/categories/project-management/index.html" />
@@ -186,17 +146,19 @@
         <option value="$PROJECT_DIR$/blog/categories/SEO/index.html" />
         <option value="$PROJECT_DIR$/blog/categories/software-documentation/index.html" />
         <option value="$PROJECT_DIR$/blog/categories/technical-writing/index.html" />
+        <option value="$PROJECT_DIR$/blog/articles/index.html" />
+        <option value="$PROJECT_DIR$/blog/articles/planning-creatively.html" />
+        <option value="$PROJECT_DIR$/blog.xml" />
+        <option value="$PROJECT_DIR$/blog/index.html" />
+        <option value="$PROJECT_DIR$/blog/articles/numbered-headings.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/blog/categories/word/index.html" />
-        <option value="$PROJECT_DIR$/blog/articles/planning-creatively.html" />
-        <option value="$PROJECT_DIR$/blog/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="97" />
-    <option name="width" value="1840" />
+    <option name="width" value="1186" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -256,38 +218,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Supporting-do not upload" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Supporting-do not upload" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -373,7 +303,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog/articles" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/dev/KDAssist" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistory" value="&#10;{" />
@@ -381,18 +311,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\WS8\Documents\Web\KnowledgedocWebsite\Supporting-do not upload\html templates" />
       <recent name="C:\Users\WS8\Documents\Web\KnowledgedocWebsite\blog\categories\project-management" />
       <recent name="C:\Users\WS8\Documents\Web\KnowledgedocWebsite\blog\categories\software-documentation" />
       <recent name="C:\Users\WS8\Documents\Web\KnowledgedocWebsite\blog\categories\mobile-content" />
       <recent name="C:\Users\WS8\Documents\Web\KnowledgedocWebsite\blog\categories\technical-writing" />
+      <recent name="C:\Users\WS8\Documents\Web\KnowledgedocWebsite\blog\categories\SEO" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\WS8\Documents\Web\KnowledgedocWebsite\blog\articles" />
       <recent name="C:\Users\WS8\Documents\Web\KnowledgedocWebsite\blog\categories\formatting" />
       <recent name="C:\Users\WS8\Documents\Web\KnowledgedocWebsite\css" />
       <recent name="C:\Users\WS8\Documents\Web\KnowledgedocWebsite\blog\1502" />
       <recent name="C:\Users\WS8\Documents\Web\KnowledgedocWebsite\blog\1501" />
+      <recent name="C:\Users\WS8\Documents\Web\KnowledgedocWebsite\blog\15-01" />
     </key>
   </component>
   <component name="RunManager">
@@ -434,7 +364,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="97" y="0" width="1840" height="1040" extended-state="0" />
+    <frame x="0" y="0" width="1186" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -442,7 +372,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944568" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="128" y="140" width="417" height="591" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35017732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="128" y="140" width="417" height="591" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -450,12 +380,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -500,46 +430,64 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/categories/project-management/index.html">
+    <entry file="file://$PROJECT_DIR$/blog/categories/technical-writing/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="63" selection-start="3716" selection-end="3716" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1972">
+        <state line="3" column="57" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/categories/formatting/index.html">
+    <entry file="file://$PROJECT_DIR$/blog/categories/word/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="50" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
+        <state line="63" column="21" selection-start="3778" selection-end="3778" vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="2924">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/categories/mobile-content/index.html">
+    <entry file="file://$PROJECT_DIR$/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
+        <state line="31" column="47" selection-start="1971" selection-end="1971" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="3825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/articles/planning-creatively.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="24" selection-start="3333" selection-end="3333" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="4199" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/articles/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="41" selection-start="4828" selection-end="4852" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="3842" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="25" selection-start="2197" selection-end="2197" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="358" column="0" selection-start="5347" selection-end="5347" vertical-scroll-proportion="0.0" vertical-offset="5952" max-vertical-offset="31705">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/online-content/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/SEO/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="43" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="41" column="91" selection-start="2811" selection-end="2811" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/software-documentation/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="62" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="3" column="62" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/technical-writing/index.html">
@@ -551,65 +499,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/word/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="24" selection-start="3953" selection-end="3953" vertical-scroll-proportion="0.0" vertical-offset="921" max-vertical-offset="2975">
+        <state line="63" column="21" selection-start="3778" selection-end="3778" vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="2924">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="47" selection-start="1971" selection-end="1971" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="3825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/articles/planning-creatively.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="24" selection-start="3333" selection-end="3333" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="4199" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/articles/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="63" selection-start="964" selection-end="1006" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="3740">
+        <state line="85" column="41" selection-start="4828" selection-end="4852" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="3842" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="25" selection-start="2197" selection-end="2197" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1530">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="0" selection-start="2258" selection-end="2258" vertical-scroll-proportion="0.0" vertical-offset="1923" max-vertical-offset="31841">
+        <state line="358" column="0" selection-start="5347" selection-end="5347" vertical-scroll-proportion="0.0" vertical-offset="5952" max-vertical-offset="31705">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/project-management/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="63" selection-start="3716" selection-end="3716" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="62" column="63" selection-start="3716" selection-end="3716" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/formatting/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="50" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="3" column="50" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/mobile-content/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/online-content/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/SEO/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="43" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="3" column="43" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/software-documentation/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="62" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="3" column="62" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/technical-writing/index.html">
@@ -628,9 +581,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/articles/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="31" selection-start="5405" selection-end="5484" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="3740">
-          <folding />
-        </state>
+        <state line="97" column="31" selection-start="5405" selection-end="5484" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="3740" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
@@ -642,7 +593,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="78" selection-start="8057" selection-end="8196" vertical-scroll-proportion="0.0" vertical-offset="1784" max-vertical-offset="3519" />
+        <state line="120" column="78" selection-start="8057" selection-end="8196" vertical-scroll-proportion="0.0" vertical-offset="1784" max-vertical-offset="3519">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/navigation.min.js">
@@ -687,44 +640,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/project-management/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="63" selection-start="3716" selection-end="3716" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="62" column="63" selection-start="3716" selection-end="3716" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/formatting/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="50" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="3" column="50" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/mobile-content/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/online-content/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/categories/SEO/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="43" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="3" column="54" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/software-documentation/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="62" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972">
-          <folding />
-        </state>
+        <state line="3" column="62" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/categories/technical-writing/index.html">
@@ -734,37 +670,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/categories/SEO/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="91" selection-start="2811" selection-end="2811" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1972" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/articles/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="63" selection-start="964" selection-end="1006" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="3740">
+        <state line="78" column="32" selection-start="4485" selection-end="4485" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="3740" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/articles/planning-creatively.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="24" selection-start="2685" selection-end="2685" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="4199" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="1398" selection-end="1398" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1428">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/articles/converting-word-to-online.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="83" selection-start="3681" selection-end="3724" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="3366">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="0" selection-start="2258" selection-end="2258" vertical-scroll-proportion="0.0" vertical-offset="1923" max-vertical-offset="31841">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/categories/word/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="37" selection-start="4189" selection-end="4189" vertical-scroll-proportion="-12.307693" vertical-offset="921" max-vertical-offset="2975">
+        <state line="423" column="20" selection-start="6993" selection-end="6993" vertical-scroll-proportion="0.0" vertical-offset="6369" max-vertical-offset="32198">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="174" selection-start="4082" selection-end="4082" vertical-scroll-proportion="-5.230769" vertical-offset="1003" max-vertical-offset="4284">
+        <state line="97" column="102" selection-start="6278" selection-end="6285" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="3825">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/articles/planning-creatively.html">
+    <entry file="file://$PROJECT_DIR$/blog/categories/word/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="19" selection-start="4345" selection-end="4345" vertical-scroll-proportion="0.47960445" vertical-offset="802" max-vertical-offset="4199">
+        <state line="107" column="85" selection-start="6050" selection-end="6050" vertical-scroll-proportion="-18.961538" vertical-offset="1326" max-vertical-offset="2618">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/articles/numbered-headings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="44" selection-start="4537" selection-end="4537" vertical-scroll-proportion="0.40577888" vertical-offset="918" max-vertical-offset="2958">
           <folding />
         </state>
       </provider>
