@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Preparing online content for Word and PDF outputs</title>
+    <title>Making the Word Quick Styles gallery useful</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="../../css/styles.min.css?v=1.0">
@@ -11,7 +11,7 @@
 </head>
 <body>
 <div id="overall">
-        <header>
+    <header>
         <div id="mastheadSpan"><img id=masthead src = "../../images/logos/KdLogoReflection3.gif" alt="knowledgeDoc"></div>
         <nav id="nav">
             <ul >
@@ -58,43 +58,79 @@
         <div id="content">
             <main class="mainContentNoAside blog">
                 <header class="newsArticle">
-                    <h1><span id="head">Preparing online content for Word and PDF outputs<span class="articleDate">17/03/15</span></span> </h1>
+                    <h1><span id="head">Making the Word Quick Styles gallery useful<span class="articleDate">10/03/15</span></span> </h1>
                 </header>
                 <figure class="blogPhoto">
-                    <img class="blogPhoto" src="../../images/staff/neil-woolley-small.jpg" alt="Neil Woolley">
-                    <figcaption class="blog">by Neil Woolley</figcaption>
+                    <img class="blogPhoto" src="../../images/staff/sue-woolley-small.jpg" alt="Sue Woolley">
+                    <figcaption class="blog">by Sue Woolley</figcaption>
                 </figure>
+                <p class="blogFirstParagraph">
+                    Last month I talked about the <a href="use-word-styles.html">importance of using Microsoft Word’s styles</a>. In this article I
+                    discuss ways to get the most out of the Word Quick Styles panel. On the Home tab, Word displays a
+                    Styles list, called the Quick Styles gallery.
+                </p>
 
-
-                <p>In a previous article, I discussed <a href="converting-word-to-online.html">reformatting  and preparing Microsoft Word documents</a>
-                    to import into our  authoring tool; enabling us to create a variety of outputs, including online  help.</p>
-                <p> A bit like a hobbit&rsquo;s tale &lsquo;There and  back again&rsquo;, our customers often want Word/PDF versions as well as the online  content. So once we&rsquo;ve gone to the trouble to bring in Word documents into our  authoring tool, we need to be able to:</p>
-                <ul>
-                    <li>publish  the reformatted and updated documents back to Word</li>
-                    <li>save from Word to PDF.</li>
-                </ul>
-                <p>During my 2013 trip to Scotland, I had  the pleasure of going to <a href="http://www.nts.org.uk/property/robert-smails-printing-works">Robert Smail's Printing Works</a>. The printing  presses use manual typesetting and used to be powered by a water wheel. After  the page was printed the required number of times, the apprentices had to dismantle  the &lsquo;forme&rsquo;; they were told to &lsquo;mind their ps and qs&rsquo; so they put the &lsquo;cast metal  sorts&rsquo; into their correct slots in the type case (a compartmentalised wooden  box). We&rsquo;ve come a long way since those days.</p>
-                <p>It&rsquo;s rare to provide printed user guides  anymore. In fact, it is becoming difficult to justify the cost of printing some  manuals. One of our customer&rsquo;s set of manuals is over 9,000 A4 pages (that&rsquo;s  nine reams of double-sided paper!). </p>
-                <p> Adobe&rsquo;s PDF has become a standard way for  printable documents to be provided to end users electronically. PDFs can be  viewed, searched and printed.</p>
-                <p> Before we can create a PDF, we first need  to output to a Word document. The format of the Word document determines the  PDF&rsquo;s title page, headers and footers, styles and so on.</p>
-                <p> Some of the steps we use to output from  our authoring tool back to a Word document are:</p>
+                <img src="../../images/blog/word-quick-styles-1.png" class="blogImageLeft">
+                <p class="clear">
+                    This is a very useful shortcut for applying styles to text. You can select a section of your document
+                    and click on the style to apply it to the text. The Styles list that Word gives you by default is not
+                    completely user-friendly, so here are some tips for making it more useful.
+                </p>
+                <p>
+                    Firstly, decide on the set of styles that you use most. I suggest that your set includes a minimum of
+                    Body Text, Heading 1, Heading 2, Heading 3, a bullet style, a number style and a list continue style.
+                </p>
+                <p>
+                    Secondly, delete all the styles from the list that you never use, such as No Spacing and Subtle Emphasis:
+                </p>
                 <ol>
-                    <li>Apply  and test the organisation&rsquo;s Word template with representative content:</li>
-                    <li>Our  work earlier to set up the organisation&rsquo;s Word template pays dividends at this  stage.</li>
-                    <li>Publishing  content back to Word can be very quick once all the objects are set up and  tested.</li>
-                    <li>Usually  the content is almost identical between the online (web, context-sensitive) and  printable versions (Word, PDF).</li>
-                    <li>Apply  templates to topics; this sets page numbering, headers and footers, section  headings and whether topics need to throw a page break.</li>
-                    <li>Scale  the graphics to fit on the printed page. We can apply a graphic template to  ensure the graphic looks great online, and is as big and clear as it can be on  the printed page.</li>
-                    <li>Recapture  poor screens. If we have access to demonstration systems or web applications,  we prefer to recapture fuzzy screens; we capture the part of the screen needed  and do it well.</li>
-                    <li>Add  pagination to steps. For example, if you have a step describing what to do, you  want to keep the accompanying graphic on the same page as it. Word has a good  feature &lsquo;keep with next&rsquo; that is not supported in our authoring tool. We have a  handy technique to force page breaks using a special object.</li>
-                    <li>Add  &lsquo;last modified&rsquo; at the end of topics. We always include a &lsquo;last modified&rsquo; date  and time for each topic output to the online help; users can see if the topic  was recently updated. Our &lsquo;last modified&rsquo; object also resolves any end-of-topic  formatting issues.</li>
-                    <li>Add  topics that add &lsquo;Intentionally left blank&rsquo; onto blank pages. Surprisingly, the  number one reason users contact the support staff about the documentation is  that there might be a blank page just before a new section; they are concerned  that they are missing a page of information. We avoid this phone call by  inserting a topic that includes a page break and the phrase &lsquo;This page  intentionally left blank&rsquo;.</li>
-                    <li>Use  an &lsquo;after publish&rsquo; macro. We have a Word macro that trolls through the output  from the authoring tool and resolves many common formatting issues, such as  table formatting.</li>
-                    <li>Check  the Word document after it is published. We check for issues, resolve them in  the authoring tool and republish to Word. Eventually there are usually one to  two things left that can only be resolved by editing the final Word document.</li>
+                    <li>
+                        Right click on the style that you want to remove.
+                        <br> <img src="../../images/blog/word-quick-styles-2.png">
+                    </li>
+                    <li>
+                        Click <strong>Remove from Quick Style Gallery</strong>.
+                    </li>
+
                 </ol>
-                <p>Once we have a final Word document, we  can output it to a PDF. From Microsoft Word 2010 onwards, you can select <strong>File &gt; Save As</strong> and select <strong>PDF</strong> from the <strong>Save as type</strong> drop-down list. This allows anyone to easily create  PDFs without needing other tools.</p>
-                <p> One of our customers uses the latest Word  document to mark changes to be applied during the next quarterly review.</p>
-                <p> PDFs are loaded by our customers onto  their intranets (internal use) and extranets (external use). We also have a  link to the PDFs from the home page of the online help; users mostly use the  online help but can open the PDF to view and print pages.</p>
+                <p>And finally, add your set of most frequently used styles:</p>
+                <ol>
+                    <li>
+                        Click the diagonal arrow at the bottom right hand end of the Styles list.
+                        <br>
+                        <img src="../../images/blog/word-quick-styles-3.png">
+                        <br>
+                        The Styles pane is displayed.
+                    </li>
+                    <li>
+                        Click <strong>Options…</strong>
+                        <br>
+                        <img src="../../images/blog/word-quick-styles-6.png">
+                        <br>
+                        The Styles Pane Options window is displayed.
+                        <br>
+                        <img src="../../images/blog/word-quick-styles-4.png">
+                    </li>
+                    <li>In the <strong>Select styles to show</strong> field, select <strong>All styles</strong>.</li>
+                    <li>Click OK.</li>
+                    <li>Find the style you want to add to the Quick Styles list on the ribbon.</li>
+                    <li>
+                        Right click on the style.
+                        <br>
+                        <img src="../../images/blog/word-quick-styles-7.png">
+                    </li>
+                    <li>
+                        Click <strong>Add to Quick Style Gallery</strong>.
+                        <br>
+                        The style will appear in the Quick Styles list on the Home tab.
+                    </li>
+                    <li>
+                        Your Quick Style gallery should look something like this when you are finished:
+                        <br>
+                        <img src="../../images/blog/word-quick-styles-8.png">
+                    </li>
+                </ol>
+                <p>My next article will discuss changing the order of styles on the Quick Styles panel.</p>
                 <p><a href="../../blog">Back to blog home.</a></p>
             </main>
             <aside class="blogSocial">
