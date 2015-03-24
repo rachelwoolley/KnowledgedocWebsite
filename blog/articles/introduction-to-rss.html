@@ -1,9 +1,164 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>Introduction to RSS feeds</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../../css/styles.min.css?v=1.0">
+    <script src="../../js/jquery-1.11.2.min.js"></script>
+    <link rel="shortcut icon" href="../../images/logos/KdLogoSymbol.ico">
+    <link href="http://www.knowledgedoc.com.au/blog.xml" rel="alternate" type="application/rss+xml" title="Knowledgedoc articles on technical writing" />
 </head>
 <body>
+<div id="overall">
+    <header>
+        <div id="mastheadSpan"><img id=masthead src = "../../images/logos/KdLogoReflection3.gif" alt="knowledgeDoc"></div>
+        <nav id="nav">
+            <ul >
+                <li ><div class="arrow-down" id="arrow1"></div> <a href="" class="menu-button">Menu</a>
+                    <ul class="hidden top">
+                        <li ><a href="../../../index.html">Home</a></li>
+                        <li class="has-dropdown " >
+                            <div class="arrow-down" id="arrow2"></div>
+                            <a href="../../documentation">Documentation Services</a>
+                            <ul class="hidden dropdown " id="dropdown1">
+                                <li><a href="../../documentation/software.html"  >Software Documentation</a></li>
+                                <li><a  href="../../documentation/policies-and-procedures.html" >Policies and Procedures</a></li>
+                                <li><a href="../../documentation/early-learning-procedures.html">Early Learning Procedures</a></li>
+                                <li><a  href="../../documentation/methodology.html"  >Methodology</a></li>
+                                <li><a href="../../documentation/formats.html">Documentation Formats</a></li>
+                            </ul>
+                        </li>
+                        <li class="has-dropdown">
+                            <div class="arrow-down" id="arrow3"></div>
+                            <a href = "../../business">Business Services</a>
+                            <ul class="hidden dropdown ">
+                                <li><a href="../../business/process-analysis.html">Business Process Analysis</a></li>
+                                <li><a href="../../business/continuity-plans.html">Business Continuity Plans</a></li>
+                                <li><a  href="../../business/knowledge-management.html">Knowledge Management</a></li>
+                                <li><a  href = "../../business/serviced-offices.html">Serviced Offices</a></li>
+                            </ul>
+                        </li>
+                        <li class="has-dropdown"><div class="arrow-down" id="arrow4"></div>
+                            <a href="../../about">About Us</a>
+                            <ul class="hidden dropdown" id="dropdown2">
+                                <li><a href="../../about/our-team.html" >Our Team</a></li>
+                                <li><a href="../../about/recent-customers.html">Recent Customers</a></li>
+                                <li><a href="../../about/careers">Careers</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../../blog">Blog</a></li>
+                        <li><a href="../../contact">Contact Us</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <div id="contentfooter">
+        <div id="content">
+            <main class="mainContentNoAside blog">
+                <header class="newsArticle">
+                    <h1><span id="head">Introduction to RSS feeds<span class="articleDate">31/03/15</span></span> </h1>
+                </header>
+                <figure class="blogPhoto">
+                    <img class="blogPhoto" src="../../images/staff/rachel-woolley-small.jpg" alt="Rachel Woolley">
+                    <figcaption class="blog">by Rachel Woolley</figcaption>
+                </figure>
+                <p>
+                    For years I’ve seen the acronym RSS around, or the bright orange symbol <img src="../../images/blog/rss.gif" alt="RSS icon">
+                    but it wasn’t until I started managing the Knowledgedoc blog that I actually investigated what these
+                    things were.  It turns out that an RSS feed is a really great tool for following a blog. In this
+                    article I’ll introduce you to RSS feeds and how to follow all your favourite organisations.
+                </p>
+                <p>
+                    RSS (Rich Site Summary, sometimes referred to as Really Simple Syndication) is a format for delivering information
+                    that is frequently being updated, most commonly used for blogs and news sites. Instead of having to check
+                    all the websites you like reading to see if they’ve posted a new update you can receive individual notifications
+                    for each update or have all the updates displayed in one place. All you need to do is download a feed reader
+                    or feed aggregator and subscribe to all your favourite websites.
+                </p>
+                <p>
+                    There’s a plethora of free software out there that you can follow RSS feeds with. I use the Google Chrome
+                    extension <a href="https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp?hl=en">RSS Feed Reader</a>.
+                    There are Windows and Mac applications, phone applications, web applications; every conceivable platform has a RSS reader.
+                </p>
+                <p>
+                    Once you’ve downloaded a suitable feed reader go out there and subscribe to your favourite blogs and
+                    news sites! The Chrome extension RSS Feed Reader notifies me with a green plus symbol <img src="../../images/blog/rss-notification.png" alt="RSS feed reader notification">
+                    every time I’m on a webpage with a RSS feed available.
+                </p>
+                <p>For example, to subscribe to the Knowledgedoc blog:</p>
+                <ol>
+                    <li>Navigate to <a href="http://www.knowledgedoc.com.au/blog/">Knowledgedoc blog home page</a>.</li>
+                    <li>Click <img src="../../images/blog/rss-notification.png" alt="RSS feed reader notification"></li>
+                    <li>
+                        Click the Add Feed button.<br>
+                        <img src="../../images/blog/add-rss-feed.gif" alt="Add RSS feed button">
+                    </li>
+                    <li>
+                        Click the Follow button.<br>
+                        <img src="../../images/blog/follow-knowledgedoc-rss.gif"> <br>
+                        The Knowledgedoc blog has now been added to your RSS feeds. <br>
+                        <img src="../../images/blog/knowledgedoc-rss-feed-followed.gif" alt="Knowledgedoc rss feed followed">
+                    </li>
 
+                </ol>
+                <p>
+                    Hope you have fun subscribing to lots of blogs! Next month I’ll walk you through creating and maintaining your own RSS feed.
+                </p>
+                <p><a href="../../blog">Back to blog home.</a></p>
+            </main>
+            <aside class="blogSocial">
+                <div class="blogSocial">
+                    <a class="blogSocial" target="_blank" href="">
+                        <img src="../../images/social/linkedin.png" alt="Share on LinkedIn" title="Share on LinkedIn">
+                    </a>
+                    <a class="blogSocial" target="_blank" href="">
+                        <img src="../../images/social/google.png" alt="Share on Google+" title="Share on Google+">
+                    </a>
+                    <a class="blogSocial" target="_blank" href="">
+                        <img src="../../images/social/facebook.png" alt="Share on Facebook" title="Share on Facebook">
+                    </a>
+                    <a class="blogSocial" target="_blank" href="">
+                        <img src="../../images/social/twitter.png" alt="Share on Twitter" title="Share on Twitter">
+                    </a>
+                </div>
+            </aside>
+
+
+        </div>
+
+        <footer>    <img id=logo src = "../../images/logos/KdLogoFooter.gif" alt="knowledgeDoc">
+            <p>Suite 19, 1st Floor, Wheelers Hill Business Centre,<br>
+                202 Jells Road, Wheelers Hill, Victoria, Australia, 3150<br>
+                <strong>Phone:</strong> 1300 551 746 <strong>Fax:</strong> 03 9560 6378<br>
+                <strong>Email:</strong> <a href="mailto:info@knowledgedoc.com.au">info@knowledgedoc.com.au</a></p>
+            <div id="privacy">
+                <p>
+                    © 2015 Knowledgedoc. All rights reserved.
+                </p>
+                <p>
+                    <a href="../../info/legal.html">Legal Notices </a>    |
+                    <a href="../../info/privacy.html">Privacy Statement</a>    |
+                    <a href="../../info/site-map.html">Site Map</a>
+                </p>
+
+            </div>
+        </footer>
+
+    </div>
+</div>
+
+<script src="../../js/navigation.min.js"></script>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-58255814-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
 </body>
 </html>

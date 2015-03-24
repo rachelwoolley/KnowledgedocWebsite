@@ -9,6 +9,16 @@
             techniques and tips for writing, editing, formatting and using documentation based software applications.
         </description>
         <item>
+            <title>Introduction to RSS feeds</title>
+            <link>http://www.knowledgedoc.com.au/blog/articles/introduction-to-rss.html</link>
+            <description>
+                For years I’ve seen the acronym RSS around, or the bright orange RSS symbol
+                but it wasn’t until I started managing the Knowledgedoc blog that I actually investigated what these
+                things were.  It turns out that an RSS feed is a really great tool for following a blog. In this
+                article I’ll introduce you to RSS feeds and how to follow all your favourite organisations.
+            </description>
+        </item>
+        <item>
             <title>Writing creatively for documentation projects</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/writing-creatively.html</link>
             <description>
