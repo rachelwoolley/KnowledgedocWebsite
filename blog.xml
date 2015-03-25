@@ -1,56 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
     <channel>
         <title>Knowledgedoc Technical Writing Blog</title>
         <link>http://www.knowledgedoc.com.au/blog/</link>
+        <atom:link href="http://www.knowledgedoc.com.au/blog.xml" rel="self" type="application/rss+xml" />
         <description>
             The Knowledgedoc blog features discussions of the technical writing profession, knowledge management
             techniques and tips for writing, editing, formatting and using documentation based software applications.
         </description>
+        <!--
         <item>
             <title>Introduction to RSS feeds</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/introduction-to-rss.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/introduction-to-rss.html</guid>
             <description>
                 For years I’ve seen the acronym RSS around, or the bright orange RSS symbol
                 but it wasn’t until I started managing the Knowledgedoc blog that I actually investigated what these
                 things were.  It turns out that an RSS feed is a really great tool for following a blog. In this
                 article I’ll introduce you to RSS feeds and how to follow all your favourite organisations.
             </description>
+            <pubDate>Tue, 31 Mar 2015 13:00:00 +1100</pubDate>
         </item>
+        -->
         <item>
             <title>Writing creatively for documentation projects</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/writing-creatively.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/writing-creatively.html</guid>
             <description>
                 Technical documentation must always be accurate and easy-to-understand. This means using unambiguous
                 terms, avoiding long sentences, and enabling users to easily find information. This can sound a bit
                 dry, but crafting good documentation requires a creative mindset during each project phase.
             </description>
+            <pubDate>Tue, 24 Mar 2015 13:00:00 +1100</pubDate>
         </item>
         <item>
             <title>Preparing online content for Word and PDF outputs</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/preparing-online-content.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/preparing-online-content.html</guid>
             <description>
                 For over a dozen years we’ve been delivering online help and printable information for the many based on the expertise of the few.
                 To produce printable information, we publish from our authoring tool to Microsoft Word and save from there to a PDF.
             </description>
+            <pubDate>Tue, 17 Mar 2015 13:00:00 +1100</pubDate>
         </item>
         <item>
             <title>Making the Word Quick Styles gallery useful</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/word-quick-styles.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/word-quick-styles.html</guid>
             <description>
                 Sue discusses getting the most out of Microsoft Word's Quick Styles panel, customising the styles appearing on the
                 panel to best suit your needs.
             </description>
+            <pubDate>Tue, 10 Mar 2015 13:00:00 +1100</pubDate>
         </item>
         <item>
             <title>Planning creatively for documentation projects</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/planning-creatively.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/planning-creatively.html</guid>
             <description>
                 Thinking creatively is an essential skill for technical writers. Over three articles I will explore some
                 of the ways creativity can be employed during a documentation project. This week is all about the planning
                 stage and several ways creativity can help you manage a documentation project.
             </description>
+            <pubDate>Tue, 03 Mar 2015 13:00:00 +1100</pubDate>
         </item>
 
         <item>
@@ -58,61 +71,77 @@
             <link>
                 http://www.knowledgedoc.com.au/blog/articles/converting-word-to-online.html
             </link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/converting-word-to-online.html</guid>
             <description>
                 We humans forget how old we really are: we contain 14.3 billion year old hydrogen molecules and 3.6 billion year old life-giving molecules such as DNA and its precursors. It’s little wonder that we’re very good at breathing but not so good at driving (since 1888) or using Microsoft Word (since 1983). Project sponsors usually over-estimate the ability of their subject matter experts to use Word to create online content for their end-user audience. I look at some of the steps to reformat and prepare a Word document to import into our authoring tool; enabling us to create a variety of outputs, including online help.
             </description>
+            <pubDate>Tue, 24 Feb 2015 13:00:00 +1100</pubDate>
         </item>
         <item>
             <title>How to write web content for search engines</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/writing-for-search-engines.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/writing-for-search-engines.html</guid>
             <description>
                 Rachel discusses the best way to write web content that will be noticed by search engines.
             </description>
+            <pubDate>Tue, 17 Feb 2015 13:00:00 +1100</pubDate>
         </item>
         <item>
             <title>Five reasons to use Word styles</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/use-word-styles.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/use-word-styles.html</guid>
             <description>
                 Sue shares her top five reasons to make the time to learn how to use Word styles.
             </description>
+            <pubDate>Tue, 10 Feb 2015 13:00:00 +1100</pubDate>
         </item>
         <item>
             <title>Project management for writers</title>
-            <link>http://www.knowledgedoc.com.au/blog/articles/project-management-for-writers.html</link>
+            <link>http://www.knowledgedoc.com.au/blog/articles/project-management-for-writers.pdf</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/project-management-for-writers.pdf</guid>
             <description>
                 This week features a Southern Communicator article by Penelope Goward and Sue Woolley discussing their
                 techniques for managing writing projects. Penelope and Sue also run courses in project management for writers.
             </description>
+            <pubDate>Tue, 03 Feb 2015 13:00:00 +1100</pubDate>
         </item>
         <item>
             <title>Word tips - How to set up numbered headings</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/numbered-headings.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/numbered-headings.html</guid>
             <description>
                 Numbered headings can be very useful for organising your document into sections. This article will cover
                 using Word’s predefined numbered headings and setting up your own numbered heading scheme.
             </description>
+            <pubDate>Tue, 27 Jan 2015 13:00:00 +1100</pubDate>
         </item>
         <item>
             <title>Capturing content for mobile devices</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/capturing-content.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/capturing-content.html</guid>
             <description>
                 I’m a dinosaur when it comes to mobile devices. What did I do when faced with capturing content for a
                 mobile app from an iPhone? Call in one of the children to help of course.
             </description>
+            <pubDate>Tue, 20 Jan 2015 13:00:00 +1100</pubDate>
         </item>
         <item>
             <title>Creative traps in technical communication</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/creative-traps.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/creative-traps.html</guid>
             <description>
                 Creativity is an essential skill for technical communicators, but it must be carefully managed
                 to ensure the quality of the content is not being compromised. This article looks at three of the most
                 common errors made by writers making the switch from creative to technical writing.
             </description>
+            <pubDate>Tue, 13 Jan 2015 13:00:00 +1100</pubDate>
         </item>
         <item>
             <title>Software documentation - How much or how little?</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/software-documentation.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/software-documentation.html</guid>
             <description>A discussion of the necessity of software documentation in current society.</description>
+            <pubDate>Tue, 06 Jan 2015 13:00:00 +1100</pubDate>
         </item>
 
     </channel>

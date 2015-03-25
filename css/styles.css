@@ -59,6 +59,7 @@ nav a
     font-weight: bold;
     color:#fff;
     background-color: #D00000 ;
+    background-image: -webkit-linear-gradient(#f30000 0%, #D00000 100% );
     background-image: linear-gradient(#f30000 0%, #D00000 100% );
 }
 
@@ -66,17 +67,20 @@ nav a.topMenu
 {
     color:#fff;
     background-color: #D00000 ;
+    background-image: -webkit-linear-gradient(#f30000 0%, #D00000 100% );
     background-image: linear-gradient(#f30000 0%, #D00000 100% );
 }
 
 nav a:focus
 {
     background-color: #4e4e4e;
-    background-image: linear-gradient(#4e4e4e 0%, #4e4e4e 100% )
+    background-image: -webkit-linear-gradient(#4e4e4e 0%, #4e4e4e 100% );
+    background-image: linear-gradient(#4e4e4e 0%, #4e4e4e 100% );
 }
 nav a:hover
 {
     background-color: #000000;
+    background-image: -webkit-linear-gradient(#000 0%, #000000 100% );
     background-image: linear-gradient(#000 0%, #000000 100% );
     color:white;
 }
@@ -84,12 +88,14 @@ nav a:hover
 nav a:active
 {
     background-color: red ;
-    background-image: linear-gradient(red 0%, red 100% )
+    background-image: -webkit-linear-gradient(red 0%, red 100% );
+    background-image: linear-gradient(red 0%, red 100% );
 }
 
 nav li ul ul a, nav ul ul ul a
 {
     background-color: #850000;
+    background-image: -webkit-linear-gradient(#9d0000 0%, #850000 100% );
     background-image: linear-gradient(#9d0000 0%, #850000 100% );
     padding:0.5em 0.5em 0.5em 2em;
     font-size:85%;
@@ -338,17 +344,23 @@ p, h2, h3, h4{padding: 0 0.2em;}
 @media(min-width: 28em)
 {
     #mastheadSpan
-    {background: linear-gradient(#f1f1f1 0%,#ffffff 40%, #ffffff 100%);}
+    {
+        background: -webkit-linear-gradient(#f1f1f1 0%,#ffffff 40%, #ffffff 100%);
+        background: linear-gradient(#f1f1f1 0%,#ffffff 40%, #ffffff 100%);
+    }
 }
 
 @media(min-width:46em)
 {
     #mastheadSpan
     {
-
+        background:
+            url(../images/logos/mhead_r.jpg) no-repeat top right,
+            -webkit-linear-gradient(#f1f1f1 0%,#ffffff 40%, #ffffff 100%);
         background:
             url(../images/logos/mhead_r.jpg) no-repeat top right,
             linear-gradient(#f1f1f1 0%,#ffffff 40%, #ffffff 100%);
+
     }
 }
 
@@ -898,6 +910,7 @@ ul.flowchart
     margin:0 0.5em 0.5em 0.5em;
     color: #414141;
     background-color: #e7e8e6;
+    background-image: -webkit-linear-gradient(#f0f3f6 0%, #dcdcdc 100% );
     background-image: linear-gradient(#f0f3f6 0%, #dcdcdc 100% );
 
     border: 1px solid #000;
@@ -913,6 +926,7 @@ ul.flowchart
     padding: 0.7em;
     border: 1px solid #000;
     background-color: #bdc1c1;
+    background-image: -webkit-linear-gradient(#c1bebf 0%, #c3c3c8 100% );
     background-image: linear-gradient(#c1bebf 0%, #c3c3c8 100% );
     text-decoration: none;
     font-weight: bold;
@@ -926,6 +940,7 @@ li.flowchartInfo
     border:1px solid black;
     color: black;
     background-color:#bdc1c1;
+    background-image: -webkit-linear-gradient(#c1bebf 0%, #c3c3c8 100% );
     background-image: linear-gradient(#c1bebf 0%, #c3c3c8 100% );
     padding:0.5em;
     font-size:90%;
@@ -958,6 +973,7 @@ ul.flowchart ul li
     padding:0.5em;
     color: #414141;
     background-color: #EDF5F8 ;
+    background-image: -webkit-linear-gradient(#edf5f8 0%, #ececf6 100% );
     background-image: linear-gradient(#edf5f8 0%, #ececf6 100% );
     border-bottom: 1px solid #ffffff;
     text-decoration: none;
@@ -1022,6 +1038,7 @@ body{font-size: 100%}
     {
         overflow: hidden;
         background-color: #c10000;
+        background-image: -webkit-linear-gradient(#f30000 0%, #D00000 100% );
         background-image: linear-gradient(#f30000 0%, #D00000 100% );
         width:100%;
     }
@@ -1030,6 +1047,7 @@ body{font-size: 100%}
     {
         float: left;
         background-color: #c10000;
+        background-image: -webkit-linear-gradient(#f30000 0%, #D00000 100% );
         background-image: linear-gradient(#f30000 0%, #D00000 100% );
 
     }
@@ -1046,6 +1064,7 @@ body{font-size: 100%}
 
         text-align: center;
         background-color: #c10000;
+        background-image: -webkit-linear-gradient(#f30000 0%, #D00000 100% );
         background-image: linear-gradient(#f30000 0%, #D00000 100% );
         font-weight:normal;
     }
@@ -1053,6 +1072,7 @@ body{font-size: 100%}
     #nav a.activePage
     {
         background-color: #b20000;
+        background-image: -webkit-linear-gradient(#e80000 0%, #c20000 100% );
         background-image: linear-gradient(#e80000 0%, #c20000 100% );
     }
 
@@ -1091,6 +1111,7 @@ body{font-size: 100%}
         float:none;
         text-align: left;
         background-color: #850000;
+        background-image:-webkit-linear-gradient(#9d0000 0%, #850000 100% );
         background-image:linear-gradient(#9d0000 0%, #850000 100% );
         border-top:1px solid white ;
         padding:0.5em 0.5em;
@@ -1270,6 +1291,7 @@ body{font-size: 100%}
         padding: 0.7em;
         border: 1px solid #000;
         background-color: #c1c1c1;
+        background-image: -webkit-linear-gradient(#bebebe 0%, #c8c8c8 100% );
         background-image: linear-gradient(#bebebe 0%, #c8c8c8 100% );
     }
 
@@ -1311,6 +1333,7 @@ body{font-size: 100%}
         border:1px solid black;
         color: black;
         background-color: #d8d8d8;
+        background-image: -webkit-linear-gradient(#dbdbdb 0%, #c9c9c9 100% );
         background-image: linear-gradient(#dbdbdb 0%, #c9c9c9 100% );
         padding:0.5em;
         font-size:90%;
