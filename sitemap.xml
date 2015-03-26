@@ -21,6 +21,11 @@
         <changefreq>monthly</changefreq>
     </url>
     <url>
+        <loc>http://www.knowledgedoc.com.au/documentation/engineering.html</loc>
+        <lastmod>2015-03-26</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
         <loc>http://www.knowledgedoc.com.au/documentation/early-learning-procedures.html</loc>
         <lastmod>2015-01-06</lastmod>
         <changefreq>monthly</changefreq>
@@ -107,6 +112,11 @@
     </url>
     <url>
         <loc>http://www.knowledgedoc.com.au/blog/1501/</loc>
+        <lastmod>2015-02-24</lastmod>
+        <changefreq>yearly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.knowledgedoc.com.au/blog/1502/</loc>
         <lastmod>2015-02-24</lastmod>
         <changefreq>yearly</changefreq>
     </url>
