@@ -136,11 +136,19 @@ nav li ul ul a:hover{background-color: #000000;}
     border-bottom: 21px solid #ffffff;
 }
 
+.arrow-up.grey
+{
+    border-bottom: 21px solid #e6e6e6;
+}
+
 .arrow-down
 {
     border-top: 21px solid #ffffff;
 }
-
+.arrow-down.grey
+{
+    border-top: 21px solid #f0f0f0;
+}
 /* -------- Secondary Navigation -------- */
 
 #secondary a
@@ -406,6 +414,27 @@ div.categories a.mobile-devices:hover{background: #db0000}
 div.categories a.author-it:hover{background: #ce0bf0}
 div.categories a.author-it:hover{background: #b80ad6}
 
+/*
+section.articleCollection
+{
+    float: left;
+    width:46%;
+    padding:0.3em;
+    margin:0.3em;
+    border:1px solid #cacaca;
+}
+
+.articleCollection h3
+{
+    margin:0.1em;
+}
+
+*/
+
+.articleCollection h3
+{
+    margin-bottom: 0;
+}
 /*-------------------
 Blog
 ---------------------*/
