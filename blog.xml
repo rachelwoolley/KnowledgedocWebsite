@@ -9,7 +9,7 @@
             The Knowledgedoc blog features discussions of the technical writing profession, knowledge management
             techniques and tips for writing, editing, formatting and using documentation based software applications.
         </description>
-        <!--
+
         <item>
             <title>Introduction to RSS feeds</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/introduction-to-rss.html</link>
@@ -22,7 +22,7 @@
             </description>
             <pubDate>Tue, 31 Mar 2015 13:00:00 +1100</pubDate>
         </item>
-        -->
+
         <item>
             <title>Writing creatively for documentation projects</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/writing-creatively.html</link>
