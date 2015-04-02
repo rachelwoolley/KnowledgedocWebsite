@@ -535,8 +535,8 @@ article
 .subscribe
 {
     float:left;
-    max-width:40px;
-    padding:0.3em;
+    max-width:35px;
+    padding:0.2em;
 }
 div.linkedin
 {
@@ -696,7 +696,10 @@ ul.social div:hover
 #mail:hover{ background:url(../images/imageSpriteKnowledgedoc.gif) -165.5px 0;}
 #google{ background:url(../images/imageSpriteKnowledgedoc.gif) -325px 0;}
 #google:hover{ background:url(../images/imageSpriteKnowledgedoc.gif) -365px 0;}
-
+#facebook{ background:url(../images/imageSpriteKnowledgedoc.gif) -80px 0;}
+#facebook:hover{ background:url(../images/imageSpriteKnowledgedoc.gif) -120px 0;}
+#twitter{ background:url(../images/imageSpriteKnowledgedoc.gif) 0 0;}
+#twitter:hover{ background:url(../images/imageSpriteKnowledgedoc.gif) -40px 0;}
 
 div.social70
 {
