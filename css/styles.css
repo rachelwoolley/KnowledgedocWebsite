@@ -394,25 +394,39 @@ div.categories a
     color: black;
     border-radius: 5px;
     padding:3px;
+    margin-right: 0.4em;
 }
-div.categories a.word{background: #53ddff;}
-div.categories a.word:hover{background: #00ccf2;}
-div.categories a.formatting{background: #fe8e44;}
-div.categories a.formatting:hover{background: #e56c1d;}
+
+div.categories a.author-it{background: #d6651b; color: white;}
+div.categories a.author-it:hover{background: #b15416;}
+div.categories a.business-analysis{background: #a60000; color:white;}
+div.categories a.business-analysis:hover{background: #5d0000;}
+div.categories a.business-continuity{background: #0000b5; color:white;}
+div.categories a.business-continuity:hover{background: #00007f;}
+div.categories a.editing{background: palegreen;}
+div.categories a.editing:hover{background: #89e689;}
+div.categories a.formatting{background: #ce0bf0}
+div.categories a.formatting:hover{background: #b80ad6}
+div.categories a.free-downloads{background: darkcyan; color: white}
+div.categories a.free-downloads:hover{background: #006e6e;}
+div.categories a.mobile-content{background: red}
+div.categories a.mobile-content:hover{background: #db0000}
 div.categories a.online-content{background: #790992; color: #f2f2f2;}
-div.categories a.online-content:hover{background: #69087f;}
-div.categories a.seo{background: #ff3dac}
-div.categories a.seo:hover{background: #e03697}
-div.categories a.technical-writing{background: #00db00}
-div.categories a.technical-writing:hover{background: #00b800}
+div.categories a.online-content:hover{background: #4b0a64;}
 div.categories a.project-management{background: #fff902}
 div.categories a.project-management:hover{background: #f4eb00}
+div.categories a.rss{background: #ff9300; }
+div.categories a.rss:hover{background: #dd5800;}
+div.categories a.seo{background: #ff3dac}
+div.categories a.seo:hover{background: #e03697}
 div.categories a.software-documentation{background: blue; color: white;}
 div.categories a.software-documentation:hover{background: #0000d2}
-div.categories a.mobile-devices{background: red}
-div.categories a.mobile-devices:hover{background: #db0000}
-div.categories a.author-it:hover{background: #ce0bf0}
-div.categories a.author-it:hover{background: #b80ad6}
+div.categories a.technical-writing{background: #00db00}
+div.categories a.technical-writing:hover{background: #00b800}
+div.categories a.website-development{background: blueviolet; color: white;}
+div.categories a.website-development:hover{background: #6b21b0;}
+div.categories a.word{background: #53ddff;}
+div.categories a.word:hover{background: #00ccf2;}
 
 /*
 section.articleCollection
