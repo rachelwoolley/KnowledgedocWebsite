@@ -341,7 +341,10 @@ header img
 
 /* Other */
 
-.note{font-style:  italic;}
+.note{
+    font-style:  italic;
+    margin-left: 1em;
+}
 
 #masthead{margin-left:0;}
 
