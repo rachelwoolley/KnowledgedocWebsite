@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Word tips - how to set up numbered headings</title>
+    <title>Numbered figure and table captions</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="../../css/styles.min.css?v=1.0">
@@ -11,7 +11,7 @@
 </head>
 <body>
 <div id="overall">
-        <header>
+    <header>
         <div id="mastheadSpan"><a href="../../index.html"><img id=masthead src = "../../images/logos/KdLogoReflection3.gif" alt="knowledgeDoc"></a></div>
         <nav id="nav">
             <ul >
@@ -20,7 +20,7 @@
                         <li ><a href="../../index.html">Home</a></li>
                         <li class="has-dropdown " >
                             <div class="arrow-down" id="arrow2"></div>
-                            <a href="../../documentation/">Documentation Services</a>
+                            <a href="../../documentation">Documentation Services</a>
                             <ul class="hidden dropdown " id="dropdown1">
                                 <li><a href="../../documentation/software.html"  >Software Documentation</a></li>
                                 <li><a  href="../../documentation/policies-and-procedures.html" >Policies and Procedures</a></li>
@@ -32,7 +32,7 @@
                         </li>
                         <li class="has-dropdown">
                             <div class="arrow-down" id="arrow3"></div>
-                            <a href = "../../business/">Business Services</a>
+                            <a href = "../../business">Business Services</a>
                             <ul class="hidden dropdown ">
                                 <li><a href="../../business/process-analysis.html">Business Process Analysis</a></li>
                                 <li><a href="../../business/continuity-plans.html">Business Continuity Plans</a></li>
@@ -41,15 +41,15 @@
                             </ul>
                         </li>
                         <li class="has-dropdown"><div class="arrow-down" id="arrow4"></div>
-                            <a href="../../about/">About Us</a>
+                            <a href="../../about">About Us</a>
                             <ul class="hidden dropdown" id="dropdown2">
                                 <li><a href="../../about/our-team.html" >Our Team</a></li>
                                 <li><a href="../../about/recent-customers.html">Recent Customers</a></li>
-                                <li><a href="../../about/careers/">Careers</a></li>
+                                <li><a href="../../about/careers">Careers</a></li>
                             </ul>
                         </li>
-                        <li><a href="../../blog/">Blog</a></li>
-                        <li><a href="../../contact/">Contact Us</a></li>
+                        <li><a href="../../blog">Blog</a></li>
+                        <li><a href="../../contact">Contact Us</a></li>
                     </ul>
                 </li>
             </ul>
@@ -59,73 +59,90 @@
         <div id="content">
             <main class="mainContentNoAside blog">
                 <header class="newsArticle">
-                    <h1><span id="head">How to set up numbered headings<span class="articleDate">27/01/15</span></span> </h1>
+                    <h1><span id="head">Numbered figure and table captions<span class="articleDate">26/05/15</span></span> </h1>
                 </header>
                 <figure class="blogPhoto">
                     <img class="blogPhoto" src="../../images/staff/rachel-woolley-small.jpg" alt="Rachel Woolley">
                     <figcaption class="blog">by Rachel Woolley</figcaption>
                 </figure>
-
                 <p>
-                    Numbered headings can be very useful for organising your document into sections. This article will
-                    cover using Word’s predefined numbered headings and setting up your own numbered heading scheme.
+                    Last month I discussed how to <a href="numbered-headings.html">create numbered headings</a> to divide a Microsoft Word
+                    document into chapters. This week I’ll discuss how to apply table and figure caption numbering that is consistent with your heading numbers.
+                    For example your figure captions could be numbered 1-1, 1-2 and 1-3 in chapter 1 and 2-1, 2-2 and 2-3 in chapter 2.
                 </p>
+                <p class="clear">
+                    To set up automatically numbered captions you need to use Word’s built in captions. The overall process for setting up numbered captions is:
+                </p>
+                <ul>
+                    <li>open the <strong>Caption</strong> window for your particular table or figure</li>
+                    <li>type in the caption for that object</li>
+                    <li>set the label and position of the caption</li>
+                    <li>add numbering to the caption.</li>
+                </ul>
                 <p>
-                    Before you start, check to make sure you are using Word’s built-in heading styles to format your document.
-                    This process won’t work if you’re formatting your headings manually.
+                    To open the <strong>Caption</strong> window:
                 </p>
-                <img src="../../images/blog/Word-heading-styles.png"  class="blogImageLeft" alt="Word heading styles">
-                <p class="clear">To use one of Word's built-in numbering schemes:</p>
+                <ul>
+                    <li>For a table:
+                        <ol>
+                            <li>Hover your mouse over the table. </li>
+                            <li>Right click the <img src="../../images/blog/table-select-icon.gif" alt="Table Select Icon"> icon in the top left corner.</li>
+                            <li>
+                                Select <strong>Insert Caption...</strong><br>
+                                The <strong>Caption</strong> window is displayed.
+                            </li>
+                        </ol>
+                    </li>
+                    <li>For a figure:
+                        <ol>
+                            <li>Right click on the figure. </li>
+                            <li>
+                                Select <strong>Insert Caption...</strong><br>
+                                The <strong>Caption</strong> window is displayed.
+                            </li>
+                        </ol>
+                    </li>
+                    <li>From the <strong>References</strong> tab:
+                        <ol>
+                            <li>Select the item you want to make a caption for.</li>
+                            <li>Open the<strong>References</strong> tab.</li>
+                            <li>
+                                Click <strong>Insert Caption</strong> in the <strong>Captions</strong> area.<br>
+                                The <strong>Caption</strong> window is displayed.
+                            </li>
+                        </ol>
+                    </li>
+                </ul>
+                <p>To add chapter numbering:</p>
                 <ol>
                     <li>
-                        On the Home tab in Microsoft Word locate the Paragraph section and select the Multilevel List option.
-                        <img src="../../images/blog/Word-multilevel-list.png" alt="Word multilevel list button" class="blogImageLeft">
+                        Open the <strong>Caption</strong> window.<br>
+                        <img src="../../images/blog/microsoft-word-caption-window.gif" alt="Caption window">
                     </li>
-                    <li class="clear">
-                        Select one of the highlighted options to apply to your headings. <br>
-                        <img src="../../images/blog/Word-multilevel-list-dropdown.png" alt="Word multilevel list button" class="blogImageLeft">
-
-                    </li>
-                </ol>
-                <p class="clear">All the headings in your document will now follow the numbering system you have selected.</p>
-                <p>
-                    To set up headings in Word with your own customised numbering scheme:
-                </p>
-                <ol>
+                    <li>Click <strong>Numbering...</strong></li>
+                    <li>Select the <strong>Include chapter number</strong> checkbox to number the captions 1-1, 1-2, 2-1, 2-2 etc.</li>
                     <li>
-                        On the Home tab in Microsoft Word locate the Paragraph section and select the Multilevel List option.
-                        <img src="../../images/blog/Word-multilevel-list.png" alt="Word multilevel list button" class="blogImageLeft">
+                        To change the numbering to reflect a different heading level change the value in the <strong>Chapter starts
+                        with style</strong> field. For example if you changed this value to Heading 2 your numbering system could
+                        be 1.1-1, 1.1-2, 1.2-1, 1.2-2 etc.
                     </li>
-                    <li  class="clear">
-                        Select Define New Multilevel List… <br>
-                        <img src="../../images/blog/Word-define-new-multilevel-list.png" alt="Define new multilevel list window" class="blogImageLeft">
-                    </li>
-                    <li class="clear">Format the heading levels as desired in the Enter formatting for number field and click OK.</li>
                 </ol>
-                <p>
-                    In the Define new Multilevel list window you can customise the format of each level of heading individually.
-                    You can choose between numbers, letters and roman numerals for each level, add extra words such as Chapter,
-                    Article or Appendix to the number formatting and select what parent heading numbers you want to include in
-                    a particular level of heading. I have included some examples of numbered headings you can use.
-                </p>
-                <img src="../../images/blog/Word-define-new-multilevel-list-example-1.png" alt="Define new multilevel list window example 1" class="blogImageLeft">
-                <img src="../../images/blog/Word-define-new-multilevel-list-example-2.png" alt="Define new multilevel list window example 1" class="blogImageLeft">
-                <img src="../../images/blog/Word-define-new-multilevel-list-example-3.png" alt="Define new multilevel list window example 1" class="blogImageLeft">
-                <p class="clear quote">All images in this article are screen captures of Microsoft Word 2010, but the process is the same in Microsoft Word 2013 and Microsoft Word 2007.</p>
-                <p  class="clear"><a href="../../blog/">Back to blog home.</a></p>
+                <p>Next month I’ll introduce you to sections and how you can number your pages consistently with headings.</p>
+
+                <p><a href="../../blog">Back to blog home.</a></p>
             </main>
             <aside class="blogSocial">
                 <div class="blogSocial">
-                    <a class="blogSocial" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.knowledgedoc.com.au/blog/articles/numbered-headings.html&title=Word%20tips%20-%20how%20to%20set%20up%20numbered%20headings&summary=Numbered%20headings%20can%20be%20very%20useful%20for%20organising%20your%20document%20into%20sections.%20This%20article%20will%20cover%20using%20Word%E2%80%99s%20predefined%20numbered%20headings%20and%20setting%20up%20your%20own%20numbered%20heading%20scheme.&source=Knowledgedoc">
+                    <a class="blogSocial" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.knowledgedoc.com.au/blog/articles/numbered-captions.html&source=Knowledgedoc">
                         <img src="../../images/social/linkedin.png" alt="Share on LinkedIn" title="Share on LinkedIn">
                     </a>
-                    <a class="blogSocial" target="_blank" href="https://plus.google.com/share?url=http://www.knowledgedoc.com.au/blog/articles/numbered-headings.html">
+                    <a class="blogSocial" target="_blank" href="https://plus.google.com/share?url=http://www.knowledgedoc.com.au/blog/articles/numbered-captions.html">
                         <img src="../../images/social/google.png" alt="Share on Google+" title="Share on Google+">
                     </a>
-                    <a class="blogSocial" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://www.knowledgedoc.com.au/blog/articles/numbered-headings.html">
+                    <a class="blogSocial" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://www.knowledgedoc.com.au/blog/articles/numbered-captions.html">
                         <img src="../../images/social/facebook.png" alt="Share on Facebook" title="Share on Facebook">
                     </a>
-                    <a class="blogSocial" target="_blank" href="http://www.knowledgedoc.com.au/blog/articles/numbered-headings.html">
+                    <a class="blogSocial" target="_blank" href="https://twitter.com/home?status=http://www.knowledgedoc.com.au/blog/articles/numbered-captions.html">
                         <img src="../../images/social/twitter.png" alt="Share on Twitter" title="Share on Twitter">
                     </a>
                 </div>

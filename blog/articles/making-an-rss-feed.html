@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Word tips - how to set up numbered headings</title>
+    <title>Creating an RSS feed for a website</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="../../css/styles.min.css?v=1.0">
@@ -11,7 +11,7 @@
 </head>
 <body>
 <div id="overall">
-        <header>
+    <header>
         <div id="mastheadSpan"><a href="../../index.html"><img id=masthead src = "../../images/logos/KdLogoReflection3.gif" alt="knowledgeDoc"></a></div>
         <nav id="nav">
             <ul >
@@ -20,7 +20,7 @@
                         <li ><a href="../../index.html">Home</a></li>
                         <li class="has-dropdown " >
                             <div class="arrow-down" id="arrow2"></div>
-                            <a href="../../documentation/">Documentation Services</a>
+                            <a href="../../documentation">Documentation Services</a>
                             <ul class="hidden dropdown " id="dropdown1">
                                 <li><a href="../../documentation/software.html"  >Software Documentation</a></li>
                                 <li><a  href="../../documentation/policies-and-procedures.html" >Policies and Procedures</a></li>
@@ -32,7 +32,7 @@
                         </li>
                         <li class="has-dropdown">
                             <div class="arrow-down" id="arrow3"></div>
-                            <a href = "../../business/">Business Services</a>
+                            <a href = "../../business">Business Services</a>
                             <ul class="hidden dropdown ">
                                 <li><a href="../../business/process-analysis.html">Business Process Analysis</a></li>
                                 <li><a href="../../business/continuity-plans.html">Business Continuity Plans</a></li>
@@ -41,15 +41,15 @@
                             </ul>
                         </li>
                         <li class="has-dropdown"><div class="arrow-down" id="arrow4"></div>
-                            <a href="../../about/">About Us</a>
+                            <a href="../../about">About Us</a>
                             <ul class="hidden dropdown" id="dropdown2">
                                 <li><a href="../../about/our-team.html" >Our Team</a></li>
                                 <li><a href="../../about/recent-customers.html">Recent Customers</a></li>
-                                <li><a href="../../about/careers/">Careers</a></li>
+                                <li><a href="../../about/careers">Careers</a></li>
                             </ul>
                         </li>
-                        <li><a href="../../blog/">Blog</a></li>
-                        <li><a href="../../contact/">Contact Us</a></li>
+                        <li><a href="../../blog">Blog</a></li>
+                        <li><a href="../../contact">Contact Us</a></li>
                     </ul>
                 </li>
             </ul>
@@ -59,73 +59,73 @@
         <div id="content">
             <main class="mainContentNoAside blog">
                 <header class="newsArticle">
-                    <h1><span id="head">How to set up numbered headings<span class="articleDate">27/01/15</span></span> </h1>
+                    <h1><span id="head">Creating an RSS feed for a website<span class="articleDate"></span>28/04/15</span> </h1>
                 </header>
                 <figure class="blogPhoto">
                     <img class="blogPhoto" src="../../images/staff/rachel-woolley-small.jpg" alt="Rachel Woolley">
                     <figcaption class="blog">by Rachel Woolley</figcaption>
                 </figure>
-
                 <p>
-                    Numbered headings can be very useful for organising your document into sections. This article will
-                    cover using Word’s predefined numbered headings and setting up your own numbered heading scheme.
+                    Rich Site Summaries, known as RSS feeds, are a great way to publish frequently updated information
+                    such as news or blog articles. In my last article I <a href="introduction-to-rss.html">introduced you to RSS feeds</a>.
+                    This article will discuss how to create and maintain an RSS feed on your website.
                 </p>
                 <p>
-                    Before you start, check to make sure you are using Word’s built-in heading styles to format your document.
-                    This process won’t work if you’re formatting your headings manually.
+                    Start with your text editor of choice. Notepad will be sufficient but if you’re interested in a program
+                    with better functionality, <a href="http://notepad-plus-plus.org/" target="_blank">Notepad++</a> is a free code editor.
                 </p>
-                <img src="../../images/blog/Word-heading-styles.png"  class="blogImageLeft" alt="Word heading styles">
-                <p class="clear">To use one of Word's built-in numbering schemes:</p>
-                <ol>
-                    <li>
-                        On the Home tab in Microsoft Word locate the Paragraph section and select the Multilevel List option.
-                        <img src="../../images/blog/Word-multilevel-list.png" alt="Word multilevel list button" class="blogImageLeft">
-                    </li>
-                    <li class="clear">
-                        Select one of the highlighted options to apply to your headings. <br>
-                        <img src="../../images/blog/Word-multilevel-list-dropdown.png" alt="Word multilevel list button" class="blogImageLeft">
-
-                    </li>
-                </ol>
-                <p class="clear">All the headings in your document will now follow the numbering system you have selected.</p>
                 <p>
-                    To set up headings in Word with your own customised numbering scheme:
+                    Open up a blank text document in your text editor. Save your document as an .xml document. RSS is a
+                    specific type of XML document with a less rigid syntax.  The file name itself isn’t very important,
+                    save it as something like news.xml or blog.xml.
                 </p>
-                <ol>
-                    <li>
-                        On the Home tab in Microsoft Word locate the Paragraph section and select the Multilevel List option.
-                        <img src="../../images/blog/Word-multilevel-list.png" alt="Word multilevel list button" class="blogImageLeft">
-                    </li>
-                    <li  class="clear">
-                        Select Define New Multilevel List… <br>
-                        <img src="../../images/blog/Word-define-new-multilevel-list.png" alt="Define new multilevel list window" class="blogImageLeft">
-                    </li>
-                    <li class="clear">Format the heading levels as desired in the Enter formatting for number field and click OK.</li>
-                </ol>
                 <p>
-                    In the Define new Multilevel list window you can customise the format of each level of heading individually.
-                    You can choose between numbers, letters and roman numerals for each level, add extra words such as Chapter,
-                    Article or Appendix to the number formatting and select what parent heading numbers you want to include in
-                    a particular level of heading. I have included some examples of numbered headings you can use.
+                    At the top of the file put &#60?xml version="1.0" encoding="UTF-8" ?&#62. This tells browsers that this is an
+                    XML file and specifies the character encoding of the document.
                 </p>
-                <img src="../../images/blog/Word-define-new-multilevel-list-example-1.png" alt="Define new multilevel list window example 1" class="blogImageLeft">
-                <img src="../../images/blog/Word-define-new-multilevel-list-example-2.png" alt="Define new multilevel list window example 1" class="blogImageLeft">
-                <img src="../../images/blog/Word-define-new-multilevel-list-example-3.png" alt="Define new multilevel list window example 1" class="blogImageLeft">
-                <p class="clear quote">All images in this article are screen captures of Microsoft Word 2010, but the process is the same in Microsoft Word 2013 and Microsoft Word 2007.</p>
-                <p  class="clear"><a href="../../blog/">Back to blog home.</a></p>
+                <p>
+                    Next specify that this is an RSS file, which is a specific type of xml file. Put in the tags &#60rss
+                    version="2.0"&#62&#60/rss&#62. Everything else you write will go between these tags.
+                </p>
+                <p>
+                    Next put in a channel. A channel is the source of your RSS feed. Put the &#60channel&#62&#60/channel&#62 tags between the RSS tags.
+                </p>
+                <img src="../../images/blog/rss-initial-code.gif" alt="First stage of creating an RSS feed, the basic code structure" class="blogImageLeft">
+                <p class="clear">
+                    At the top of the channel you need to put the information about your RSS feed. This consists of a title,
+                    link to the homepage of your blog or news page and a short description of your site.
+                </p>
+                <img src="../../images/blog/rss-code-with-home-information.gif" alt="Second stage of creating an RSS feed, the channel information" class="blogImageLeft">
+                <p class="clear">
+                    Below your RSS feed information put the title, link and description information for each of your articles
+                    inside item tags. There are a number of optional extra information items that you can include with your RSS feed,
+                    a list of these tags can be found at the <a href="http://validator.w3.org/feed/docs/rss2.html" target="_blank">RSS2 specification</a>.
+                </p>
+                <img src="../../images/blog/rss-code-with-article-information.gif" alt="Third stage of creating an RSS feed, the article information" class="blogImageLeft">
+                <p class="clear">Repeat this for all your articles.</p>
+                <p><a href="http://validator.w3.org/feed/" target="_blank">Validate your feed</a> to make sure you’ve done everything correctly.</p>
+                <p>Upload your xml document to the root folder of your website directory.</p>
+                <p>
+                    Add a link to the head of all the pages on your website. For example &#60link href="http://www.knowledgedoc.com.au/blog.xml"
+                    rel="alternate" type="application/rss+xml" title="Knowledgedoc articles on technical writing" /&#62.
+                </p>
+                <p>Finally add a link to the homepage of your blog to advertise that an RSS feed is available to users!
+                    Our website uses an image link with the RSS icon, but a text link will work just as well.</p>
+                <p>Each time you add a new article to your website, just add the article to your xml file and upload the file to the internet and your followers will be notified of the new feed.</p>
+                <p><a href="../../blog">Back to blog home.</a></p>
             </main>
             <aside class="blogSocial">
                 <div class="blogSocial">
-                    <a class="blogSocial" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.knowledgedoc.com.au/blog/articles/numbered-headings.html&title=Word%20tips%20-%20how%20to%20set%20up%20numbered%20headings&summary=Numbered%20headings%20can%20be%20very%20useful%20for%20organising%20your%20document%20into%20sections.%20This%20article%20will%20cover%20using%20Word%E2%80%99s%20predefined%20numbered%20headings%20and%20setting%20up%20your%20own%20numbered%20heading%20scheme.&source=Knowledgedoc">
+                    <a class="blogSocial" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.knowledgedoc.com.au/blog/articles/making-an-rss-feed.html&source=Knowledgedoc">
                         <img src="../../images/social/linkedin.png" alt="Share on LinkedIn" title="Share on LinkedIn">
                     </a>
-                    <a class="blogSocial" target="_blank" href="https://plus.google.com/share?url=http://www.knowledgedoc.com.au/blog/articles/numbered-headings.html">
+                    <a class="blogSocial" target="_blank" href="https://plus.google.com/share?url=http://www.knowledgedoc.com.au/blog/articles/making-an-rss-feed.html">
                         <img src="../../images/social/google.png" alt="Share on Google+" title="Share on Google+">
                     </a>
-                    <a class="blogSocial" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://www.knowledgedoc.com.au/blog/articles/numbered-headings.html">
+                    <a class="blogSocial" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://www.knowledgedoc.com.au/blog/articles/making-an-rss-feed.html">
                         <img src="../../images/social/facebook.png" alt="Share on Facebook" title="Share on Facebook">
                     </a>
-                    <a class="blogSocial" target="_blank" href="http://www.knowledgedoc.com.au/blog/articles/numbered-headings.html">
+                    <a class="blogSocial" target="_blank" href="https://twitter.com/home?status=http://www.knowledgedoc.com.au/blog/articles/making-an-rss-feed.html">
                         <img src="../../images/social/twitter.png" alt="Share on Twitter" title="Share on Twitter">
                     </a>
                 </div>
