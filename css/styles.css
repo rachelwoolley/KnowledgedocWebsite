@@ -1705,6 +1705,62 @@ Medium-Wide screen - Aside drops
     .flowchartLink{width:11em;}
 }
 
+/*---------------------------------
+Print style sheet
+-----------------------------------*/
+@media print{
+    .arrow{display: none;}
+    .menu-button{display:none;}
+    .top{display: block;}
+
+    nav ul
+    {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display:block;
+
+        width:100%;
+        font-size:100%;
+    }
+
+    ul.top
+    {
+        overflow: hidden;
+        background-color: #c10000;
+        width:100%;
+    }
+
+    ul.top li
+    {
+        float: left;
+        background-color: #c10000;
+
+    }
+
+    ul.top li a
+    {
+        display: block;
+        border-bottom: none;
+        color:white;
+        border-right:1px solid white;
+        text-decoration: none;
+        margin: 0;
+        padding:0.5em 0.5em;
+
+        text-align: center;
+        background-color: #c10000;
+        font-weight:normal;
+    }
+
+    #nav a.activePage
+    {
+        background-color: #b20000;
+
+    }
+
+
+}
 
 /* ------------------------------------------
 Development width helper

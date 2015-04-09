@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bba140a-1819-4d8c-9d1f-8f89a263919c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/capturing-content.html" afterPath="$PROJECT_DIR$/blog/articles/capturing-content.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/changing-word-styles-order.html" afterPath="$PROJECT_DIR$/blog/articles/changing-word-styles-order.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/converting-word-to-online.html" afterPath="$PROJECT_DIR$/blog/articles/converting-word-to-online.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/creative-traps.html" afterPath="$PROJECT_DIR$/blog/articles/creative-traps.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/introduction-to-rss.html" afterPath="$PROJECT_DIR$/blog/articles/introduction-to-rss.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/introduction-to-sections.html" afterPath="$PROJECT_DIR$/blog/articles/introduction-to-sections.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/making-an-rss-feed.html" afterPath="$PROJECT_DIR$/blog/articles/making-an-rss-feed.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/numbered-captions.html" afterPath="$PROJECT_DIR$/blog/articles/numbered-captions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/numbered-headings.html" afterPath="$PROJECT_DIR$/blog/articles/numbered-headings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/planning-creatively.html" afterPath="$PROJECT_DIR$/blog/articles/planning-creatively.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/preparing-online-content.html" afterPath="$PROJECT_DIR$/blog/articles/preparing-online-content.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/software-documentation.html" afterPath="$PROJECT_DIR$/blog/articles/software-documentation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/tc-rex-syndrome.html" afterPath="$PROJECT_DIR$/blog/articles/tc-rex-syndrome.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/technical-writer-personality.html" afterPath="$PROJECT_DIR$/blog/articles/technical-writer-personality.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/use-word-styles.html" afterPath="$PROJECT_DIR$/blog/articles/use-word-styles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/word-quick-styles.html" afterPath="$PROJECT_DIR$/blog/articles/word-quick-styles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.min.css" afterPath="$PROJECT_DIR$/css/styles.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/writing-creatively.html" afterPath="$PROJECT_DIR$/blog/articles/writing-creatively.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/writing-for-search-engines.html" afterPath="$PROJECT_DIR$/blog/articles/writing-for-search-engines.html" />
     </list>
     <ignored path="KnowledgedocWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,91 +27,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="numbered-headings.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/articles/numbered-headings.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="69" selection-start="99" selection-end="99" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="2975">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="planning-creatively.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/articles/planning-creatively.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="72" selection-start="102" selection-end="102" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="4216">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="preparing-online-content.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/articles/preparing-online-content.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="75" selection-start="105" selection-end="105" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="2703">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="software-documentation.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/articles/software-documentation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="74" selection-start="104" selection-end="104" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="6120">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tc-rex-syndrome.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/articles/tc-rex-syndrome.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="45" selection-start="75" selection-end="75" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="3128">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="technical-writer-personality.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/articles/technical-writer-personality.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="60" selection-start="90" selection-end="90" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="2227">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="use-word-styles.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/articles/use-word-styles.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="57" selection-start="87" selection-end="87" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="3383">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="word-quick-styles.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/articles/word-quick-styles.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="69" selection-start="99" selection-end="99" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="3315">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="writing-creatively.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/articles/writing-creatively.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="71" selection-start="101" selection-end="101" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="4131">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="writing-for-search-engines.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="writing-for-search-engines.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/articles/writing-for-search-engines.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="52" selection-start="367" selection-end="367" vertical-scroll-proportion="0.17085427" vertical-offset="0" max-vertical-offset="2873">
+            <state line="14" column="55" selection-start="645" selection-end="645" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="2873">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1726" column="10" selection-start="0" selection-end="33751" vertical-scroll-proportion="0.4727047" vertical-offset="28961" max-vertical-offset="33881">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.min.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="18731" selection-start="18731" selection-end="18731" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
               <folding />
             </state>
           </provider>
@@ -173,9 +94,7 @@
         <option value="$PROJECT_DIR$/blog/categories/index.html" />
         <option value="$PROJECT_DIR$/business/serviced-offices.html" />
         <option value="$PROJECT_DIR$/contact/index.html" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/blog/articles/index.html" />
-        <option value="$PROJECT_DIR$/css/styles.min.css" />
         <option value="$PROJECT_DIR$/blog.xml" />
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/blog/1501/index.html" />
@@ -202,7 +121,9 @@
         <option value="$PROJECT_DIR$/blog/articles/use-word-styles.html" />
         <option value="$PROJECT_DIR$/blog/articles/word-quick-styles.html" />
         <option value="$PROJECT_DIR$/blog/articles/writing-creatively.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/blog/articles/writing-for-search-engines.html" />
+        <option value="$PROJECT_DIR$/css/styles.min.css" />
       </list>
     </option>
   </component>
@@ -327,11 +248,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="documentation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -345,7 +262,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="documentation" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -662,13 +579,6 @@
         <state line="113" column="80" selection-start="7015" selection-end="7015" vertical-scroll-proportion="-15.461538" vertical-offset="1519" max-vertical-offset="3179" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="18185" selection-start="18185" selection-end="18185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="798">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="36" selection-start="1932" selection-end="1932" vertical-scroll-proportion="0.0" vertical-offset="199" max-vertical-offset="3893">
@@ -726,11 +636,6 @@
     <entry file="file://$PROJECT_DIR$/Supporting-do not upload/html templates/blogEmptyPageNoAside.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="75" selection-start="0" selection-end="6543" vertical-scroll-proportion="0.4369645" vertical-offset="0" max-vertical-offset="1037" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="520" column="1" selection-start="9277" selection-end="9290" vertical-scroll-proportion="0.6728972" vertical-offset="8264" max-vertical-offset="32929" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/articles/capturing-content.html">
@@ -872,7 +777,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/articles/writing-for-search-engines.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="52" selection-start="367" selection-end="367" vertical-scroll-proportion="0.17085427" vertical-offset="0" max-vertical-offset="2873">
+        <state line="14" column="55" selection-start="645" selection-end="645" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="2873">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="18731" selection-start="18731" selection-end="18731" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="843">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1726" column="10" selection-start="0" selection-end="33751" vertical-scroll-proportion="0.4727047" vertical-offset="28961" max-vertical-offset="33881">
           <folding />
         </state>
       </provider>
