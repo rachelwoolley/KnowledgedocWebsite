@@ -10,6 +10,17 @@
             techniques and tips for writing, editing, formatting and using documentation based software applications.
         </description>
         <item>
+            <title>Publishing creatively in technical writing</title>
+            <link>http://www.knowledgedoc.com.au/blog/articles/publishing-creatively.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/publishing-creatively.html</guid>
+            <description>
+                Being creative during the publishing phase is challenging. Unlike the planning and writing phases, which
+                have rich creative possibilities, the publishing phase is characterised by rigid output formats and methodical tasks.
+                In this article I will discuss employing creativity in the publishing phase.
+            </description>
+            <pubDate>Tue, 14 Apr 2015 16:50:00 +1000</pubDate>
+        </item>
+        <item>
             <title>Changing the display order of styles in the Quick Styles gallery</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/changing-word-styles-order.html</link>
             <guid>http://www.knowledgedoc.com.au/blog/articles/changing-word-styles-order.html</guid>
@@ -18,7 +29,7 @@
                 you should change the order so that your most frequently-used styles are at the beginning of the
                 list. This will speed up the style selection process.
             </description>
-            <pubDate>Tue, 04 Apr 2015 11:09:00 +1100</pubDate>
+            <pubDate>Tue, 07 Apr 2015 11:09:00 +1100</pubDate>
         </item>
         <item>
             <title>Introduction to RSS feeds</title>
