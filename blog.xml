@@ -10,6 +10,26 @@
             techniques and tips for writing, editing, formatting and using documentation based software applications.
         </description>
         <item>
+            <title>Creating an RSS feed</title>
+            <link>http://www.knowledgedoc.com.au/blog/articles/making-an-rss-feed.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/making-an-rss-feed.html</guid>
+            <description>
+                Rich Site Summaries, known as RSS feeds, are a great way to publish frequently updated information
+                such as news or blog articles. This article will discuss how to create and maintain an RSS feed on your website.
+            </description>
+            <pubDate>Tue, 28 Apr 2015 12:50:00 +1000</pubDate>
+        </item>
+        <item>
+            <title>Introduction to single sourcing</title>
+            <link>http://www.knowledgedoc.com.au/blog/articles/introduction-to-single-sourcing.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/introduction-to-single-sourcing.html</guid>
+            <description>
+                Writing content once, then reusing it provides many benefits. You can organise your content better,
+                reduce its overall cost and publish it for viewing on the favourite devices of your users.
+            </description>
+            <pubDate>Thu, 23 Apr 2015 12:50:00 +1000</pubDate>
+        </item>
+        <item>
             <title>Publishing creatively in technical writing</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/publishing-creatively.html</link>
             <guid>http://www.knowledgedoc.com.au/blog/articles/publishing-creatively.html</guid>
