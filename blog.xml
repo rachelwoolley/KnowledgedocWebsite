@@ -10,6 +10,15 @@
             techniques and tips for writing, editing, formatting and using documentation based software applications.
         </description>
         <item>
+            <title>Documentation, printed or online?</title>
+            <link>http://www.knowledgedoc.com.au/blog/articles/online-or-printed.html</link>
+            <guid>http://www.knowledgedoc.com.au/blog/articles/online-or-printed.html</guid>
+            <description>
+                This article discusses whether there is any place for printed documentation in 2015.
+            </description>
+            <pubDate>Tue, 05 May 2015 10:30:00 +1000</pubDate>
+        </item>
+        <item>
             <title>Creating an RSS feed</title>
             <link>http://www.knowledgedoc.com.au/blog/articles/making-an-rss-feed.html</link>
             <guid>http://www.knowledgedoc.com.au/blog/articles/making-an-rss-feed.html</guid>
@@ -17,7 +26,7 @@
                 Rich Site Summaries, known as RSS feeds, are a great way to publish frequently updated information
                 such as news or blog articles. This article will discuss how to create and maintain an RSS feed on your website.
             </description>
-            <pubDate>Tue, 28 Apr 2015 12:50:00 +1000</pubDate>
+            <pubDate>Tue, 28 Apr 2015 10:00:00 +1000</pubDate>
         </item>
         <item>
             <title>Introduction to single sourcing</title>
