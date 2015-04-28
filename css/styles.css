@@ -533,6 +533,7 @@ article
     border:1px solid #e7e7e7;
     margin-bottom:1em;
     box-shadow: 5px 5px 5px #dddddd;
+    overflow:hidden;
 }
 
 .subscribe
