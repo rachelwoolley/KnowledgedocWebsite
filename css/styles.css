@@ -916,7 +916,7 @@ img.recent.small
 /* ------ Serviced Offices ------- */
 .clear
 {
-    clear: left;
+    clear: both;
 }
 
 #office
