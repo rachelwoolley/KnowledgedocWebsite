@@ -233,7 +233,18 @@ h4
 
 
 
+/*---------Tables--------*/
+table.borders
+{
+    border-collapse: collapse;
+}
 
+table.borders td
+{
+    border: 1px solid grey;
+    padding:0.2em;
+    vertical-align: bottom;
+}
 
 
 /* ------ Links -------- */
