@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bba140a-1819-4d8c-9d1f-8f89a263919c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/synergetic-schools/facilities-management.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/synergetic-schools/initial-toc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/synergetic-schools/interspersed-reference.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/synergetic-schools/upgraded-reference.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/synergetic-schools-partnership/documentation-example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/synergetic-schools-partnership/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/numbered-headings.html" afterPath="$PROJECT_DIR$/blog/articles/numbered-headings.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/synergetic-schools/facilities-management.png" afterPath="$PROJECT_DIR$/images/synergetic-schools/facilities-management.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/synergetic-schools/initial-toc.png" afterPath="$PROJECT_DIR$/images/synergetic-schools/initial-toc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/synergetic-schools/interspersed-reference.png" afterPath="$PROJECT_DIR$/images/synergetic-schools/interspersed-reference.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/synergetic-schools/upgraded-reference.png" afterPath="$PROJECT_DIR$/images/synergetic-schools/upgraded-reference.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.xml" afterPath="$PROJECT_DIR$/blog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/illustrator-vector-background.html" afterPath="$PROJECT_DIR$/blog/articles/illustrator-vector-background.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/articles/index.html" afterPath="$PROJECT_DIR$/blog/articles/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="KnowledgedocWebsite.iws" />
@@ -27,6 +27,25 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="illustrator-vector-text.html" pinned="false" current="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/blog/articles/illustrator-vector-text.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state line="71" column="81" selection-start="4468" selection-end="4468" vertical-scroll-proportion="0.5604396" vertical-offset="748" max-vertical-offset="4658">
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="KnowledgedocWebsite" />
@@ -36,7 +55,7 @@
       <file leaf-file-name="numbered-captions-and-pages.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/articles/numbered-captions-and-pages.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="179" column="56" selection-start="11565" selection-end="11565" vertical-scroll-proportion="0.0" vertical-offset="2448" max-vertical-offset="4097">
+            <state line="179" column="56" selection-start="11565" selection-end="11565" vertical-scroll-proportion="-22.884615" vertical-offset="2448" max-vertical-offset="4097">
               <folding />
             </state>
           </provider>
@@ -45,7 +64,7 @@
       <file leaf-file-name="numbered-headings.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/articles/numbered-headings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="100" selection-start="6454" selection-end="6454" vertical-scroll-proportion="0.0" vertical-offset="1352" max-vertical-offset="2992">
+            <state line="100" column="100" selection-start="6454" selection-end="6454" vertical-scroll-proportion="0.0" vertical-offset="1700" max-vertical-offset="2992">
               <folding />
             </state>
           </provider>
@@ -54,7 +73,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="106" column="52" selection-start="5829" selection-end="5829" vertical-scroll-proportion="-20.73077" vertical-offset="1263" max-vertical-offset="3536">
+            <state line="24" column="14" selection-start="1196" selection-end="1196" vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="3536">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/articles/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="79" column="122" selection-start="4750" selection-end="4750" vertical-scroll-proportion="-4.5" vertical-offset="1226" max-vertical-offset="6256">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="40" selection-start="758" selection-end="758" vertical-scroll-proportion="0.27521792" vertical-offset="0" max-vertical-offset="6545">
               <folding />
             </state>
           </provider>
@@ -63,16 +100,34 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documentation/synergetic-schools-partnership/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="90" selection-start="4812" selection-end="4812" vertical-scroll-proportion="-14.923077" vertical-offset="904" max-vertical-offset="2244">
+            <state line="76" column="90" selection-start="4812" selection-end="4812" vertical-scroll-proportion="0.0" vertical-offset="904" max-vertical-offset="2244">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="documentation-example.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="documentation-example.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documentation/synergetic-schools-partnership/documentation-example.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="154" column="10" selection-start="9943" selection-end="9943" vertical-scroll-proportion="0.26718548" vertical-offset="2412" max-vertical-offset="3791">
+            <state line="171" column="39" selection-start="11136" selection-end="11136" vertical-scroll-proportion="-19.038462" vertical-offset="2412" max-vertical-offset="3791">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="89" column="24" selection-start="5686" selection-end="5686" vertical-scroll-proportion="-18.961538" vertical-offset="1020" max-vertical-offset="4012">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="illustrator-vector-background.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/articles/illustrator-vector-background.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="168" column="29" selection-start="10629" selection-end="10629" vertical-scroll-proportion="-7.6538463" vertical-offset="2657" max-vertical-offset="3978">
               <folding />
             </state>
           </provider>
@@ -81,7 +136,7 @@
       <file leaf-file-name="EmptyPageNoAside.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Supporting-do not upload/html templates/EmptyPageNoAside.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="42" selection-start="0" selection-end="5245" vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1870">
+            <state line="29" column="42" selection-start="0" selection-end="5245" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1870">
               <folding />
             </state>
           </provider>
@@ -123,7 +178,6 @@
         <option value="$PROJECT_DIR$/blog/articles/localising-with-single-sourcing.html" />
         <option value="$PROJECT_DIR$/blog/articles/introduction-to-single-sourcing.html" />
         <option value="$PROJECT_DIR$/blog/1504/index2.html" />
-        <option value="$PROJECT_DIR$/blog/articles/illustrator-vector-background.html" />
         <option value="$PROJECT_DIR$/blog/articles/illustrator-introduction-to-pen-tool.html" />
         <option value="$PROJECT_DIR$/blog/articles/illustrator-vector-text.html" />
         <option value="$PROJECT_DIR$/blog/articles/illustrator-vector-pen-tool.html" />
@@ -148,21 +202,22 @@
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/css/styles.min.css" />
         <option value="$PROJECT_DIR$/blog/articles/save-money-with-great-writing.html" />
-        <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/blog/1508/index2.html" />
         <option value="$PROJECT_DIR$/blog/1508/index.html" />
-        <option value="$PROJECT_DIR$/blog/articles/index.html" />
-        <option value="$PROJECT_DIR$/blog.xml" />
         <option value="$PROJECT_DIR$/blog/articles/numbered-headings.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/documentation/synergetic-schools-partnership/index.html" />
         <option value="$PROJECT_DIR$/documentation/synergetic-schools-partnership/documentation-example.html" />
+        <option value="$PROJECT_DIR$/blog/index.html" />
+        <option value="$PROJECT_DIR$/blog/articles/illustrator-vector-background.html" />
+        <option value="$PROJECT_DIR$/blog/articles/index.html" />
+        <option value="$PROJECT_DIR$/blog.xml" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1382" />
+    <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -250,24 +305,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Supporting-do not upload" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -300,10 +337,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="blog" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -318,25 +351,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KnowledgedocWebsite" />
+              <option name="myItemId" value="blog" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="documentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="synergetic-schools-partnership" />
+              <option name="myItemId" value="articles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -410,7 +429,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1382" height="1040" extended-state="0" />
+    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -418,7 +437,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944568" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23867069" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="128" y="140" width="417" height="591" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28159645" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="128" y="140" width="417" height="591" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -426,12 +445,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3877551" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3877551" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -523,11 +542,6 @@
     <entry file="file://$PROJECT_DIR$/blog/articles/illustrator-introduction-to-pen-tool.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="131" column="74" selection-start="8457" selection-end="8457" vertical-scroll-proportion="0.0" vertical-offset="2125" max-vertical-offset="3706" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/articles/illustrator-vector-text.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="217" column="281" selection-start="13757" selection-end="13757" vertical-scroll-proportion="0.0" vertical-offset="3689" max-vertical-offset="4658" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/articles/illustrator-vector-pen-tool.html">
@@ -625,11 +639,6 @@
         <state line="166" column="68" selection-start="11030" selection-end="11030" vertical-scroll-proportion="0.25879398" vertical-offset="2616" max-vertical-offset="3825" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/articles/illustrator-vector-background.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="105" selection-start="3863" selection-end="3928" vertical-scroll-proportion="0.34170854" vertical-offset="765" max-vertical-offset="3978" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/articles/tracking-website-statistics.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="69" column="154" selection-start="4261" selection-end="4508" vertical-scroll-proportion="0.6866585" vertical-offset="612" max-vertical-offset="3774" />
@@ -653,21 +662,6 @@
     <entry file="file://$PROJECT_DIR$/blog/1505/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="191" column="68" selection-start="13350" selection-end="13350" vertical-scroll-proportion="0.5552764" vertical-offset="2805" max-vertical-offset="4063" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="0" selection-start="5018" selection-end="5018" vertical-scroll-proportion="0.7474874" vertical-offset="765" max-vertical-offset="3859" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/articles/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="28" selection-start="4598" selection-end="4598" vertical-scroll-proportion="0.22888617" vertical-offset="1122" max-vertical-offset="6273" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="21" selection-start="1373" selection-end="1373" vertical-scroll-proportion="0.42348754" vertical-offset="0" max-vertical-offset="6375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/1508/index.html">
@@ -704,7 +698,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/articles/numbered-captions-and-pages.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="179" column="56" selection-start="11565" selection-end="11565" vertical-scroll-proportion="0.0" vertical-offset="2448" max-vertical-offset="4097">
+        <state line="179" column="56" selection-start="11565" selection-end="11565" vertical-scroll-proportion="-22.884615" vertical-offset="2448" max-vertical-offset="4097">
           <folding />
         </state>
       </provider>
@@ -716,37 +710,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="52" selection-start="5829" selection-end="5829" vertical-scroll-proportion="-20.73077" vertical-offset="1263" max-vertical-offset="3536">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Supporting-do not upload/html templates/EmptyPage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="88" selection-start="0" selection-end="5295" vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1989">
-          <folding />
-        </state>
+        <state line="29" column="88" selection-start="0" selection-end="5295" vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1989" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Supporting-do not upload/html templates/EmptyPageNoAside.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="42" selection-start="0" selection-end="5245" vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1870">
+        <state line="29" column="42" selection-start="0" selection-end="5245" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1870">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/documentation/synergetic-schools-partnership/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="90" selection-start="4812" selection-end="4812" vertical-scroll-proportion="-14.923077" vertical-offset="904" max-vertical-offset="2244">
+        <state line="76" column="90" selection-start="4812" selection-end="4812" vertical-scroll-proportion="0.0" vertical-offset="904" max-vertical-offset="2244">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/documentation/synergetic-schools-partnership/documentation-example.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="10" selection-start="9943" selection-end="9943" vertical-scroll-proportion="0.26718548" vertical-offset="2412" max-vertical-offset="3791">
+        <state line="171" column="39" selection-start="11136" selection-end="11136" vertical-scroll-proportion="-19.038462" vertical-offset="2412" max-vertical-offset="3791">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="24" selection-start="5686" selection-end="5686" vertical-scroll-proportion="-18.961538" vertical-offset="1020" max-vertical-offset="4012">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/articles/illustrator-vector-background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="168" column="29" selection-start="10629" selection-end="10629" vertical-scroll-proportion="-7.6538463" vertical-offset="2657" max-vertical-offset="3978">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="14" selection-start="1196" selection-end="1196" vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="3536">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/articles/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="122" selection-start="4750" selection-end="4750" vertical-scroll-proportion="-4.5" vertical-offset="1226" max-vertical-offset="6256">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/articles/illustrator-vector-text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="81" selection-start="4468" selection-end="4468" vertical-scroll-proportion="0.5604396" vertical-offset="748" max-vertical-offset="4658">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="40" selection-start="758" selection-end="758" vertical-scroll-proportion="0.27521792" vertical-offset="0" max-vertical-offset="6545">
           <folding />
         </state>
       </provider>
